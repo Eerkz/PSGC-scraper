@@ -82,13 +82,31 @@ if publication_link:
 
         # Add the requested columns based on geographic levels
         if level_name == "regions":
+            level_data["code"] = level_data["10-digit PSGC"].astype(
+                str).str[:2]
+            
             level_data["region_code"] = level_data["10-digit PSGC"].astype(
                 str).str[:2]
         elif level_name in ["provinces", "cities", "municipalities"]:
+            if level_name == "provinces":
+                level_data["code"] = level_data["10-digit PSGC"].astype(
+                str).str[:3]
+            elif level_name == "cities":
+                level_data["city_code"] = level_data["10-digit PSGC"].astype(
+                str).str[:2]
+                level_data["code"] = level_data["10-digit PSGC"].astype(
+                str).str[:2]
+            else:
+                level_data["city_code"] = level_data["10-digit PSGC"].astype(
+                str).str[:2]
+                level_data["code"] = level_data["10-digit PSGC"].astype(
+                str).str[:2]
+
             level_data["region_code"] = level_data["10-digit PSGC"].astype(
                 str).str[:2]
             level_data["province_code"] = level_data["10-digit PSGC"].astype(
                 str).str[:3]
+            
         elif level_name == "submunicipalities":
             level_data["region_code"] = level_data["10-digit PSGC"].astype(
                 str).str[:2]
@@ -96,7 +114,11 @@ if publication_link:
                 str).str[:3]
             level_data["municipality_code"] = level_data["10-digit PSGC"].astype(
                 str).str[:2]
+            
         elif level_name == "barangays":
+            level_data["code"] = level_data["10-digit PSGC"].astype(
+                str).str[-3:]
+            
             level_data["region_code"] = level_data["10-digit PSGC"].astype(
                 str).str[:2]
             level_data["province_code"] = level_data["10-digit PSGC"].astype(
@@ -107,8 +129,9 @@ if publication_link:
                 str).str[-3:]
 
         # Get the final list of columns to select
-        existing_columns = columns_to_select + \
-            [col for col in level_data.columns if col.endswith("_code")]
+        existing_columns = [col for col in columns_to_select if col != "10-digit PSGC" and col != "Status"] + \
+            [col for col in level_data.columns if col.endswith("_code") or col == "code"]
+
 
         # Select the columns that exist in the dataframe
         level_data = level_data[existing_columns]
