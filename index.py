@@ -15,8 +15,7 @@ if not os.path.exists(output_directory):
     os.makedirs(output_directory)
 
 # Columns to select from the "PSGC" sheet
-columns_to_select = ["10-digit PSGC", "Name", "Correspondence Code",
-                     "Geographic Level", "2020 Population", "Status"]
+columns_to_select = ["10-digit PSGC", "Name", "2020 Population", "Status"]
 
 # Make a request to the webpage and parse the HTML
 response = requests.get(baseURL)
@@ -48,7 +47,7 @@ if os.path.exists(output_path):
             latest_file_date = datetime.strptime(
                 file_date_match.group(), "%Y-%m-%d").date()
             if latest_update_date <= latest_file_date:
-                print("File is up to date. Exiting...")
+                print("Files are up to date. Exiting...")
                 exit()
         else:
             print(f"Invalid file name format: {latest_file_name}")
@@ -69,13 +68,53 @@ if publication_link:
     with open(file_path, "wb") as file:
         file.write(response.content)
 
-    # Convert XLSX to CSV and select specific columns
-    excel_data = pd.read_excel(
-        file_path, sheet_name="PSGC", usecols=columns_to_select)
-    csv_filename = os.path.splitext(filename)[0] + ".csv"
-    csv_filepath = os.path.join(output_path, csv_filename)
-    excel_data.to_csv(csv_filepath, index=False)
+    # Convert XLSX to separate CSV files for each geographic level
+    excel_data = pd.read_excel(file_path, sheet_name="PSGC")
 
-    print("File downloaded and converted to CSV successfully.")
+    # Convert XLSX to separate CSV files for each geographic level
+    for level_code, level_name in [("Bgy", "barangays"), ("Mun", "municipalities"), ("City", "cities"), ("Prov", "provinces"), ("Reg", "regions"), ("SubMun", "submunicipalities")]:
+        mask = excel_data["Geographic Level"].fillna("").astype(str).apply(
+            lambda x: x.strip().lower() if pd.notnull(x) else "") == level_code.lower()
+        # Make a copy to avoid SettingWithCopyWarning
+        level_data = excel_data[mask].copy()
+        level_filename = f"{level_name}_{today.strftime('%Y-%m-%d')}.csv"
+        level_filepath = os.path.join(output_path, level_filename)
+
+        # Add the requested columns based on geographic levels
+        if level_name == "regions":
+            level_data["region_code"] = level_data["10-digit PSGC"].astype(
+                str).str[:2]
+        elif level_name in ["provinces", "cities", "municipalities"]:
+            level_data["region_code"] = level_data["10-digit PSGC"].astype(
+                str).str[:2]
+            level_data["province_code"] = level_data["10-digit PSGC"].astype(
+                str).str[:3]
+        elif level_name == "submunicipalities":
+            level_data["region_code"] = level_data["10-digit PSGC"].astype(
+                str).str[:2]
+            level_data["province_code"] = level_data["10-digit PSGC"].astype(
+                str).str[:3]
+            level_data["municipality_code"] = level_data["10-digit PSGC"].astype(
+                str).str[:2]
+        elif level_name == "barangays":
+            level_data["region_code"] = level_data["10-digit PSGC"].astype(
+                str).str[:2]
+            level_data["province_code"] = level_data["10-digit PSGC"].astype(
+                str).str[:3]
+            level_data["municipality_code"] = level_data["10-digit PSGC"].astype(
+                str).str[:2]
+            level_data["barangay_code"] = level_data["10-digit PSGC"].astype(
+                str).str[-3:]
+
+        # Get the final list of columns to select
+        existing_columns = columns_to_select + \
+            [col for col in level_data.columns if col.endswith("_code")]
+
+        # Select the columns that exist in the dataframe
+        level_data = level_data[existing_columns]
+        level_data.to_csv(level_filepath, index=False)
+
+    print("Files downloaded and converted to CSV successfully.")
+
 else:
     print("Publication file not found.")

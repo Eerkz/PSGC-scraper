@@ -1,0 +1,149 @@
+10-digit PSGC,Name,2020 Population,Status,region_code,province_code
+102805000.0,City of Batac,55484,,10,102
+102812000.0,City of Laoag ,111651,Capital,10,102
+102906000.0,City of Candon,61432,,10,102
+102934000.0,City of Vigan ,53935,Capital,10,102
+103314000.0,City of San Fernando ,125640,Capital,10,103
+105503000.0,City of Alaminos,99397,,10,105
+105518000.0,City of Dagupan,174302,,10,105
+105532000.0,City of San Carlos,205424,,10,105
+105546000.0,City of Urdaneta,144577,,10,105
+201529000.0,Tuguegarao City ,166334,Capital,20,201
+203108000.0,City of Cauayan,143403,,20,203
+203114000.0,City of Ilagan ,158218,Capital,20,203
+203135000.0,City of Santiago,148580,,20,203
+300803000.0,City of Balanga ,104173,Capital,30,300
+301403000.0,City of Baliwag,168470,,30,301
+301410000.0,City of Malolos ,261189,Capital,30,301
+301412000.0,City of Meycauayan,225673,,30,301
+301420000.0,City of San Jose Del Monte,651813,,30,301
+304903000.0,City of Cabanatuan,327325,,30,304
+304908000.0,City of Gapan,122968,,30,304
+304917000.0,Science City of Muñoz,84308,,30,304
+304919000.0,City of Palayan ,45383,Capital,30,304
+304926000.0,San Jose City,150917,,30,304
+330100000.0,City of Angeles,462928,,33,330
+305409000.0,Mabalacat City,293244,,30,305
+305416000.0,City of San Fernando ,354666,Capital,30,305
+306916000.0,City of Tarlac ,385398,Capital,30,306
+331400000.0,City of Olongapo,260317,,33,331
+401005000.0,Batangas City ,351437,Capital,40,401
+401007000.0,City of Calaca,87361,,40,401
+401014000.0,City of Lipa,372931,,40,401
+401028000.0,City of Sto. Tomas,218500,,40,401
+401031000.0,City of Tanauan,193936,,40,401
+402103000.0,City of Bacoor,664625,,40,402
+402105000.0,City of Cavite,100674,,40,402
+402106000.0,City of Dasmariñas,703141,,40,402
+402108000.0,City of General Trias,450583,,40,402
+402109000.0,City of Imus,496794,,40,402
+402119000.0,City of Tagaytay,85330,,40,402
+402122000.0,City of Trece Martires ,210503,Capital,40,402
+403403000.0,City of Biñan,407437,,40,403
+403404000.0,City of Cabuyao,355330,,40,403
+403405000.0,City of Calamba,539671,,40,403
+403424000.0,City of San Pablo,285348,,40,403
+403425000.0,City of San Pedro,326001,,40,403
+403428000.0,City of Santa Rosa,414812,,40,403
+431200000.0,City of Lucena ,278924,Capital,43,431
+405647000.0,City of Tayabas,112658,,40,405
+405802000.0,City of Antipolo ,887399,Capital,40,405
+1705205000.0,City of Calapan ,145786,Capital,17,170
+1731500000.0,City of Puerto Princesa ,307079,Capital,17,173
+500506000.0,City of Legazpi ,209533,Capital,50,500
+500508000.0,City of Ligao,118096,,50,500
+500517000.0,City of Tabaco,140961,,50,500
+501716000.0,City of Iriga,114457,,50,501
+501724000.0,City of Naga,209170,,50,501
+504111000.0,City of Masbate ,104522,Capital,50,504
+506216000.0,City of Sorsogon ,182237,Capital,50,506
+601914000.0,City of Roxas ,179292,Capital,60,601
+631000000.0,City of Iloilo ,457626,Capital,63,631
+603035000.0,City of Passi,88873,,60,603
+630200000.0,City of Bacolod ,600783,Capital,63,630
+604502000.0,City of Bago,191210,,60,604
+604504000.0,City of Cadiz,158544,,60,604
+604509000.0,City of Escalante,96159,,60,604
+604510000.0,City of Himamaylan,116240,,60,604
+604515000.0,City of Kabankalan,200198,,60,604
+604516000.0,City of La Carlota,66664,,60,604
+604523000.0,City of Sagay,148894,,60,604
+604524000.0,City of San Carlos,132650,,60,604
+604526000.0,City of Silay,130478,,60,604
+604527000.0,City of Sipalay,72448,,60,604
+604528000.0,City of Talisay,108909,,60,604
+604531000.0,City of Victorias,90101,,60,604
+701242000.0,City of Tagbilaran ,104976,Capital,70,701
+702211000.0,City of Bogo,88867,,70,702
+702214000.0,City of Carcar,136453,,70,702
+730600000.0,City of Cebu ,964169,Capital,73,730
+702223000.0,Danao City,156321,,70,702
+731100000.0,City of Lapu-Lapu,497604,,73,731
+731300000.0,City of Mandaue,364116,,73,731
+702234000.0,City of Naga,133184,,70,702
+702250000.0,City of Talisay,263048,,70,702
+702251000.0,City of Toledo,207314,,70,702
+704604000.0,City of Bais,84317,,70,704
+704606000.0,City of Bayawan,122747,,70,704
+704608000.0,City of Canlaon,58822,,70,704
+704610000.0,City of Dumaguete ,134103,Capital,70,704
+704611000.0,City of Guihulngan,102656,,70,704
+704621000.0,City of Tanjay,82642,,70,704
+802604000.0,City of Borongan ,71961,Capital,80,802
+803708000.0,City of Baybay,111848,,80,803
+803738000.0,Ormoc City,230998,,80,803
+831600000.0,City of Tacloban ,251881,Capital,83,831
+806003000.0,City of Calbayog,186960,,80,806
+806005000.0,City of Catbalogan ,106440,Capital,80,806
+806407000.0,City of Maasin ,87446,Capital,80,806
+907201000.0,City of Dapitan,85202,,90,907
+907202000.0,City of Dipolog ,138141,Capital,90,907
+907322000.0,City of Pagadian ,210452,Capital,90,907
+931700000.0,City of Zamboanga,977234,,93,931
+990101000.0,City of Isabela,130379,,99,990
+1001312000.0,City of Malaybalay ,190712,Capital,10,100
+1001321000.0,City of Valencia,216546,,10,100
+1030900000.0,City of Iligan,363115,,10,103
+1004209000.0,City of Oroquieta ,72301,Capital,10,100
+1004210000.0,City of Ozamiz,140334,,10,100
+1004215000.0,City of Tangub,68389,,10,100
+1030500000.0,City of Cagayan De Oro ,728402,Capital,10,103
+1004307000.0,City of El Salvador,58771,,10,100
+1004308000.0,City of Gingoog,136698,,10,100
+1102315000.0,City of Panabo,209230,,11,110
+1102317000.0,Island Garden City of Samal,116771,,11,110
+1102319000.0,City of Tagum ,296202,Capital,11,110
+1130700000.0,City of Davao,1776949,,11,113
+1102403000.0,City of Digos ,188376,Capital,11,110
+1102509000.0,City of Mati ,147547,Capital,11,110
+1204704000.0,City of Kidapawan ,160791,Capital,12,120
+1230800000.0,City of General Santos,697315,,12,123
+1206306000.0,City of Koronadal ,195398,Capital,12,120
+1206511000.0,City of Tacurong,109319,,12,120
+1380600000.0,City of Manila,1846513,,13,138
+1380500000.0,City of Mandaluyong,425758,,13,138
+1380700000.0,City of Marikina,456059,,13,138
+1381200000.0,City of Pasig,803159,,13,138
+1381300000.0,Quezon City,2960048,,13,138
+1381400000.0,City of San Juan,126347,,13,138
+1380100000.0,City of Caloocan,1661584,,13,138
+1380400000.0,City of Malabon,380522,,13,138
+1380900000.0,City of Navotas,247543,,13,138
+1381600000.0,City of Valenzuela,714978,,13,138
+1380200000.0,City of Las Piñas,606293,,13,138
+1380300000.0,City of Makati,629616,,13,138
+1380800000.0,City of Muntinlupa,543445,,13,138
+1381000000.0,City of Parañaque,689992,,13,138
+1381100000.0,Pasay City,440656,,13,138
+1381500000.0,City of Taguig,886722,,13,138
+1430300000.0,City of Baguio,366358,,14,143
+1403213000.0,City of Tabuk ,121033,Capital,14,140
+1630400000.0,City of Butuan ,372910,Capital,16,163
+1600203000.0,City of Cabadbaran,80354,,16,160
+1600301000.0,City of Bayugan,109499,,16,160
+1606724000.0,City of Surigao ,171107,Capital,16,160
+1606803000.0,City of Bislig,99290,,16,160
+1606819000.0,City of Tandag ,62669,Capital,16,160
+1900702000.0,City of Lamitan ,100150,Capital,19,190
+1903617000.0,City of Marawi ,207010,Capital,19,190
+1908703000.0,City of Cotabato,325079,,19,190
