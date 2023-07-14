@@ -79,6 +79,9 @@ if publication_link:
         level_data = excel_data[mask].copy()
         level_filename = f"{level_name}_{today.strftime('%Y-%m-%d')}.csv"
         level_filepath = os.path.join(output_path, level_filename)
+        
+        level_data["population"] = level_data["2020 Population"]
+        level_data["name"] = level_data["Name"]
 
         # Add the requested columns based on geographic levels
         if level_name == "regions":
@@ -129,8 +132,8 @@ if publication_link:
                 str).str[-3:]
 
         # Get the final list of columns to select
-        existing_columns = [col for col in columns_to_select if col != "10-digit PSGC" and col != "Status"] + \
-            [col for col in level_data.columns if col.endswith("_code") or col == "code"]
+        existing_columns = [col for col in columns_to_select if col not in ["10-digit PSGC","2020 Population", "Status", "Name"] ] + \
+            [col for col in level_data.columns if col.endswith("_code") or col in ["name", "population","code"]]
 
 
         # Select the columns that exist in the dataframe
