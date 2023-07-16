@@ -1,0 +1,83 @@
+population,name,code,region_code
+609588,Ilocos Norte,102,10
+706009,Ilocos Sur,102,10
+822352,La Union,103,10
+3163190,Pangasinan,105,10
+18831,Batanes,200,20
+1268603,Cagayan,201,20
+1697050,Isabela,203,20
+497432,Nueva Vizcaya,205,20
+203828,Quirino,205,20
+853373,Bataan,300,30
+3708890,Bulacan,301,30
+2310134,Nueva Ecija,304,30
+"(excluding CITY OF ANGELES) 2,437,709",Pampanga,305,30
+1503456,Tarlac,306,30
+"(excluding CITY OF OLONGAPO) 649,615",Zambales,307,30
+235750,Aurora,307,30
+2908494,Batangas,401,40
+4344829,Cavite,402,40
+3382193,Laguna,403,40
+"(excluding CITY OF LUCENA) 1,950,459",Quezon,405,40
+3330143,Rizal,405,40
+239207,Marinduque,170,17
+525354,Occidental Mindoro,170,17
+908339,Oriental Mindoro,170,17
+"(excluding CITY OF PUERTO PRINCESA) 939,594",Palawan,170,17
+308985,Romblon,170,17
+1374768,Albay,500,50
+629699,Camarines Norte,501,50
+2068244,Camarines Sur,501,50
+271879,Catanduanes,502,50
+908920,Masbate,504,50
+828655,Sorsogon,506,50
+615475,Aklan,600,60
+612974,Antique,600,60
+804952,Capiz,601,60
+"(excluding ILOILO CITY) 2,051,899",Iloilo,603,60
+"(excluding CITY OF BACOLOD)  2,623,172",Negros Occidental,604,60
+187842,Guimaras,607,60
+1394329,Bohol,701,70
+"(excluding the cities of CEBU, LAPU-LAPU, AND MANDAUE) 3,325,385",Cebu,702,70
+1432990,Negros Oriental,704,70
+103395,Siquijor,706,70
+477168,Eastern Samar,802,80
+"(excluding CITY OF TACLOBAN) 1,776,847",Leyte,803,80
+639186,Northern Samar,804,80
+793183,Samar,806,80
+429573,Southern Leyte,806,80
+179312,Biliran,807,80
+1047455,Zamboanga del Norte,907,90
+"(excluding  CITY OF ZAMBOANGA) 1,050,668",Zamboanga del Sur,907,90
+669840,Zamboanga Sibugay,908,90
+1541308,Bukidnon,100,10
+92808,Camiguin,100,10
+"(excluding CITY OF ILIGAN) 722,902",Lanao del Norte,100,10
+617333,Misamis Occidental,100,10
+"(excluding CITY OF CAGAYAN DE ORO) 956,900",Misamis Oriental,100,10
+1125057,Davao del Norte,110,11
+"(excluding CITY OF DAVAO) 680,481",Davao del Sur,110,11
+576343,Davao Oriental,110,11
+767547,Davao de Oro,110,11
+317159,Davao Occidental,110,11
+1490618,Cotabato,120,12
+"(excluding CITY OF GENERAL SANTOS) 975,476",South Cotabato,120,12
+854052,Sultan Kudarat,120,12
+558946,Sarangani,120,12
+250985,Abra,140,14
+"(excluding BAGUIO CITY) 460,683",Benguet,140,14
+207498,Ifugao,140,14
+229570,Kalinga,140,14
+158200,Mountain Province,140,14
+124366,Apayao,140,14
+"(excluding CITY OF BUTUAN) 387,503",Agusan del Norte,160,16
+739367,Agusan del Sur,160,16
+534636,Surigao del Norte,160,16
+642255,Surigao del Sur,160,16
+128117,Dinagat Islands,160,16
+"(excluding CITY OF ISABELA) 426,207",Basilan,190,19
+1195518,Lanao del Sur,190,19
+1000108,Sulu,190,19
+440276,Tawi-Tawi,190,19
+"(excluding COTOBATO CITY) 618,421",Maguindanao del Norte,190,19
+723758,Maguindanao del Sur,190,19

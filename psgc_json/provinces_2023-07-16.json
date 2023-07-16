@@ -1,0 +1,494 @@
+[
+    {
+        "population": 609588,
+        "name": "Ilocos Norte",
+        "code": "102",
+        "region_code": "10"
+    },
+    {
+        "population": 706009,
+        "name": "Ilocos Sur",
+        "code": "102",
+        "region_code": "10"
+    },
+    {
+        "population": 822352,
+        "name": "La Union",
+        "code": "103",
+        "region_code": "10"
+    },
+    {
+        "population": 3163190,
+        "name": "Pangasinan",
+        "code": "105",
+        "region_code": "10"
+    },
+    {
+        "population": 18831,
+        "name": "Batanes",
+        "code": "200",
+        "region_code": "20"
+    },
+    {
+        "population": 1268603,
+        "name": "Cagayan",
+        "code": "201",
+        "region_code": "20"
+    },
+    {
+        "population": 1697050,
+        "name": "Isabela",
+        "code": "203",
+        "region_code": "20"
+    },
+    {
+        "population": 497432,
+        "name": "Nueva Vizcaya",
+        "code": "205",
+        "region_code": "20"
+    },
+    {
+        "population": 203828,
+        "name": "Quirino",
+        "code": "205",
+        "region_code": "20"
+    },
+    {
+        "population": 853373,
+        "name": "Bataan",
+        "code": "300",
+        "region_code": "30"
+    },
+    {
+        "population": 3708890,
+        "name": "Bulacan",
+        "code": "301",
+        "region_code": "30"
+    },
+    {
+        "population": 2310134,
+        "name": "Nueva Ecija",
+        "code": "304",
+        "region_code": "30"
+    },
+    {
+        "population": "(excluding CITY OF ANGELES) 2,437,709",
+        "name": "Pampanga",
+        "code": "305",
+        "region_code": "30"
+    },
+    {
+        "population": 1503456,
+        "name": "Tarlac",
+        "code": "306",
+        "region_code": "30"
+    },
+    {
+        "population": "(excluding CITY OF OLONGAPO) 649,615",
+        "name": "Zambales",
+        "code": "307",
+        "region_code": "30"
+    },
+    {
+        "population": 235750,
+        "name": "Aurora",
+        "code": "307",
+        "region_code": "30"
+    },
+    {
+        "population": 2908494,
+        "name": "Batangas",
+        "code": "401",
+        "region_code": "40"
+    },
+    {
+        "population": 4344829,
+        "name": "Cavite",
+        "code": "402",
+        "region_code": "40"
+    },
+    {
+        "population": 3382193,
+        "name": "Laguna",
+        "code": "403",
+        "region_code": "40"
+    },
+    {
+        "population": "(excluding CITY OF LUCENA) 1,950,459",
+        "name": "Quezon",
+        "code": "405",
+        "region_code": "40"
+    },
+    {
+        "population": 3330143,
+        "name": "Rizal",
+        "code": "405",
+        "region_code": "40"
+    },
+    {
+        "population": 239207,
+        "name": "Marinduque",
+        "code": "170",
+        "region_code": "17"
+    },
+    {
+        "population": 525354,
+        "name": "Occidental Mindoro",
+        "code": "170",
+        "region_code": "17"
+    },
+    {
+        "population": 908339,
+        "name": "Oriental Mindoro",
+        "code": "170",
+        "region_code": "17"
+    },
+    {
+        "population": "(excluding CITY OF PUERTO PRINCESA) 939,594",
+        "name": "Palawan",
+        "code": "170",
+        "region_code": "17"
+    },
+    {
+        "population": 308985,
+        "name": "Romblon",
+        "code": "170",
+        "region_code": "17"
+    },
+    {
+        "population": 1374768,
+        "name": "Albay",
+        "code": "500",
+        "region_code": "50"
+    },
+    {
+        "population": 629699,
+        "name": "Camarines Norte",
+        "code": "501",
+        "region_code": "50"
+    },
+    {
+        "population": 2068244,
+        "name": "Camarines Sur",
+        "code": "501",
+        "region_code": "50"
+    },
+    {
+        "population": 271879,
+        "name": "Catanduanes",
+        "code": "502",
+        "region_code": "50"
+    },
+    {
+        "population": 908920,
+        "name": "Masbate",
+        "code": "504",
+        "region_code": "50"
+    },
+    {
+        "population": 828655,
+        "name": "Sorsogon",
+        "code": "506",
+        "region_code": "50"
+    },
+    {
+        "population": 615475,
+        "name": "Aklan",
+        "code": "600",
+        "region_code": "60"
+    },
+    {
+        "population": 612974,
+        "name": "Antique",
+        "code": "600",
+        "region_code": "60"
+    },
+    {
+        "population": 804952,
+        "name": "Capiz",
+        "code": "601",
+        "region_code": "60"
+    },
+    {
+        "population": "(excluding ILOILO CITY) 2,051,899",
+        "name": "Iloilo",
+        "code": "603",
+        "region_code": "60"
+    },
+    {
+        "population": "(excluding CITY OF BACOLOD)  2,623,172",
+        "name": "Negros Occidental",
+        "code": "604",
+        "region_code": "60"
+    },
+    {
+        "population": 187842,
+        "name": "Guimaras",
+        "code": "607",
+        "region_code": "60"
+    },
+    {
+        "population": 1394329,
+        "name": "Bohol",
+        "code": "701",
+        "region_code": "70"
+    },
+    {
+        "population": "(excluding the cities of CEBU, LAPU-LAPU, AND MANDAUE) 3,325,385",
+        "name": "Cebu",
+        "code": "702",
+        "region_code": "70"
+    },
+    {
+        "population": 1432990,
+        "name": "Negros Oriental",
+        "code": "704",
+        "region_code": "70"
+    },
+    {
+        "population": 103395,
+        "name": "Siquijor",
+        "code": "706",
+        "region_code": "70"
+    },
+    {
+        "population": 477168,
+        "name": "Eastern Samar",
+        "code": "802",
+        "region_code": "80"
+    },
+    {
+        "population": "(excluding CITY OF TACLOBAN) 1,776,847",
+        "name": "Leyte",
+        "code": "803",
+        "region_code": "80"
+    },
+    {
+        "population": 639186,
+        "name": "Northern Samar",
+        "code": "804",
+        "region_code": "80"
+    },
+    {
+        "population": 793183,
+        "name": "Samar",
+        "code": "806",
+        "region_code": "80"
+    },
+    {
+        "population": 429573,
+        "name": "Southern Leyte",
+        "code": "806",
+        "region_code": "80"
+    },
+    {
+        "population": 179312,
+        "name": "Biliran",
+        "code": "807",
+        "region_code": "80"
+    },
+    {
+        "population": 1047455,
+        "name": "Zamboanga del Norte",
+        "code": "907",
+        "region_code": "90"
+    },
+    {
+        "population": "(excluding  CITY OF ZAMBOANGA) 1,050,668",
+        "name": "Zamboanga del Sur",
+        "code": "907",
+        "region_code": "90"
+    },
+    {
+        "population": 669840,
+        "name": "Zamboanga Sibugay",
+        "code": "908",
+        "region_code": "90"
+    },
+    {
+        "population": 1541308,
+        "name": "Bukidnon",
+        "code": "100",
+        "region_code": "10"
+    },
+    {
+        "population": 92808,
+        "name": "Camiguin",
+        "code": "100",
+        "region_code": "10"
+    },
+    {
+        "population": "(excluding CITY OF ILIGAN) 722,902",
+        "name": "Lanao del Norte",
+        "code": "100",
+        "region_code": "10"
+    },
+    {
+        "population": 617333,
+        "name": "Misamis Occidental",
+        "code": "100",
+        "region_code": "10"
+    },
+    {
+        "population": "(excluding CITY OF CAGAYAN DE ORO) 956,900",
+        "name": "Misamis Oriental",
+        "code": "100",
+        "region_code": "10"
+    },
+    {
+        "population": 1125057,
+        "name": "Davao del Norte",
+        "code": "110",
+        "region_code": "11"
+    },
+    {
+        "population": "(excluding CITY OF DAVAO) 680,481",
+        "name": "Davao del Sur",
+        "code": "110",
+        "region_code": "11"
+    },
+    {
+        "population": 576343,
+        "name": "Davao Oriental",
+        "code": "110",
+        "region_code": "11"
+    },
+    {
+        "population": 767547,
+        "name": "Davao de Oro",
+        "code": "110",
+        "region_code": "11"
+    },
+    {
+        "population": 317159,
+        "name": "Davao Occidental",
+        "code": "110",
+        "region_code": "11"
+    },
+    {
+        "population": 1490618,
+        "name": "Cotabato",
+        "code": "120",
+        "region_code": "12"
+    },
+    {
+        "population": "(excluding CITY OF GENERAL SANTOS) 975,476",
+        "name": "South Cotabato",
+        "code": "120",
+        "region_code": "12"
+    },
+    {
+        "population": 854052,
+        "name": "Sultan Kudarat",
+        "code": "120",
+        "region_code": "12"
+    },
+    {
+        "population": 558946,
+        "name": "Sarangani",
+        "code": "120",
+        "region_code": "12"
+    },
+    {
+        "population": 250985,
+        "name": "Abra",
+        "code": "140",
+        "region_code": "14"
+    },
+    {
+        "population": "(excluding BAGUIO CITY) 460,683",
+        "name": "Benguet",
+        "code": "140",
+        "region_code": "14"
+    },
+    {
+        "population": 207498,
+        "name": "Ifugao",
+        "code": "140",
+        "region_code": "14"
+    },
+    {
+        "population": 229570,
+        "name": "Kalinga",
+        "code": "140",
+        "region_code": "14"
+    },
+    {
+        "population": 158200,
+        "name": "Mountain Province",
+        "code": "140",
+        "region_code": "14"
+    },
+    {
+        "population": 124366,
+        "name": "Apayao",
+        "code": "140",
+        "region_code": "14"
+    },
+    {
+        "population": "(excluding CITY OF BUTUAN) 387,503",
+        "name": "Agusan del Norte",
+        "code": "160",
+        "region_code": "16"
+    },
+    {
+        "population": 739367,
+        "name": "Agusan del Sur",
+        "code": "160",
+        "region_code": "16"
+    },
+    {
+        "population": 534636,
+        "name": "Surigao del Norte",
+        "code": "160",
+        "region_code": "16"
+    },
+    {
+        "population": 642255,
+        "name": "Surigao del Sur",
+        "code": "160",
+        "region_code": "16"
+    },
+    {
+        "population": 128117,
+        "name": "Dinagat Islands",
+        "code": "160",
+        "region_code": "16"
+    },
+    {
+        "population": "(excluding CITY OF ISABELA) 426,207",
+        "name": "Basilan",
+        "code": "190",
+        "region_code": "19"
+    },
+    {
+        "population": 1195518,
+        "name": "Lanao del Sur",
+        "code": "190",
+        "region_code": "19"
+    },
+    {
+        "population": 1000108,
+        "name": "Sulu",
+        "code": "190",
+        "region_code": "19"
+    },
+    {
+        "population": 440276,
+        "name": "Tawi-Tawi",
+        "code": "190",
+        "region_code": "19"
+    },
+    {
+        "population": "(excluding COTOBATO CITY) 618,421",
+        "name": "Maguindanao del Norte",
+        "code": "190",
+        "region_code": "19"
+    },
+    {
+        "population": 723758,
+        "name": "Maguindanao del Sur",
+        "code": "190",
+        "region_code": "19"
+    }
+]

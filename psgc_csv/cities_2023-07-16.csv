@@ -1,0 +1,149 @@
+population,name,city_code,code,province_code,region_code
+55484,City of Batac,10,10,102,10
+111651,City of Laoag ,10,10,102,10
+61432,City of Candon,10,10,102,10
+53935,City of Vigan ,10,10,102,10
+125640,City of San Fernando ,10,10,103,10
+99397,City of Alaminos,10,10,105,10
+174302,City of Dagupan,10,10,105,10
+205424,City of San Carlos,10,10,105,10
+144577,City of Urdaneta,10,10,105,10
+166334,Tuguegarao City ,20,20,201,20
+143403,City of Cauayan,20,20,203,20
+158218,City of Ilagan ,20,20,203,20
+148580,City of Santiago,20,20,203,20
+104173,City of Balanga ,30,30,300,30
+168470,City of Baliwag,30,30,301,30
+261189,City of Malolos ,30,30,301,30
+225673,City of Meycauayan,30,30,301,30
+651813,City of San Jose Del Monte,30,30,301,30
+327325,City of Cabanatuan,30,30,304,30
+122968,City of Gapan,30,30,304,30
+84308,Science City of Muñoz,30,30,304,30
+45383,City of Palayan ,30,30,304,30
+150917,San Jose City,30,30,304,30
+462928,City of Angeles,33,33,330,33
+293244,Mabalacat City,30,30,305,30
+354666,City of San Fernando ,30,30,305,30
+385398,City of Tarlac ,30,30,306,30
+260317,City of Olongapo,33,33,331,33
+351437,Batangas City ,40,40,401,40
+87361,City of Calaca,40,40,401,40
+372931,City of Lipa,40,40,401,40
+218500,City of Sto. Tomas,40,40,401,40
+193936,City of Tanauan,40,40,401,40
+664625,City of Bacoor,40,40,402,40
+100674,City of Cavite,40,40,402,40
+703141,City of Dasmariñas,40,40,402,40
+450583,City of General Trias,40,40,402,40
+496794,City of Imus,40,40,402,40
+85330,City of Tagaytay,40,40,402,40
+210503,City of Trece Martires ,40,40,402,40
+407437,City of Biñan,40,40,403,40
+355330,City of Cabuyao,40,40,403,40
+539671,City of Calamba,40,40,403,40
+285348,City of San Pablo,40,40,403,40
+326001,City of San Pedro,40,40,403,40
+414812,City of Santa Rosa,40,40,403,40
+278924,City of Lucena ,43,43,431,43
+112658,City of Tayabas,40,40,405,40
+887399,City of Antipolo ,40,40,405,40
+145786,City of Calapan ,17,17,170,17
+307079,City of Puerto Princesa ,17,17,173,17
+209533,City of Legazpi ,50,50,500,50
+118096,City of Ligao,50,50,500,50
+140961,City of Tabaco,50,50,500,50
+114457,City of Iriga,50,50,501,50
+209170,City of Naga,50,50,501,50
+104522,City of Masbate ,50,50,504,50
+182237,City of Sorsogon ,50,50,506,50
+179292,City of Roxas ,60,60,601,60
+457626,City of Iloilo ,63,63,631,63
+88873,City of Passi,60,60,603,60
+600783,City of Bacolod ,63,63,630,63
+191210,City of Bago,60,60,604,60
+158544,City of Cadiz,60,60,604,60
+96159,City of Escalante,60,60,604,60
+116240,City of Himamaylan,60,60,604,60
+200198,City of Kabankalan,60,60,604,60
+66664,City of La Carlota,60,60,604,60
+148894,City of Sagay,60,60,604,60
+132650,City of San Carlos,60,60,604,60
+130478,City of Silay,60,60,604,60
+72448,City of Sipalay,60,60,604,60
+108909,City of Talisay,60,60,604,60
+90101,City of Victorias,60,60,604,60
+104976,City of Tagbilaran ,70,70,701,70
+88867,City of Bogo,70,70,702,70
+136453,City of Carcar,70,70,702,70
+964169,City of Cebu ,73,73,730,73
+156321,Danao City,70,70,702,70
+497604,City of Lapu-Lapu,73,73,731,73
+364116,City of Mandaue,73,73,731,73
+133184,City of Naga,70,70,702,70
+263048,City of Talisay,70,70,702,70
+207314,City of Toledo,70,70,702,70
+84317,City of Bais,70,70,704,70
+122747,City of Bayawan,70,70,704,70
+58822,City of Canlaon,70,70,704,70
+134103,City of Dumaguete ,70,70,704,70
+102656,City of Guihulngan,70,70,704,70
+82642,City of Tanjay,70,70,704,70
+71961,City of Borongan ,80,80,802,80
+111848,City of Baybay,80,80,803,80
+230998,Ormoc City,80,80,803,80
+251881,City of Tacloban ,83,83,831,83
+186960,City of Calbayog,80,80,806,80
+106440,City of Catbalogan ,80,80,806,80
+87446,City of Maasin ,80,80,806,80
+85202,City of Dapitan,90,90,907,90
+138141,City of Dipolog ,90,90,907,90
+210452,City of Pagadian ,90,90,907,90
+977234,City of Zamboanga,93,93,931,93
+130379,City of Isabela,99,99,990,99
+190712,City of Malaybalay ,10,10,100,10
+216546,City of Valencia,10,10,100,10
+363115,City of Iligan,10,10,103,10
+72301,City of Oroquieta ,10,10,100,10
+140334,City of Ozamiz,10,10,100,10
+68389,City of Tangub,10,10,100,10
+728402,City of Cagayan De Oro ,10,10,103,10
+58771,City of El Salvador,10,10,100,10
+136698,City of Gingoog,10,10,100,10
+209230,City of Panabo,11,11,110,11
+116771,Island Garden City of Samal,11,11,110,11
+296202,City of Tagum ,11,11,110,11
+1776949,City of Davao,11,11,113,11
+188376,City of Digos ,11,11,110,11
+147547,City of Mati ,11,11,110,11
+160791,City of Kidapawan ,12,12,120,12
+697315,City of General Santos,12,12,123,12
+195398,City of Koronadal ,12,12,120,12
+109319,City of Tacurong,12,12,120,12
+1846513,City of Manila,13,13,138,13
+425758,City of Mandaluyong,13,13,138,13
+456059,City of Marikina,13,13,138,13
+803159,City of Pasig,13,13,138,13
+2960048,Quezon City,13,13,138,13
+126347,City of San Juan,13,13,138,13
+1661584,City of Caloocan,13,13,138,13
+380522,City of Malabon,13,13,138,13
+247543,City of Navotas,13,13,138,13
+714978,City of Valenzuela,13,13,138,13
+606293,City of Las Piñas,13,13,138,13
+629616,City of Makati,13,13,138,13
+543445,City of Muntinlupa,13,13,138,13
+689992,City of Parañaque,13,13,138,13
+440656,Pasay City,13,13,138,13
+886722,City of Taguig,13,13,138,13
+366358,City of Baguio,14,14,143,14
+121033,City of Tabuk ,14,14,140,14
+372910,City of Butuan ,16,16,163,16
+80354,City of Cabadbaran,16,16,160,16
+109499,City of Bayugan,16,16,160,16
+171107,City of Surigao ,16,16,160,16
+99290,City of Bislig,16,16,160,16
+62669,City of Tandag ,16,16,160,16
+100150,City of Lamitan ,19,19,190,19
+207010,City of Marawi ,19,19,190,19
+325079,City of Cotabato,19,19,190,19

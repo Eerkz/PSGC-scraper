@@ -4,15 +4,21 @@ from datetime import date, datetime
 import os
 import pandas as pd
 import re
+import json
 
 # Base URL and file base URL
 baseURL = "https://psa.gov.ph/classification/psgc/?q=psgc/"
 fileBaseURL = "https://psa.gov.ph"
 
 # Create a directory to save the files if it doesn't exist
-output_directory = "psgc_files"
+output_directory = "psgc_csv"
 if not os.path.exists(output_directory):
     os.makedirs(output_directory)
+
+# Create a directory to save the JSON files if it doesn't exist
+json_directory = "psgc_json"
+if not os.path.exists(json_directory):
+    os.makedirs(json_directory)
 
 # Columns to select from the "PSGC" sheet
 columns_to_select = ["10-digit PSGC", "Name", "2020 Population", "Status"]
@@ -68,18 +74,28 @@ if publication_link:
     with open(file_path, "wb") as file:
         file.write(response.content)
 
-    # Convert XLSX to separate CSV files for each geographic level
+    # Convert XLSX to separate CSV and JSON files for each geographic level
     excel_data = pd.read_excel(file_path, sheet_name="PSGC")
 
-    # Convert XLSX to separate CSV files for each geographic level
-    for level_code, level_name in [("Bgy", "barangays"), ("Mun", "municipalities"), ("City", "cities"), ("Prov", "provinces"), ("Reg", "regions"), ("SubMun", "submunicipalities")]:
+    for level_code, level_name in [
+        ("Bgy", "barangays"),
+        ("Mun", "municipalities"),
+        ("City", "cities"),
+        ("Prov", "provinces"),
+        ("Reg", "regions"),
+        ("SubMun", "submunicipalities")
+    ]:
         mask = excel_data["Geographic Level"].fillna("").astype(str).apply(
             lambda x: x.strip().lower() if pd.notnull(x) else "") == level_code.lower()
-        # Make a copy to avoid SettingWithCopyWarning
         level_data = excel_data[mask].copy()
-        level_filename = f"{level_name}_{today.strftime('%Y-%m-%d')}.csv"
-        level_filepath = os.path.join(output_path, level_filename)
-        
+
+        level_filename = f"{level_name}_{today.strftime('%Y-%m-%d')}"
+        csv_filename = f"{level_filename}.csv"
+        json_filename = f"{level_filename}.json"
+
+        csv_filepath = os.path.join(output_directory, csv_filename)
+        json_filepath = os.path.join(json_directory, json_filename)
+
         level_data["population"] = level_data["2020 Population"]
         level_data["name"] = level_data["Name"]
 
@@ -87,29 +103,27 @@ if publication_link:
         if level_name == "regions":
             level_data["code"] = level_data["10-digit PSGC"].astype(
                 str).str[:2]
-            
-            level_data["region_code"] = level_data["10-digit PSGC"].astype(
-                str).str[:2]
+
         elif level_name in ["provinces", "cities", "municipalities"]:
             if level_name == "provinces":
                 level_data["code"] = level_data["10-digit PSGC"].astype(
-                str).str[:3]
+                    str).str[:3]
             elif level_name == "cities":
                 level_data["city_code"] = level_data["10-digit PSGC"].astype(
-                str).str[:2]
+                    str).str[:2]
                 level_data["code"] = level_data["10-digit PSGC"].astype(
-                str).str[:2]
+                    str).str[:2]
+                level_data["province_code"] = level_data["10-digit PSGC"].astype(
+                    str).str[:3]
             else:
                 level_data["city_code"] = level_data["10-digit PSGC"].astype(
-                str).str[:2]
+                    str).str[:2]
                 level_data["code"] = level_data["10-digit PSGC"].astype(
-                str).str[:2]
-
+                    str).str[:2]
+                level_data["province_code"] = level_data["10-digit PSGC"].astype(
+                    str).str[:3]
             level_data["region_code"] = level_data["10-digit PSGC"].astype(
                 str).str[:2]
-            level_data["province_code"] = level_data["10-digit PSGC"].astype(
-                str).str[:3]
-            
         elif level_name == "submunicipalities":
             level_data["region_code"] = level_data["10-digit PSGC"].astype(
                 str).str[:2]
@@ -117,30 +131,37 @@ if publication_link:
                 str).str[:3]
             level_data["municipality_code"] = level_data["10-digit PSGC"].astype(
                 str).str[:2]
-            
+
         elif level_name == "barangays":
             level_data["code"] = level_data["10-digit PSGC"].astype(
-                str).str[-3:]
-            
+                int).astype(str).str[-3:].str.lstrip("0")
             level_data["region_code"] = level_data["10-digit PSGC"].astype(
                 str).str[:2]
             level_data["province_code"] = level_data["10-digit PSGC"].astype(
                 str).str[:3]
             level_data["municipality_code"] = level_data["10-digit PSGC"].astype(
                 str).str[:2]
-            level_data["barangay_code"] = level_data["10-digit PSGC"].astype(
-                str).str[-3:]
 
         # Get the final list of columns to select
-        existing_columns = [col for col in columns_to_select if col not in ["10-digit PSGC","2020 Population", "Status", "Name"] ] + \
-            [col for col in level_data.columns if col.endswith("_code") or col in ["name", "population","code"]]
-
+        existing_columns = [col for col in columns_to_select if col not in ["10-digit PSGC", "2020 Population", "Status", "Name"]] + \
+                           [col for col in level_data.columns if col.endswith(
+                               "_code") or col in ["name", "population", "code"]]
 
         # Select the columns that exist in the dataframe
         level_data = level_data[existing_columns]
-        level_data.to_csv(level_filepath, index=False)
 
-    print("Files downloaded and converted to CSV successfully.")
+        # Convert NaN values to None
+        level_data = level_data.where(pd.notnull(level_data), None)
+
+        # Save as CSV
+        level_data.to_csv(csv_filepath, index=False)
+
+        # Save as JSON with pretty formatting
+        json_data = level_data.to_dict(orient="records")
+        with open(json_filepath, "w") as json_file:
+            json.dump(json_data, json_file, indent=4)
+
+    print("Files downloaded and converted to CSV and JSON successfully.")
 
 else:
     print("Publication file not found.")

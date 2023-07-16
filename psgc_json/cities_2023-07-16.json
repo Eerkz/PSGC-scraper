@@ -1,0 +1,1186 @@
+[
+    {
+        "population": 55484,
+        "name": "City of Batac",
+        "city_code": "10",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "population": 111651,
+        "name": "City of Laoag ",
+        "city_code": "10",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "population": 61432,
+        "name": "City of Candon",
+        "city_code": "10",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "population": 53935,
+        "name": "City of Vigan ",
+        "city_code": "10",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "population": 125640,
+        "name": "City of San Fernando ",
+        "city_code": "10",
+        "code": "10",
+        "province_code": "103",
+        "region_code": "10"
+    },
+    {
+        "population": 99397,
+        "name": "City of Alaminos",
+        "city_code": "10",
+        "code": "10",
+        "province_code": "105",
+        "region_code": "10"
+    },
+    {
+        "population": 174302,
+        "name": "City of Dagupan",
+        "city_code": "10",
+        "code": "10",
+        "province_code": "105",
+        "region_code": "10"
+    },
+    {
+        "population": 205424,
+        "name": "City of San Carlos",
+        "city_code": "10",
+        "code": "10",
+        "province_code": "105",
+        "region_code": "10"
+    },
+    {
+        "population": 144577,
+        "name": "City of Urdaneta",
+        "city_code": "10",
+        "code": "10",
+        "province_code": "105",
+        "region_code": "10"
+    },
+    {
+        "population": 166334,
+        "name": "Tuguegarao City ",
+        "city_code": "20",
+        "code": "20",
+        "province_code": "201",
+        "region_code": "20"
+    },
+    {
+        "population": 143403,
+        "name": "City of Cauayan",
+        "city_code": "20",
+        "code": "20",
+        "province_code": "203",
+        "region_code": "20"
+    },
+    {
+        "population": 158218,
+        "name": "City of Ilagan ",
+        "city_code": "20",
+        "code": "20",
+        "province_code": "203",
+        "region_code": "20"
+    },
+    {
+        "population": 148580,
+        "name": "City of Santiago",
+        "city_code": "20",
+        "code": "20",
+        "province_code": "203",
+        "region_code": "20"
+    },
+    {
+        "population": 104173,
+        "name": "City of Balanga ",
+        "city_code": "30",
+        "code": "30",
+        "province_code": "300",
+        "region_code": "30"
+    },
+    {
+        "population": 168470,
+        "name": "City of Baliwag",
+        "city_code": "30",
+        "code": "30",
+        "province_code": "301",
+        "region_code": "30"
+    },
+    {
+        "population": 261189,
+        "name": "City of Malolos ",
+        "city_code": "30",
+        "code": "30",
+        "province_code": "301",
+        "region_code": "30"
+    },
+    {
+        "population": 225673,
+        "name": "City of Meycauayan",
+        "city_code": "30",
+        "code": "30",
+        "province_code": "301",
+        "region_code": "30"
+    },
+    {
+        "population": 651813,
+        "name": "City of San Jose Del Monte",
+        "city_code": "30",
+        "code": "30",
+        "province_code": "301",
+        "region_code": "30"
+    },
+    {
+        "population": 327325,
+        "name": "City of Cabanatuan",
+        "city_code": "30",
+        "code": "30",
+        "province_code": "304",
+        "region_code": "30"
+    },
+    {
+        "population": 122968,
+        "name": "City of Gapan",
+        "city_code": "30",
+        "code": "30",
+        "province_code": "304",
+        "region_code": "30"
+    },
+    {
+        "population": 84308,
+        "name": "Science City of Mu\u00f1oz",
+        "city_code": "30",
+        "code": "30",
+        "province_code": "304",
+        "region_code": "30"
+    },
+    {
+        "population": 45383,
+        "name": "City of Palayan ",
+        "city_code": "30",
+        "code": "30",
+        "province_code": "304",
+        "region_code": "30"
+    },
+    {
+        "population": 150917,
+        "name": "San Jose City",
+        "city_code": "30",
+        "code": "30",
+        "province_code": "304",
+        "region_code": "30"
+    },
+    {
+        "population": 462928,
+        "name": "City of Angeles",
+        "city_code": "33",
+        "code": "33",
+        "province_code": "330",
+        "region_code": "33"
+    },
+    {
+        "population": 293244,
+        "name": "Mabalacat City",
+        "city_code": "30",
+        "code": "30",
+        "province_code": "305",
+        "region_code": "30"
+    },
+    {
+        "population": 354666,
+        "name": "City of San Fernando ",
+        "city_code": "30",
+        "code": "30",
+        "province_code": "305",
+        "region_code": "30"
+    },
+    {
+        "population": 385398,
+        "name": "City of Tarlac ",
+        "city_code": "30",
+        "code": "30",
+        "province_code": "306",
+        "region_code": "30"
+    },
+    {
+        "population": 260317,
+        "name": "City of Olongapo",
+        "city_code": "33",
+        "code": "33",
+        "province_code": "331",
+        "region_code": "33"
+    },
+    {
+        "population": 351437,
+        "name": "Batangas City ",
+        "city_code": "40",
+        "code": "40",
+        "province_code": "401",
+        "region_code": "40"
+    },
+    {
+        "population": 87361,
+        "name": "City of Calaca",
+        "city_code": "40",
+        "code": "40",
+        "province_code": "401",
+        "region_code": "40"
+    },
+    {
+        "population": 372931,
+        "name": "City of Lipa",
+        "city_code": "40",
+        "code": "40",
+        "province_code": "401",
+        "region_code": "40"
+    },
+    {
+        "population": 218500,
+        "name": "City of Sto. Tomas",
+        "city_code": "40",
+        "code": "40",
+        "province_code": "401",
+        "region_code": "40"
+    },
+    {
+        "population": 193936,
+        "name": "City of Tanauan",
+        "city_code": "40",
+        "code": "40",
+        "province_code": "401",
+        "region_code": "40"
+    },
+    {
+        "population": 664625,
+        "name": "City of Bacoor",
+        "city_code": "40",
+        "code": "40",
+        "province_code": "402",
+        "region_code": "40"
+    },
+    {
+        "population": 100674,
+        "name": "City of Cavite",
+        "city_code": "40",
+        "code": "40",
+        "province_code": "402",
+        "region_code": "40"
+    },
+    {
+        "population": 703141,
+        "name": "City of Dasmari\u00f1as",
+        "city_code": "40",
+        "code": "40",
+        "province_code": "402",
+        "region_code": "40"
+    },
+    {
+        "population": 450583,
+        "name": "City of General Trias",
+        "city_code": "40",
+        "code": "40",
+        "province_code": "402",
+        "region_code": "40"
+    },
+    {
+        "population": 496794,
+        "name": "City of Imus",
+        "city_code": "40",
+        "code": "40",
+        "province_code": "402",
+        "region_code": "40"
+    },
+    {
+        "population": 85330,
+        "name": "City of Tagaytay",
+        "city_code": "40",
+        "code": "40",
+        "province_code": "402",
+        "region_code": "40"
+    },
+    {
+        "population": 210503,
+        "name": "City of Trece Martires ",
+        "city_code": "40",
+        "code": "40",
+        "province_code": "402",
+        "region_code": "40"
+    },
+    {
+        "population": 407437,
+        "name": "City of Bi\u00f1an",
+        "city_code": "40",
+        "code": "40",
+        "province_code": "403",
+        "region_code": "40"
+    },
+    {
+        "population": 355330,
+        "name": "City of Cabuyao",
+        "city_code": "40",
+        "code": "40",
+        "province_code": "403",
+        "region_code": "40"
+    },
+    {
+        "population": 539671,
+        "name": "City of Calamba",
+        "city_code": "40",
+        "code": "40",
+        "province_code": "403",
+        "region_code": "40"
+    },
+    {
+        "population": 285348,
+        "name": "City of San Pablo",
+        "city_code": "40",
+        "code": "40",
+        "province_code": "403",
+        "region_code": "40"
+    },
+    {
+        "population": 326001,
+        "name": "City of San Pedro",
+        "city_code": "40",
+        "code": "40",
+        "province_code": "403",
+        "region_code": "40"
+    },
+    {
+        "population": 414812,
+        "name": "City of Santa Rosa",
+        "city_code": "40",
+        "code": "40",
+        "province_code": "403",
+        "region_code": "40"
+    },
+    {
+        "population": 278924,
+        "name": "City of Lucena ",
+        "city_code": "43",
+        "code": "43",
+        "province_code": "431",
+        "region_code": "43"
+    },
+    {
+        "population": 112658,
+        "name": "City of Tayabas",
+        "city_code": "40",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "population": 887399,
+        "name": "City of Antipolo ",
+        "city_code": "40",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "population": 145786,
+        "name": "City of Calapan ",
+        "city_code": "17",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "population": 307079,
+        "name": "City of Puerto Princesa ",
+        "city_code": "17",
+        "code": "17",
+        "province_code": "173",
+        "region_code": "17"
+    },
+    {
+        "population": 209533,
+        "name": "City of Legazpi ",
+        "city_code": "50",
+        "code": "50",
+        "province_code": "500",
+        "region_code": "50"
+    },
+    {
+        "population": 118096,
+        "name": "City of Ligao",
+        "city_code": "50",
+        "code": "50",
+        "province_code": "500",
+        "region_code": "50"
+    },
+    {
+        "population": 140961,
+        "name": "City of Tabaco",
+        "city_code": "50",
+        "code": "50",
+        "province_code": "500",
+        "region_code": "50"
+    },
+    {
+        "population": 114457,
+        "name": "City of Iriga",
+        "city_code": "50",
+        "code": "50",
+        "province_code": "501",
+        "region_code": "50"
+    },
+    {
+        "population": 209170,
+        "name": "City of Naga",
+        "city_code": "50",
+        "code": "50",
+        "province_code": "501",
+        "region_code": "50"
+    },
+    {
+        "population": 104522,
+        "name": "City of Masbate ",
+        "city_code": "50",
+        "code": "50",
+        "province_code": "504",
+        "region_code": "50"
+    },
+    {
+        "population": 182237,
+        "name": "City of Sorsogon ",
+        "city_code": "50",
+        "code": "50",
+        "province_code": "506",
+        "region_code": "50"
+    },
+    {
+        "population": 179292,
+        "name": "City of Roxas ",
+        "city_code": "60",
+        "code": "60",
+        "province_code": "601",
+        "region_code": "60"
+    },
+    {
+        "population": 457626,
+        "name": "City of Iloilo ",
+        "city_code": "63",
+        "code": "63",
+        "province_code": "631",
+        "region_code": "63"
+    },
+    {
+        "population": 88873,
+        "name": "City of Passi",
+        "city_code": "60",
+        "code": "60",
+        "province_code": "603",
+        "region_code": "60"
+    },
+    {
+        "population": 600783,
+        "name": "City of Bacolod ",
+        "city_code": "63",
+        "code": "63",
+        "province_code": "630",
+        "region_code": "63"
+    },
+    {
+        "population": 191210,
+        "name": "City of Bago",
+        "city_code": "60",
+        "code": "60",
+        "province_code": "604",
+        "region_code": "60"
+    },
+    {
+        "population": 158544,
+        "name": "City of Cadiz",
+        "city_code": "60",
+        "code": "60",
+        "province_code": "604",
+        "region_code": "60"
+    },
+    {
+        "population": 96159,
+        "name": "City of Escalante",
+        "city_code": "60",
+        "code": "60",
+        "province_code": "604",
+        "region_code": "60"
+    },
+    {
+        "population": 116240,
+        "name": "City of Himamaylan",
+        "city_code": "60",
+        "code": "60",
+        "province_code": "604",
+        "region_code": "60"
+    },
+    {
+        "population": 200198,
+        "name": "City of Kabankalan",
+        "city_code": "60",
+        "code": "60",
+        "province_code": "604",
+        "region_code": "60"
+    },
+    {
+        "population": 66664,
+        "name": "City of La Carlota",
+        "city_code": "60",
+        "code": "60",
+        "province_code": "604",
+        "region_code": "60"
+    },
+    {
+        "population": 148894,
+        "name": "City of Sagay",
+        "city_code": "60",
+        "code": "60",
+        "province_code": "604",
+        "region_code": "60"
+    },
+    {
+        "population": 132650,
+        "name": "City of San Carlos",
+        "city_code": "60",
+        "code": "60",
+        "province_code": "604",
+        "region_code": "60"
+    },
+    {
+        "population": 130478,
+        "name": "City of Silay",
+        "city_code": "60",
+        "code": "60",
+        "province_code": "604",
+        "region_code": "60"
+    },
+    {
+        "population": 72448,
+        "name": "City of Sipalay",
+        "city_code": "60",
+        "code": "60",
+        "province_code": "604",
+        "region_code": "60"
+    },
+    {
+        "population": 108909,
+        "name": "City of Talisay",
+        "city_code": "60",
+        "code": "60",
+        "province_code": "604",
+        "region_code": "60"
+    },
+    {
+        "population": 90101,
+        "name": "City of Victorias",
+        "city_code": "60",
+        "code": "60",
+        "province_code": "604",
+        "region_code": "60"
+    },
+    {
+        "population": 104976,
+        "name": "City of Tagbilaran ",
+        "city_code": "70",
+        "code": "70",
+        "province_code": "701",
+        "region_code": "70"
+    },
+    {
+        "population": 88867,
+        "name": "City of Bogo",
+        "city_code": "70",
+        "code": "70",
+        "province_code": "702",
+        "region_code": "70"
+    },
+    {
+        "population": 136453,
+        "name": "City of Carcar",
+        "city_code": "70",
+        "code": "70",
+        "province_code": "702",
+        "region_code": "70"
+    },
+    {
+        "population": 964169,
+        "name": "City of Cebu ",
+        "city_code": "73",
+        "code": "73",
+        "province_code": "730",
+        "region_code": "73"
+    },
+    {
+        "population": 156321,
+        "name": "Danao City",
+        "city_code": "70",
+        "code": "70",
+        "province_code": "702",
+        "region_code": "70"
+    },
+    {
+        "population": 497604,
+        "name": "City of Lapu-Lapu",
+        "city_code": "73",
+        "code": "73",
+        "province_code": "731",
+        "region_code": "73"
+    },
+    {
+        "population": 364116,
+        "name": "City of Mandaue",
+        "city_code": "73",
+        "code": "73",
+        "province_code": "731",
+        "region_code": "73"
+    },
+    {
+        "population": 133184,
+        "name": "City of Naga",
+        "city_code": "70",
+        "code": "70",
+        "province_code": "702",
+        "region_code": "70"
+    },
+    {
+        "population": 263048,
+        "name": "City of Talisay",
+        "city_code": "70",
+        "code": "70",
+        "province_code": "702",
+        "region_code": "70"
+    },
+    {
+        "population": 207314,
+        "name": "City of Toledo",
+        "city_code": "70",
+        "code": "70",
+        "province_code": "702",
+        "region_code": "70"
+    },
+    {
+        "population": 84317,
+        "name": "City of Bais",
+        "city_code": "70",
+        "code": "70",
+        "province_code": "704",
+        "region_code": "70"
+    },
+    {
+        "population": 122747,
+        "name": "City of Bayawan",
+        "city_code": "70",
+        "code": "70",
+        "province_code": "704",
+        "region_code": "70"
+    },
+    {
+        "population": 58822,
+        "name": "City of Canlaon",
+        "city_code": "70",
+        "code": "70",
+        "province_code": "704",
+        "region_code": "70"
+    },
+    {
+        "population": 134103,
+        "name": "City of Dumaguete ",
+        "city_code": "70",
+        "code": "70",
+        "province_code": "704",
+        "region_code": "70"
+    },
+    {
+        "population": 102656,
+        "name": "City of Guihulngan",
+        "city_code": "70",
+        "code": "70",
+        "province_code": "704",
+        "region_code": "70"
+    },
+    {
+        "population": 82642,
+        "name": "City of Tanjay",
+        "city_code": "70",
+        "code": "70",
+        "province_code": "704",
+        "region_code": "70"
+    },
+    {
+        "population": 71961,
+        "name": "City of Borongan ",
+        "city_code": "80",
+        "code": "80",
+        "province_code": "802",
+        "region_code": "80"
+    },
+    {
+        "population": 111848,
+        "name": "City of Baybay",
+        "city_code": "80",
+        "code": "80",
+        "province_code": "803",
+        "region_code": "80"
+    },
+    {
+        "population": 230998,
+        "name": "Ormoc City",
+        "city_code": "80",
+        "code": "80",
+        "province_code": "803",
+        "region_code": "80"
+    },
+    {
+        "population": 251881,
+        "name": "City of Tacloban ",
+        "city_code": "83",
+        "code": "83",
+        "province_code": "831",
+        "region_code": "83"
+    },
+    {
+        "population": 186960,
+        "name": "City of Calbayog",
+        "city_code": "80",
+        "code": "80",
+        "province_code": "806",
+        "region_code": "80"
+    },
+    {
+        "population": 106440,
+        "name": "City of Catbalogan ",
+        "city_code": "80",
+        "code": "80",
+        "province_code": "806",
+        "region_code": "80"
+    },
+    {
+        "population": 87446,
+        "name": "City of Maasin ",
+        "city_code": "80",
+        "code": "80",
+        "province_code": "806",
+        "region_code": "80"
+    },
+    {
+        "population": 85202,
+        "name": "City of Dapitan",
+        "city_code": "90",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "population": 138141,
+        "name": "City of Dipolog ",
+        "city_code": "90",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "population": 210452,
+        "name": "City of Pagadian ",
+        "city_code": "90",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "population": 977234,
+        "name": "City of Zamboanga",
+        "city_code": "93",
+        "code": "93",
+        "province_code": "931",
+        "region_code": "93"
+    },
+    {
+        "population": 130379,
+        "name": "City of Isabela",
+        "city_code": "99",
+        "code": "99",
+        "province_code": "990",
+        "region_code": "99"
+    },
+    {
+        "population": 190712,
+        "name": "City of Malaybalay ",
+        "city_code": "10",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "population": 216546,
+        "name": "City of Valencia",
+        "city_code": "10",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "population": 363115,
+        "name": "City of Iligan",
+        "city_code": "10",
+        "code": "10",
+        "province_code": "103",
+        "region_code": "10"
+    },
+    {
+        "population": 72301,
+        "name": "City of Oroquieta ",
+        "city_code": "10",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "population": 140334,
+        "name": "City of Ozamiz",
+        "city_code": "10",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "population": 68389,
+        "name": "City of Tangub",
+        "city_code": "10",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "population": 728402,
+        "name": "City of Cagayan De Oro ",
+        "city_code": "10",
+        "code": "10",
+        "province_code": "103",
+        "region_code": "10"
+    },
+    {
+        "population": 58771,
+        "name": "City of El Salvador",
+        "city_code": "10",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "population": 136698,
+        "name": "City of Gingoog",
+        "city_code": "10",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "population": 209230,
+        "name": "City of Panabo",
+        "city_code": "11",
+        "code": "11",
+        "province_code": "110",
+        "region_code": "11"
+    },
+    {
+        "population": 116771,
+        "name": "Island Garden City of Samal",
+        "city_code": "11",
+        "code": "11",
+        "province_code": "110",
+        "region_code": "11"
+    },
+    {
+        "population": 296202,
+        "name": "City of Tagum ",
+        "city_code": "11",
+        "code": "11",
+        "province_code": "110",
+        "region_code": "11"
+    },
+    {
+        "population": 1776949,
+        "name": "City of Davao",
+        "city_code": "11",
+        "code": "11",
+        "province_code": "113",
+        "region_code": "11"
+    },
+    {
+        "population": 188376,
+        "name": "City of Digos ",
+        "city_code": "11",
+        "code": "11",
+        "province_code": "110",
+        "region_code": "11"
+    },
+    {
+        "population": 147547,
+        "name": "City of Mati ",
+        "city_code": "11",
+        "code": "11",
+        "province_code": "110",
+        "region_code": "11"
+    },
+    {
+        "population": 160791,
+        "name": "City of Kidapawan ",
+        "city_code": "12",
+        "code": "12",
+        "province_code": "120",
+        "region_code": "12"
+    },
+    {
+        "population": 697315,
+        "name": "City of General Santos",
+        "city_code": "12",
+        "code": "12",
+        "province_code": "123",
+        "region_code": "12"
+    },
+    {
+        "population": 195398,
+        "name": "City of Koronadal ",
+        "city_code": "12",
+        "code": "12",
+        "province_code": "120",
+        "region_code": "12"
+    },
+    {
+        "population": 109319,
+        "name": "City of Tacurong",
+        "city_code": "12",
+        "code": "12",
+        "province_code": "120",
+        "region_code": "12"
+    },
+    {
+        "population": 1846513,
+        "name": "City of Manila",
+        "city_code": "13",
+        "code": "13",
+        "province_code": "138",
+        "region_code": "13"
+    },
+    {
+        "population": 425758,
+        "name": "City of Mandaluyong",
+        "city_code": "13",
+        "code": "13",
+        "province_code": "138",
+        "region_code": "13"
+    },
+    {
+        "population": 456059,
+        "name": "City of Marikina",
+        "city_code": "13",
+        "code": "13",
+        "province_code": "138",
+        "region_code": "13"
+    },
+    {
+        "population": 803159,
+        "name": "City of Pasig",
+        "city_code": "13",
+        "code": "13",
+        "province_code": "138",
+        "region_code": "13"
+    },
+    {
+        "population": 2960048,
+        "name": "Quezon City",
+        "city_code": "13",
+        "code": "13",
+        "province_code": "138",
+        "region_code": "13"
+    },
+    {
+        "population": 126347,
+        "name": "City of San Juan",
+        "city_code": "13",
+        "code": "13",
+        "province_code": "138",
+        "region_code": "13"
+    },
+    {
+        "population": 1661584,
+        "name": "City of Caloocan",
+        "city_code": "13",
+        "code": "13",
+        "province_code": "138",
+        "region_code": "13"
+    },
+    {
+        "population": 380522,
+        "name": "City of Malabon",
+        "city_code": "13",
+        "code": "13",
+        "province_code": "138",
+        "region_code": "13"
+    },
+    {
+        "population": 247543,
+        "name": "City of Navotas",
+        "city_code": "13",
+        "code": "13",
+        "province_code": "138",
+        "region_code": "13"
+    },
+    {
+        "population": 714978,
+        "name": "City of Valenzuela",
+        "city_code": "13",
+        "code": "13",
+        "province_code": "138",
+        "region_code": "13"
+    },
+    {
+        "population": 606293,
+        "name": "City of Las Pi\u00f1as",
+        "city_code": "13",
+        "code": "13",
+        "province_code": "138",
+        "region_code": "13"
+    },
+    {
+        "population": 629616,
+        "name": "City of Makati",
+        "city_code": "13",
+        "code": "13",
+        "province_code": "138",
+        "region_code": "13"
+    },
+    {
+        "population": 543445,
+        "name": "City of Muntinlupa",
+        "city_code": "13",
+        "code": "13",
+        "province_code": "138",
+        "region_code": "13"
+    },
+    {
+        "population": 689992,
+        "name": "City of Para\u00f1aque",
+        "city_code": "13",
+        "code": "13",
+        "province_code": "138",
+        "region_code": "13"
+    },
+    {
+        "population": 440656,
+        "name": "Pasay City",
+        "city_code": "13",
+        "code": "13",
+        "province_code": "138",
+        "region_code": "13"
+    },
+    {
+        "population": 886722,
+        "name": "City of Taguig",
+        "city_code": "13",
+        "code": "13",
+        "province_code": "138",
+        "region_code": "13"
+    },
+    {
+        "population": 366358,
+        "name": "City of Baguio",
+        "city_code": "14",
+        "code": "14",
+        "province_code": "143",
+        "region_code": "14"
+    },
+    {
+        "population": 121033,
+        "name": "City of Tabuk ",
+        "city_code": "14",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "population": 372910,
+        "name": "City of Butuan ",
+        "city_code": "16",
+        "code": "16",
+        "province_code": "163",
+        "region_code": "16"
+    },
+    {
+        "population": 80354,
+        "name": "City of Cabadbaran",
+        "city_code": "16",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "population": 109499,
+        "name": "City of Bayugan",
+        "city_code": "16",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "population": 171107,
+        "name": "City of Surigao ",
+        "city_code": "16",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "population": 99290,
+        "name": "City of Bislig",
+        "city_code": "16",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "population": 62669,
+        "name": "City of Tandag ",
+        "city_code": "16",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "population": 100150,
+        "name": "City of Lamitan ",
+        "city_code": "19",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "population": 207010,
+        "name": "City of Marawi ",
+        "city_code": "19",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "population": 325079,
+        "name": "City of Cotabato",
+        "city_code": "19",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    }
+]
