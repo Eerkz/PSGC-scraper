@@ -108,16 +108,7 @@ if publication_link:
             if level_name == "provinces":
                 level_data["code"] = level_data["10-digit PSGC"].astype(
                     str).str[:3]
-            elif level_name == "cities":
-                level_data["city_code"] = level_data["10-digit PSGC"].astype(
-                    str).str[:2]
-                level_data["code"] = level_data["10-digit PSGC"].astype(
-                    str).str[:2]
-                level_data["province_code"] = level_data["10-digit PSGC"].astype(
-                    str).str[:3]
             else:
-                level_data["city_code"] = level_data["10-digit PSGC"].astype(
-                    str).str[:2]
                 level_data["code"] = level_data["10-digit PSGC"].astype(
                     str).str[:2]
                 level_data["province_code"] = level_data["10-digit PSGC"].astype(
