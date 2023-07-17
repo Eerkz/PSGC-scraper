@@ -1,0 +1,8918 @@
+[
+    {
+        "name": "Adams",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "Bacarra",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "Badoc",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "Bangui",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "Burgos",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "Carasi",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "Currimao",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "Dingras",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "Dumalneg",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "Banna",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "Marcos",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "Nueva Era",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "Pagudpud",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "Paoay",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "Pasuquin",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "Piddig",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "Pinili",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "San Nicolas",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "Sarrat",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "Solsona",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "Vintar",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "Alilem",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "Banayoyo",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "Bantay",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "Burgos",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "Cabugao",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "Caoayan",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "Cervantes",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "Galimuyod",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "Gregorio del Pilar",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "Lidlidda",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "Magsingal",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "Nagbukel",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "Narvacan",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "Quirino",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "Salcedo",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "San Emilio",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "San Esteban",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "San Ildefonso",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "San Juan",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "San Vicente",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "Santa",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "Santa Catalina",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "Santa Cruz",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "Santa Lucia",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "Santa Maria",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "Santiago",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "Santo Domingo",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "Sigay",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "Sinait",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "Sugpon",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "Suyo",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "Tagudin",
+        "code": "10",
+        "province_code": "102",
+        "region_code": "10"
+    },
+    {
+        "name": "Agoo",
+        "code": "10",
+        "province_code": "103",
+        "region_code": "10"
+    },
+    {
+        "name": "Aringay",
+        "code": "10",
+        "province_code": "103",
+        "region_code": "10"
+    },
+    {
+        "name": "Bacnotan",
+        "code": "10",
+        "province_code": "103",
+        "region_code": "10"
+    },
+    {
+        "name": "Bagulin",
+        "code": "10",
+        "province_code": "103",
+        "region_code": "10"
+    },
+    {
+        "name": "Balaoan",
+        "code": "10",
+        "province_code": "103",
+        "region_code": "10"
+    },
+    {
+        "name": "Bangar",
+        "code": "10",
+        "province_code": "103",
+        "region_code": "10"
+    },
+    {
+        "name": "Bauang",
+        "code": "10",
+        "province_code": "103",
+        "region_code": "10"
+    },
+    {
+        "name": "Burgos",
+        "code": "10",
+        "province_code": "103",
+        "region_code": "10"
+    },
+    {
+        "name": "Caba",
+        "code": "10",
+        "province_code": "103",
+        "region_code": "10"
+    },
+    {
+        "name": "Luna",
+        "code": "10",
+        "province_code": "103",
+        "region_code": "10"
+    },
+    {
+        "name": "Naguilian",
+        "code": "10",
+        "province_code": "103",
+        "region_code": "10"
+    },
+    {
+        "name": "Pugo",
+        "code": "10",
+        "province_code": "103",
+        "region_code": "10"
+    },
+    {
+        "name": "Rosario",
+        "code": "10",
+        "province_code": "103",
+        "region_code": "10"
+    },
+    {
+        "name": "San Gabriel",
+        "code": "10",
+        "province_code": "103",
+        "region_code": "10"
+    },
+    {
+        "name": "San Juan",
+        "code": "10",
+        "province_code": "103",
+        "region_code": "10"
+    },
+    {
+        "name": "Santo Tomas",
+        "code": "10",
+        "province_code": "103",
+        "region_code": "10"
+    },
+    {
+        "name": "Santol",
+        "code": "10",
+        "province_code": "103",
+        "region_code": "10"
+    },
+    {
+        "name": "Sudipen",
+        "code": "10",
+        "province_code": "103",
+        "region_code": "10"
+    },
+    {
+        "name": "Tubao",
+        "code": "10",
+        "province_code": "103",
+        "region_code": "10"
+    },
+    {
+        "name": "Agno",
+        "code": "10",
+        "province_code": "105",
+        "region_code": "10"
+    },
+    {
+        "name": "Aguilar",
+        "code": "10",
+        "province_code": "105",
+        "region_code": "10"
+    },
+    {
+        "name": "Alcala",
+        "code": "10",
+        "province_code": "105",
+        "region_code": "10"
+    },
+    {
+        "name": "Anda",
+        "code": "10",
+        "province_code": "105",
+        "region_code": "10"
+    },
+    {
+        "name": "Asingan",
+        "code": "10",
+        "province_code": "105",
+        "region_code": "10"
+    },
+    {
+        "name": "Balungao",
+        "code": "10",
+        "province_code": "105",
+        "region_code": "10"
+    },
+    {
+        "name": "Bani",
+        "code": "10",
+        "province_code": "105",
+        "region_code": "10"
+    },
+    {
+        "name": "Basista",
+        "code": "10",
+        "province_code": "105",
+        "region_code": "10"
+    },
+    {
+        "name": "Bautista",
+        "code": "10",
+        "province_code": "105",
+        "region_code": "10"
+    },
+    {
+        "name": "Bayambang",
+        "code": "10",
+        "province_code": "105",
+        "region_code": "10"
+    },
+    {
+        "name": "Binalonan",
+        "code": "10",
+        "province_code": "105",
+        "region_code": "10"
+    },
+    {
+        "name": "Binmaley",
+        "code": "10",
+        "province_code": "105",
+        "region_code": "10"
+    },
+    {
+        "name": "Bolinao",
+        "code": "10",
+        "province_code": "105",
+        "region_code": "10"
+    },
+    {
+        "name": "Bugallon",
+        "code": "10",
+        "province_code": "105",
+        "region_code": "10"
+    },
+    {
+        "name": "Burgos",
+        "code": "10",
+        "province_code": "105",
+        "region_code": "10"
+    },
+    {
+        "name": "Calasiao",
+        "code": "10",
+        "province_code": "105",
+        "region_code": "10"
+    },
+    {
+        "name": "Dasol",
+        "code": "10",
+        "province_code": "105",
+        "region_code": "10"
+    },
+    {
+        "name": "Infanta",
+        "code": "10",
+        "province_code": "105",
+        "region_code": "10"
+    },
+    {
+        "name": "Labrador",
+        "code": "10",
+        "province_code": "105",
+        "region_code": "10"
+    },
+    {
+        "name": "Lingayen ",
+        "code": "10",
+        "province_code": "105",
+        "region_code": "10"
+    },
+    {
+        "name": "Mabini",
+        "code": "10",
+        "province_code": "105",
+        "region_code": "10"
+    },
+    {
+        "name": "Malasiqui",
+        "code": "10",
+        "province_code": "105",
+        "region_code": "10"
+    },
+    {
+        "name": "Manaoag",
+        "code": "10",
+        "province_code": "105",
+        "region_code": "10"
+    },
+    {
+        "name": "Mangaldan",
+        "code": "10",
+        "province_code": "105",
+        "region_code": "10"
+    },
+    {
+        "name": "Mangatarem",
+        "code": "10",
+        "province_code": "105",
+        "region_code": "10"
+    },
+    {
+        "name": "Mapandan",
+        "code": "10",
+        "province_code": "105",
+        "region_code": "10"
+    },
+    {
+        "name": "Natividad",
+        "code": "10",
+        "province_code": "105",
+        "region_code": "10"
+    },
+    {
+        "name": "Pozorrubio",
+        "code": "10",
+        "province_code": "105",
+        "region_code": "10"
+    },
+    {
+        "name": "Rosales",
+        "code": "10",
+        "province_code": "105",
+        "region_code": "10"
+    },
+    {
+        "name": "San Fabian",
+        "code": "10",
+        "province_code": "105",
+        "region_code": "10"
+    },
+    {
+        "name": "San Jacinto",
+        "code": "10",
+        "province_code": "105",
+        "region_code": "10"
+    },
+    {
+        "name": "San Manuel",
+        "code": "10",
+        "province_code": "105",
+        "region_code": "10"
+    },
+    {
+        "name": "San Nicolas",
+        "code": "10",
+        "province_code": "105",
+        "region_code": "10"
+    },
+    {
+        "name": "San Quintin",
+        "code": "10",
+        "province_code": "105",
+        "region_code": "10"
+    },
+    {
+        "name": "Santa Barbara",
+        "code": "10",
+        "province_code": "105",
+        "region_code": "10"
+    },
+    {
+        "name": "Santa Maria",
+        "code": "10",
+        "province_code": "105",
+        "region_code": "10"
+    },
+    {
+        "name": "Santo Tomas",
+        "code": "10",
+        "province_code": "105",
+        "region_code": "10"
+    },
+    {
+        "name": "Sison",
+        "code": "10",
+        "province_code": "105",
+        "region_code": "10"
+    },
+    {
+        "name": "Sual",
+        "code": "10",
+        "province_code": "105",
+        "region_code": "10"
+    },
+    {
+        "name": "Tayug",
+        "code": "10",
+        "province_code": "105",
+        "region_code": "10"
+    },
+    {
+        "name": "Umingan",
+        "code": "10",
+        "province_code": "105",
+        "region_code": "10"
+    },
+    {
+        "name": "Urbiztondo",
+        "code": "10",
+        "province_code": "105",
+        "region_code": "10"
+    },
+    {
+        "name": "Villasis",
+        "code": "10",
+        "province_code": "105",
+        "region_code": "10"
+    },
+    {
+        "name": "Laoac",
+        "code": "10",
+        "province_code": "105",
+        "region_code": "10"
+    },
+    {
+        "name": "Basco ",
+        "code": "20",
+        "province_code": "200",
+        "region_code": "20"
+    },
+    {
+        "name": "Itbayat",
+        "code": "20",
+        "province_code": "200",
+        "region_code": "20"
+    },
+    {
+        "name": "Ivana",
+        "code": "20",
+        "province_code": "200",
+        "region_code": "20"
+    },
+    {
+        "name": "Mahatao",
+        "code": "20",
+        "province_code": "200",
+        "region_code": "20"
+    },
+    {
+        "name": "Sabtang",
+        "code": "20",
+        "province_code": "200",
+        "region_code": "20"
+    },
+    {
+        "name": "Uyugan",
+        "code": "20",
+        "province_code": "200",
+        "region_code": "20"
+    },
+    {
+        "name": "Abulug",
+        "code": "20",
+        "province_code": "201",
+        "region_code": "20"
+    },
+    {
+        "name": "Alcala",
+        "code": "20",
+        "province_code": "201",
+        "region_code": "20"
+    },
+    {
+        "name": "Allacapan",
+        "code": "20",
+        "province_code": "201",
+        "region_code": "20"
+    },
+    {
+        "name": "Amulung",
+        "code": "20",
+        "province_code": "201",
+        "region_code": "20"
+    },
+    {
+        "name": "Aparri",
+        "code": "20",
+        "province_code": "201",
+        "region_code": "20"
+    },
+    {
+        "name": "Baggao",
+        "code": "20",
+        "province_code": "201",
+        "region_code": "20"
+    },
+    {
+        "name": "Ballesteros",
+        "code": "20",
+        "province_code": "201",
+        "region_code": "20"
+    },
+    {
+        "name": "Buguey",
+        "code": "20",
+        "province_code": "201",
+        "region_code": "20"
+    },
+    {
+        "name": "Calayan",
+        "code": "20",
+        "province_code": "201",
+        "region_code": "20"
+    },
+    {
+        "name": "Camalaniugan",
+        "code": "20",
+        "province_code": "201",
+        "region_code": "20"
+    },
+    {
+        "name": "Claveria",
+        "code": "20",
+        "province_code": "201",
+        "region_code": "20"
+    },
+    {
+        "name": "Enrile",
+        "code": "20",
+        "province_code": "201",
+        "region_code": "20"
+    },
+    {
+        "name": "Gattaran",
+        "code": "20",
+        "province_code": "201",
+        "region_code": "20"
+    },
+    {
+        "name": "Gonzaga",
+        "code": "20",
+        "province_code": "201",
+        "region_code": "20"
+    },
+    {
+        "name": "Iguig",
+        "code": "20",
+        "province_code": "201",
+        "region_code": "20"
+    },
+    {
+        "name": "Lal-Lo",
+        "code": "20",
+        "province_code": "201",
+        "region_code": "20"
+    },
+    {
+        "name": "Lasam",
+        "code": "20",
+        "province_code": "201",
+        "region_code": "20"
+    },
+    {
+        "name": "Pamplona",
+        "code": "20",
+        "province_code": "201",
+        "region_code": "20"
+    },
+    {
+        "name": "Pe\u00f1ablanca",
+        "code": "20",
+        "province_code": "201",
+        "region_code": "20"
+    },
+    {
+        "name": "Piat",
+        "code": "20",
+        "province_code": "201",
+        "region_code": "20"
+    },
+    {
+        "name": "Rizal",
+        "code": "20",
+        "province_code": "201",
+        "region_code": "20"
+    },
+    {
+        "name": "Sanchez-Mira",
+        "code": "20",
+        "province_code": "201",
+        "region_code": "20"
+    },
+    {
+        "name": "Santa Ana",
+        "code": "20",
+        "province_code": "201",
+        "region_code": "20"
+    },
+    {
+        "name": "Santa Praxedes",
+        "code": "20",
+        "province_code": "201",
+        "region_code": "20"
+    },
+    {
+        "name": "Santa Teresita",
+        "code": "20",
+        "province_code": "201",
+        "region_code": "20"
+    },
+    {
+        "name": "Santo Ni\u00f1o",
+        "code": "20",
+        "province_code": "201",
+        "region_code": "20"
+    },
+    {
+        "name": "Solana",
+        "code": "20",
+        "province_code": "201",
+        "region_code": "20"
+    },
+    {
+        "name": "Tuao",
+        "code": "20",
+        "province_code": "201",
+        "region_code": "20"
+    },
+    {
+        "name": "Alicia",
+        "code": "20",
+        "province_code": "203",
+        "region_code": "20"
+    },
+    {
+        "name": "Angadanan",
+        "code": "20",
+        "province_code": "203",
+        "region_code": "20"
+    },
+    {
+        "name": "Aurora",
+        "code": "20",
+        "province_code": "203",
+        "region_code": "20"
+    },
+    {
+        "name": "Benito Soliven",
+        "code": "20",
+        "province_code": "203",
+        "region_code": "20"
+    },
+    {
+        "name": "Burgos",
+        "code": "20",
+        "province_code": "203",
+        "region_code": "20"
+    },
+    {
+        "name": "Cabagan",
+        "code": "20",
+        "province_code": "203",
+        "region_code": "20"
+    },
+    {
+        "name": "Cabatuan",
+        "code": "20",
+        "province_code": "203",
+        "region_code": "20"
+    },
+    {
+        "name": "Cordon",
+        "code": "20",
+        "province_code": "203",
+        "region_code": "20"
+    },
+    {
+        "name": "Dinapigue",
+        "code": "20",
+        "province_code": "203",
+        "region_code": "20"
+    },
+    {
+        "name": "Divilacan",
+        "code": "20",
+        "province_code": "203",
+        "region_code": "20"
+    },
+    {
+        "name": "Echague",
+        "code": "20",
+        "province_code": "203",
+        "region_code": "20"
+    },
+    {
+        "name": "Gamu",
+        "code": "20",
+        "province_code": "203",
+        "region_code": "20"
+    },
+    {
+        "name": "Jones",
+        "code": "20",
+        "province_code": "203",
+        "region_code": "20"
+    },
+    {
+        "name": "Luna",
+        "code": "20",
+        "province_code": "203",
+        "region_code": "20"
+    },
+    {
+        "name": "Maconacon",
+        "code": "20",
+        "province_code": "203",
+        "region_code": "20"
+    },
+    {
+        "name": "Delfin Albano",
+        "code": "20",
+        "province_code": "203",
+        "region_code": "20"
+    },
+    {
+        "name": "Mallig",
+        "code": "20",
+        "province_code": "203",
+        "region_code": "20"
+    },
+    {
+        "name": "Naguilian",
+        "code": "20",
+        "province_code": "203",
+        "region_code": "20"
+    },
+    {
+        "name": "Palanan",
+        "code": "20",
+        "province_code": "203",
+        "region_code": "20"
+    },
+    {
+        "name": "Quezon",
+        "code": "20",
+        "province_code": "203",
+        "region_code": "20"
+    },
+    {
+        "name": "Quirino",
+        "code": "20",
+        "province_code": "203",
+        "region_code": "20"
+    },
+    {
+        "name": "Ramon",
+        "code": "20",
+        "province_code": "203",
+        "region_code": "20"
+    },
+    {
+        "name": "Reina Mercedes",
+        "code": "20",
+        "province_code": "203",
+        "region_code": "20"
+    },
+    {
+        "name": "Roxas",
+        "code": "20",
+        "province_code": "203",
+        "region_code": "20"
+    },
+    {
+        "name": "San Agustin",
+        "code": "20",
+        "province_code": "203",
+        "region_code": "20"
+    },
+    {
+        "name": "San Guillermo",
+        "code": "20",
+        "province_code": "203",
+        "region_code": "20"
+    },
+    {
+        "name": "San Isidro",
+        "code": "20",
+        "province_code": "203",
+        "region_code": "20"
+    },
+    {
+        "name": "San Manuel",
+        "code": "20",
+        "province_code": "203",
+        "region_code": "20"
+    },
+    {
+        "name": "San Mariano",
+        "code": "20",
+        "province_code": "203",
+        "region_code": "20"
+    },
+    {
+        "name": "San Mateo",
+        "code": "20",
+        "province_code": "203",
+        "region_code": "20"
+    },
+    {
+        "name": "San Pablo",
+        "code": "20",
+        "province_code": "203",
+        "region_code": "20"
+    },
+    {
+        "name": "Santa Maria",
+        "code": "20",
+        "province_code": "203",
+        "region_code": "20"
+    },
+    {
+        "name": "Santo Tomas",
+        "code": "20",
+        "province_code": "203",
+        "region_code": "20"
+    },
+    {
+        "name": "Tumauini",
+        "code": "20",
+        "province_code": "203",
+        "region_code": "20"
+    },
+    {
+        "name": "Ambaguio",
+        "code": "20",
+        "province_code": "205",
+        "region_code": "20"
+    },
+    {
+        "name": "Aritao",
+        "code": "20",
+        "province_code": "205",
+        "region_code": "20"
+    },
+    {
+        "name": "Bagabag",
+        "code": "20",
+        "province_code": "205",
+        "region_code": "20"
+    },
+    {
+        "name": "Bambang",
+        "code": "20",
+        "province_code": "205",
+        "region_code": "20"
+    },
+    {
+        "name": "Bayombong ",
+        "code": "20",
+        "province_code": "205",
+        "region_code": "20"
+    },
+    {
+        "name": "Diadi",
+        "code": "20",
+        "province_code": "205",
+        "region_code": "20"
+    },
+    {
+        "name": "Dupax del Norte",
+        "code": "20",
+        "province_code": "205",
+        "region_code": "20"
+    },
+    {
+        "name": "Dupax del Sur",
+        "code": "20",
+        "province_code": "205",
+        "region_code": "20"
+    },
+    {
+        "name": "Kasibu",
+        "code": "20",
+        "province_code": "205",
+        "region_code": "20"
+    },
+    {
+        "name": "Kayapa",
+        "code": "20",
+        "province_code": "205",
+        "region_code": "20"
+    },
+    {
+        "name": "Quezon",
+        "code": "20",
+        "province_code": "205",
+        "region_code": "20"
+    },
+    {
+        "name": "Santa Fe",
+        "code": "20",
+        "province_code": "205",
+        "region_code": "20"
+    },
+    {
+        "name": "Solano",
+        "code": "20",
+        "province_code": "205",
+        "region_code": "20"
+    },
+    {
+        "name": "Villaverde",
+        "code": "20",
+        "province_code": "205",
+        "region_code": "20"
+    },
+    {
+        "name": "Alfonso Castaneda",
+        "code": "20",
+        "province_code": "205",
+        "region_code": "20"
+    },
+    {
+        "name": "Aglipay",
+        "code": "20",
+        "province_code": "205",
+        "region_code": "20"
+    },
+    {
+        "name": "Cabarroguis ",
+        "code": "20",
+        "province_code": "205",
+        "region_code": "20"
+    },
+    {
+        "name": "Diffun",
+        "code": "20",
+        "province_code": "205",
+        "region_code": "20"
+    },
+    {
+        "name": "Maddela",
+        "code": "20",
+        "province_code": "205",
+        "region_code": "20"
+    },
+    {
+        "name": "Saguday",
+        "code": "20",
+        "province_code": "205",
+        "region_code": "20"
+    },
+    {
+        "name": "Nagtipunan",
+        "code": "20",
+        "province_code": "205",
+        "region_code": "20"
+    },
+    {
+        "name": "Abucay",
+        "code": "30",
+        "province_code": "300",
+        "region_code": "30"
+    },
+    {
+        "name": "Bagac",
+        "code": "30",
+        "province_code": "300",
+        "region_code": "30"
+    },
+    {
+        "name": "Dinalupihan",
+        "code": "30",
+        "province_code": "300",
+        "region_code": "30"
+    },
+    {
+        "name": "Hermosa",
+        "code": "30",
+        "province_code": "300",
+        "region_code": "30"
+    },
+    {
+        "name": "Limay",
+        "code": "30",
+        "province_code": "300",
+        "region_code": "30"
+    },
+    {
+        "name": "Mariveles",
+        "code": "30",
+        "province_code": "300",
+        "region_code": "30"
+    },
+    {
+        "name": "Morong",
+        "code": "30",
+        "province_code": "300",
+        "region_code": "30"
+    },
+    {
+        "name": "Orani",
+        "code": "30",
+        "province_code": "300",
+        "region_code": "30"
+    },
+    {
+        "name": "Orion",
+        "code": "30",
+        "province_code": "300",
+        "region_code": "30"
+    },
+    {
+        "name": "Pilar",
+        "code": "30",
+        "province_code": "300",
+        "region_code": "30"
+    },
+    {
+        "name": "Samal",
+        "code": "30",
+        "province_code": "300",
+        "region_code": "30"
+    },
+    {
+        "name": "Angat",
+        "code": "30",
+        "province_code": "301",
+        "region_code": "30"
+    },
+    {
+        "name": "Balagtas",
+        "code": "30",
+        "province_code": "301",
+        "region_code": "30"
+    },
+    {
+        "name": "Bocaue",
+        "code": "30",
+        "province_code": "301",
+        "region_code": "30"
+    },
+    {
+        "name": "Bulacan",
+        "code": "30",
+        "province_code": "301",
+        "region_code": "30"
+    },
+    {
+        "name": "Bustos",
+        "code": "30",
+        "province_code": "301",
+        "region_code": "30"
+    },
+    {
+        "name": "Calumpit",
+        "code": "30",
+        "province_code": "301",
+        "region_code": "30"
+    },
+    {
+        "name": "Guiguinto",
+        "code": "30",
+        "province_code": "301",
+        "region_code": "30"
+    },
+    {
+        "name": "Hagonoy",
+        "code": "30",
+        "province_code": "301",
+        "region_code": "30"
+    },
+    {
+        "name": "Marilao",
+        "code": "30",
+        "province_code": "301",
+        "region_code": "30"
+    },
+    {
+        "name": "Norzagaray",
+        "code": "30",
+        "province_code": "301",
+        "region_code": "30"
+    },
+    {
+        "name": "Obando",
+        "code": "30",
+        "province_code": "301",
+        "region_code": "30"
+    },
+    {
+        "name": "Pandi",
+        "code": "30",
+        "province_code": "301",
+        "region_code": "30"
+    },
+    {
+        "name": "Paombong",
+        "code": "30",
+        "province_code": "301",
+        "region_code": "30"
+    },
+    {
+        "name": "Plaridel",
+        "code": "30",
+        "province_code": "301",
+        "region_code": "30"
+    },
+    {
+        "name": "Pulilan",
+        "code": "30",
+        "province_code": "301",
+        "region_code": "30"
+    },
+    {
+        "name": "San Ildefonso",
+        "code": "30",
+        "province_code": "301",
+        "region_code": "30"
+    },
+    {
+        "name": "San Miguel",
+        "code": "30",
+        "province_code": "301",
+        "region_code": "30"
+    },
+    {
+        "name": "San Rafael",
+        "code": "30",
+        "province_code": "301",
+        "region_code": "30"
+    },
+    {
+        "name": "Santa Maria",
+        "code": "30",
+        "province_code": "301",
+        "region_code": "30"
+    },
+    {
+        "name": "Do\u00f1a Remedios Trinidad",
+        "code": "30",
+        "province_code": "301",
+        "region_code": "30"
+    },
+    {
+        "name": "Aliaga",
+        "code": "30",
+        "province_code": "304",
+        "region_code": "30"
+    },
+    {
+        "name": "Bongabon",
+        "code": "30",
+        "province_code": "304",
+        "region_code": "30"
+    },
+    {
+        "name": "Cabiao",
+        "code": "30",
+        "province_code": "304",
+        "region_code": "30"
+    },
+    {
+        "name": "Carranglan",
+        "code": "30",
+        "province_code": "304",
+        "region_code": "30"
+    },
+    {
+        "name": "Cuyapo",
+        "code": "30",
+        "province_code": "304",
+        "region_code": "30"
+    },
+    {
+        "name": "Gabaldon",
+        "code": "30",
+        "province_code": "304",
+        "region_code": "30"
+    },
+    {
+        "name": "General Mamerto Natividad",
+        "code": "30",
+        "province_code": "304",
+        "region_code": "30"
+    },
+    {
+        "name": "General Tinio",
+        "code": "30",
+        "province_code": "304",
+        "region_code": "30"
+    },
+    {
+        "name": "Guimba",
+        "code": "30",
+        "province_code": "304",
+        "region_code": "30"
+    },
+    {
+        "name": "Jaen",
+        "code": "30",
+        "province_code": "304",
+        "region_code": "30"
+    },
+    {
+        "name": "Laur",
+        "code": "30",
+        "province_code": "304",
+        "region_code": "30"
+    },
+    {
+        "name": "Licab",
+        "code": "30",
+        "province_code": "304",
+        "region_code": "30"
+    },
+    {
+        "name": "Llanera",
+        "code": "30",
+        "province_code": "304",
+        "region_code": "30"
+    },
+    {
+        "name": "Lupao",
+        "code": "30",
+        "province_code": "304",
+        "region_code": "30"
+    },
+    {
+        "name": "Nampicuan",
+        "code": "30",
+        "province_code": "304",
+        "region_code": "30"
+    },
+    {
+        "name": "Pantabangan",
+        "code": "30",
+        "province_code": "304",
+        "region_code": "30"
+    },
+    {
+        "name": "Pe\u00f1aranda",
+        "code": "30",
+        "province_code": "304",
+        "region_code": "30"
+    },
+    {
+        "name": "Quezon",
+        "code": "30",
+        "province_code": "304",
+        "region_code": "30"
+    },
+    {
+        "name": "Rizal",
+        "code": "30",
+        "province_code": "304",
+        "region_code": "30"
+    },
+    {
+        "name": "San Antonio",
+        "code": "30",
+        "province_code": "304",
+        "region_code": "30"
+    },
+    {
+        "name": "San Isidro",
+        "code": "30",
+        "province_code": "304",
+        "region_code": "30"
+    },
+    {
+        "name": "San Leonardo",
+        "code": "30",
+        "province_code": "304",
+        "region_code": "30"
+    },
+    {
+        "name": "Santa Rosa",
+        "code": "30",
+        "province_code": "304",
+        "region_code": "30"
+    },
+    {
+        "name": "Santo Domingo",
+        "code": "30",
+        "province_code": "304",
+        "region_code": "30"
+    },
+    {
+        "name": "Talavera",
+        "code": "30",
+        "province_code": "304",
+        "region_code": "30"
+    },
+    {
+        "name": "Talugtug",
+        "code": "30",
+        "province_code": "304",
+        "region_code": "30"
+    },
+    {
+        "name": "Zaragoza",
+        "code": "30",
+        "province_code": "304",
+        "region_code": "30"
+    },
+    {
+        "name": "Apalit",
+        "code": "30",
+        "province_code": "305",
+        "region_code": "30"
+    },
+    {
+        "name": "Arayat",
+        "code": "30",
+        "province_code": "305",
+        "region_code": "30"
+    },
+    {
+        "name": "Bacolor",
+        "code": "30",
+        "province_code": "305",
+        "region_code": "30"
+    },
+    {
+        "name": "Candaba",
+        "code": "30",
+        "province_code": "305",
+        "region_code": "30"
+    },
+    {
+        "name": "Floridablanca",
+        "code": "30",
+        "province_code": "305",
+        "region_code": "30"
+    },
+    {
+        "name": "Guagua",
+        "code": "30",
+        "province_code": "305",
+        "region_code": "30"
+    },
+    {
+        "name": "Lubao",
+        "code": "30",
+        "province_code": "305",
+        "region_code": "30"
+    },
+    {
+        "name": "Macabebe",
+        "code": "30",
+        "province_code": "305",
+        "region_code": "30"
+    },
+    {
+        "name": "Magalang",
+        "code": "30",
+        "province_code": "305",
+        "region_code": "30"
+    },
+    {
+        "name": "Masantol",
+        "code": "30",
+        "province_code": "305",
+        "region_code": "30"
+    },
+    {
+        "name": "Mexico",
+        "code": "30",
+        "province_code": "305",
+        "region_code": "30"
+    },
+    {
+        "name": "Minalin",
+        "code": "30",
+        "province_code": "305",
+        "region_code": "30"
+    },
+    {
+        "name": "Porac",
+        "code": "30",
+        "province_code": "305",
+        "region_code": "30"
+    },
+    {
+        "name": "San Luis",
+        "code": "30",
+        "province_code": "305",
+        "region_code": "30"
+    },
+    {
+        "name": "San Simon",
+        "code": "30",
+        "province_code": "305",
+        "region_code": "30"
+    },
+    {
+        "name": "Santa Ana",
+        "code": "30",
+        "province_code": "305",
+        "region_code": "30"
+    },
+    {
+        "name": "Santa Rita",
+        "code": "30",
+        "province_code": "305",
+        "region_code": "30"
+    },
+    {
+        "name": "Sto. Tomas",
+        "code": "30",
+        "province_code": "305",
+        "region_code": "30"
+    },
+    {
+        "name": "Sasmuan",
+        "code": "30",
+        "province_code": "305",
+        "region_code": "30"
+    },
+    {
+        "name": "Anao",
+        "code": "30",
+        "province_code": "306",
+        "region_code": "30"
+    },
+    {
+        "name": "Bamban",
+        "code": "30",
+        "province_code": "306",
+        "region_code": "30"
+    },
+    {
+        "name": "Camiling",
+        "code": "30",
+        "province_code": "306",
+        "region_code": "30"
+    },
+    {
+        "name": "Capas",
+        "code": "30",
+        "province_code": "306",
+        "region_code": "30"
+    },
+    {
+        "name": "Concepcion",
+        "code": "30",
+        "province_code": "306",
+        "region_code": "30"
+    },
+    {
+        "name": "Gerona",
+        "code": "30",
+        "province_code": "306",
+        "region_code": "30"
+    },
+    {
+        "name": "La Paz",
+        "code": "30",
+        "province_code": "306",
+        "region_code": "30"
+    },
+    {
+        "name": "Mayantoc",
+        "code": "30",
+        "province_code": "306",
+        "region_code": "30"
+    },
+    {
+        "name": "Moncada",
+        "code": "30",
+        "province_code": "306",
+        "region_code": "30"
+    },
+    {
+        "name": "Paniqui",
+        "code": "30",
+        "province_code": "306",
+        "region_code": "30"
+    },
+    {
+        "name": "Pura",
+        "code": "30",
+        "province_code": "306",
+        "region_code": "30"
+    },
+    {
+        "name": "Ramos",
+        "code": "30",
+        "province_code": "306",
+        "region_code": "30"
+    },
+    {
+        "name": "San Clemente",
+        "code": "30",
+        "province_code": "306",
+        "region_code": "30"
+    },
+    {
+        "name": "San Manuel",
+        "code": "30",
+        "province_code": "306",
+        "region_code": "30"
+    },
+    {
+        "name": "Santa Ignacia",
+        "code": "30",
+        "province_code": "306",
+        "region_code": "30"
+    },
+    {
+        "name": "Victoria",
+        "code": "30",
+        "province_code": "306",
+        "region_code": "30"
+    },
+    {
+        "name": "San Jose",
+        "code": "30",
+        "province_code": "306",
+        "region_code": "30"
+    },
+    {
+        "name": "Botolan",
+        "code": "30",
+        "province_code": "307",
+        "region_code": "30"
+    },
+    {
+        "name": "Cabangan",
+        "code": "30",
+        "province_code": "307",
+        "region_code": "30"
+    },
+    {
+        "name": "Candelaria",
+        "code": "30",
+        "province_code": "307",
+        "region_code": "30"
+    },
+    {
+        "name": "Castillejos",
+        "code": "30",
+        "province_code": "307",
+        "region_code": "30"
+    },
+    {
+        "name": "Iba ",
+        "code": "30",
+        "province_code": "307",
+        "region_code": "30"
+    },
+    {
+        "name": "Masinloc",
+        "code": "30",
+        "province_code": "307",
+        "region_code": "30"
+    },
+    {
+        "name": "Palauig",
+        "code": "30",
+        "province_code": "307",
+        "region_code": "30"
+    },
+    {
+        "name": "San Antonio",
+        "code": "30",
+        "province_code": "307",
+        "region_code": "30"
+    },
+    {
+        "name": "San Felipe",
+        "code": "30",
+        "province_code": "307",
+        "region_code": "30"
+    },
+    {
+        "name": "San Marcelino",
+        "code": "30",
+        "province_code": "307",
+        "region_code": "30"
+    },
+    {
+        "name": "San Narciso",
+        "code": "30",
+        "province_code": "307",
+        "region_code": "30"
+    },
+    {
+        "name": "Santa Cruz",
+        "code": "30",
+        "province_code": "307",
+        "region_code": "30"
+    },
+    {
+        "name": "Subic",
+        "code": "30",
+        "province_code": "307",
+        "region_code": "30"
+    },
+    {
+        "name": "Baler ",
+        "code": "30",
+        "province_code": "307",
+        "region_code": "30"
+    },
+    {
+        "name": "Casiguran",
+        "code": "30",
+        "province_code": "307",
+        "region_code": "30"
+    },
+    {
+        "name": "Dilasag",
+        "code": "30",
+        "province_code": "307",
+        "region_code": "30"
+    },
+    {
+        "name": "Dinalungan",
+        "code": "30",
+        "province_code": "307",
+        "region_code": "30"
+    },
+    {
+        "name": "Dingalan",
+        "code": "30",
+        "province_code": "307",
+        "region_code": "30"
+    },
+    {
+        "name": "Dipaculao",
+        "code": "30",
+        "province_code": "307",
+        "region_code": "30"
+    },
+    {
+        "name": "Maria Aurora",
+        "code": "30",
+        "province_code": "307",
+        "region_code": "30"
+    },
+    {
+        "name": "San Luis",
+        "code": "30",
+        "province_code": "307",
+        "region_code": "30"
+    },
+    {
+        "name": "Agoncillo",
+        "code": "40",
+        "province_code": "401",
+        "region_code": "40"
+    },
+    {
+        "name": "Alitagtag",
+        "code": "40",
+        "province_code": "401",
+        "region_code": "40"
+    },
+    {
+        "name": "Balayan",
+        "code": "40",
+        "province_code": "401",
+        "region_code": "40"
+    },
+    {
+        "name": "Balete",
+        "code": "40",
+        "province_code": "401",
+        "region_code": "40"
+    },
+    {
+        "name": "Bauan",
+        "code": "40",
+        "province_code": "401",
+        "region_code": "40"
+    },
+    {
+        "name": "Calatagan",
+        "code": "40",
+        "province_code": "401",
+        "region_code": "40"
+    },
+    {
+        "name": "Cuenca",
+        "code": "40",
+        "province_code": "401",
+        "region_code": "40"
+    },
+    {
+        "name": "Ibaan",
+        "code": "40",
+        "province_code": "401",
+        "region_code": "40"
+    },
+    {
+        "name": "Laurel",
+        "code": "40",
+        "province_code": "401",
+        "region_code": "40"
+    },
+    {
+        "name": "Lemery",
+        "code": "40",
+        "province_code": "401",
+        "region_code": "40"
+    },
+    {
+        "name": "Lian",
+        "code": "40",
+        "province_code": "401",
+        "region_code": "40"
+    },
+    {
+        "name": "Lobo",
+        "code": "40",
+        "province_code": "401",
+        "region_code": "40"
+    },
+    {
+        "name": "Mabini",
+        "code": "40",
+        "province_code": "401",
+        "region_code": "40"
+    },
+    {
+        "name": "Malvar",
+        "code": "40",
+        "province_code": "401",
+        "region_code": "40"
+    },
+    {
+        "name": "Mataasnakahoy",
+        "code": "40",
+        "province_code": "401",
+        "region_code": "40"
+    },
+    {
+        "name": "Nasugbu",
+        "code": "40",
+        "province_code": "401",
+        "region_code": "40"
+    },
+    {
+        "name": "Padre Garcia",
+        "code": "40",
+        "province_code": "401",
+        "region_code": "40"
+    },
+    {
+        "name": "Rosario",
+        "code": "40",
+        "province_code": "401",
+        "region_code": "40"
+    },
+    {
+        "name": "San Jose",
+        "code": "40",
+        "province_code": "401",
+        "region_code": "40"
+    },
+    {
+        "name": "San Juan",
+        "code": "40",
+        "province_code": "401",
+        "region_code": "40"
+    },
+    {
+        "name": "San Luis",
+        "code": "40",
+        "province_code": "401",
+        "region_code": "40"
+    },
+    {
+        "name": "San Nicolas",
+        "code": "40",
+        "province_code": "401",
+        "region_code": "40"
+    },
+    {
+        "name": "San Pascual",
+        "code": "40",
+        "province_code": "401",
+        "region_code": "40"
+    },
+    {
+        "name": "Santa Teresita",
+        "code": "40",
+        "province_code": "401",
+        "region_code": "40"
+    },
+    {
+        "name": "Taal",
+        "code": "40",
+        "province_code": "401",
+        "region_code": "40"
+    },
+    {
+        "name": "Talisay",
+        "code": "40",
+        "province_code": "401",
+        "region_code": "40"
+    },
+    {
+        "name": "Taysan",
+        "code": "40",
+        "province_code": "401",
+        "region_code": "40"
+    },
+    {
+        "name": "Tingloy",
+        "code": "40",
+        "province_code": "401",
+        "region_code": "40"
+    },
+    {
+        "name": "Tuy",
+        "code": "40",
+        "province_code": "401",
+        "region_code": "40"
+    },
+    {
+        "name": "Alfonso",
+        "code": "40",
+        "province_code": "402",
+        "region_code": "40"
+    },
+    {
+        "name": "Amadeo",
+        "code": "40",
+        "province_code": "402",
+        "region_code": "40"
+    },
+    {
+        "name": "Carmona",
+        "code": "40",
+        "province_code": "402",
+        "region_code": "40"
+    },
+    {
+        "name": "General Emilio Aguinaldo",
+        "code": "40",
+        "province_code": "402",
+        "region_code": "40"
+    },
+    {
+        "name": "Indang",
+        "code": "40",
+        "province_code": "402",
+        "region_code": "40"
+    },
+    {
+        "name": "Kawit",
+        "code": "40",
+        "province_code": "402",
+        "region_code": "40"
+    },
+    {
+        "name": "Magallanes",
+        "code": "40",
+        "province_code": "402",
+        "region_code": "40"
+    },
+    {
+        "name": "Maragondon",
+        "code": "40",
+        "province_code": "402",
+        "region_code": "40"
+    },
+    {
+        "name": "Mendez",
+        "code": "40",
+        "province_code": "402",
+        "region_code": "40"
+    },
+    {
+        "name": "Naic",
+        "code": "40",
+        "province_code": "402",
+        "region_code": "40"
+    },
+    {
+        "name": "Noveleta",
+        "code": "40",
+        "province_code": "402",
+        "region_code": "40"
+    },
+    {
+        "name": "Rosario",
+        "code": "40",
+        "province_code": "402",
+        "region_code": "40"
+    },
+    {
+        "name": "Silang",
+        "code": "40",
+        "province_code": "402",
+        "region_code": "40"
+    },
+    {
+        "name": "Tanza",
+        "code": "40",
+        "province_code": "402",
+        "region_code": "40"
+    },
+    {
+        "name": "Ternate",
+        "code": "40",
+        "province_code": "402",
+        "region_code": "40"
+    },
+    {
+        "name": "Gen. Mariano Alvarez",
+        "code": "40",
+        "province_code": "402",
+        "region_code": "40"
+    },
+    {
+        "name": "Alaminos",
+        "code": "40",
+        "province_code": "403",
+        "region_code": "40"
+    },
+    {
+        "name": "Bay",
+        "code": "40",
+        "province_code": "403",
+        "region_code": "40"
+    },
+    {
+        "name": "Calauan",
+        "code": "40",
+        "province_code": "403",
+        "region_code": "40"
+    },
+    {
+        "name": "Cavinti",
+        "code": "40",
+        "province_code": "403",
+        "region_code": "40"
+    },
+    {
+        "name": "Famy",
+        "code": "40",
+        "province_code": "403",
+        "region_code": "40"
+    },
+    {
+        "name": "Kalayaan",
+        "code": "40",
+        "province_code": "403",
+        "region_code": "40"
+    },
+    {
+        "name": "Liliw",
+        "code": "40",
+        "province_code": "403",
+        "region_code": "40"
+    },
+    {
+        "name": "Los Ba\u00f1os",
+        "code": "40",
+        "province_code": "403",
+        "region_code": "40"
+    },
+    {
+        "name": "Luisiana",
+        "code": "40",
+        "province_code": "403",
+        "region_code": "40"
+    },
+    {
+        "name": "Lumban",
+        "code": "40",
+        "province_code": "403",
+        "region_code": "40"
+    },
+    {
+        "name": "Mabitac",
+        "code": "40",
+        "province_code": "403",
+        "region_code": "40"
+    },
+    {
+        "name": "Magdalena",
+        "code": "40",
+        "province_code": "403",
+        "region_code": "40"
+    },
+    {
+        "name": "Majayjay",
+        "code": "40",
+        "province_code": "403",
+        "region_code": "40"
+    },
+    {
+        "name": "Nagcarlan",
+        "code": "40",
+        "province_code": "403",
+        "region_code": "40"
+    },
+    {
+        "name": "Paete",
+        "code": "40",
+        "province_code": "403",
+        "region_code": "40"
+    },
+    {
+        "name": "Pagsanjan",
+        "code": "40",
+        "province_code": "403",
+        "region_code": "40"
+    },
+    {
+        "name": "Pakil",
+        "code": "40",
+        "province_code": "403",
+        "region_code": "40"
+    },
+    {
+        "name": "Pangil",
+        "code": "40",
+        "province_code": "403",
+        "region_code": "40"
+    },
+    {
+        "name": "Pila",
+        "code": "40",
+        "province_code": "403",
+        "region_code": "40"
+    },
+    {
+        "name": "Rizal",
+        "code": "40",
+        "province_code": "403",
+        "region_code": "40"
+    },
+    {
+        "name": "Santa Cruz ",
+        "code": "40",
+        "province_code": "403",
+        "region_code": "40"
+    },
+    {
+        "name": "Santa Maria",
+        "code": "40",
+        "province_code": "403",
+        "region_code": "40"
+    },
+    {
+        "name": "Siniloan",
+        "code": "40",
+        "province_code": "403",
+        "region_code": "40"
+    },
+    {
+        "name": "Victoria",
+        "code": "40",
+        "province_code": "403",
+        "region_code": "40"
+    },
+    {
+        "name": "Agdangan",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "Alabat",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "Atimonan",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "Buenavista",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "Burdeos",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "Calauag",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "Candelaria",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "Catanauan",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "Dolores",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "General Luna",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "General Nakar",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "Guinayangan",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "Gumaca",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "Infanta",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "Jomalig",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "Lopez",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "Lucban",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "Macalelon",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "Mauban",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "Mulanay",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "Padre Burgos",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "Pagbilao",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "Panukulan",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "Patnanungan",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "Perez",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "Pitogo",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "Plaridel",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "Polillo",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "Quezon",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "Real",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "Sampaloc",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "San Andres",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "San Antonio",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "San Francisco",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "San Narciso",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "Sariaya",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "Tagkawayan",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "Tiaong",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "Unisan",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "Angono",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "Baras",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "Binangonan",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "Cainta",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "Cardona",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "Jala-Jala",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "Rodriguez",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "Morong",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "Pililla",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "San Mateo",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "Tanay",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "Taytay",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "Teresa",
+        "code": "40",
+        "province_code": "405",
+        "region_code": "40"
+    },
+    {
+        "name": "Boac ",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Buenavista",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Gasan",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Mogpog",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Santa Cruz",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Torrijos",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Abra De Ilog",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Calintaan",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Looc",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Lubang",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Magsaysay",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Mamburao ",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Paluan",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Rizal",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Sablayan",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "San Jose",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Santa Cruz",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Baco",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Bansud",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Bongabong",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Bulalacao",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Gloria",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Mansalay",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Naujan",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Pinamalayan",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Pola",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Puerto Galera",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Roxas",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "San Teodoro",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Socorro",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Victoria",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Aborlan",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Agutaya",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Araceli",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Balabac",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Bataraza",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Brooke'S Point",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Busuanga",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Cagayancillo",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Coron",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Cuyo",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Dumaran",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "El Nido",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Linapacan",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Magsaysay",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Narra",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Quezon",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Roxas",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "San Vicente",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Taytay",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Kalayaan",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Culion",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Rizal",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Sofronio Espa\u00f1ola",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Alcantara",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Banton",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Cajidiocan",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Calatrava",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Concepcion",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Corcuera",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Looc",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Magdiwang",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Odiongan",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Romblon ",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "San Agustin",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "San Andres",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "San Fernando",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "San Jose",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Santa Fe",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Ferrol",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Santa Maria",
+        "code": "17",
+        "province_code": "170",
+        "region_code": "17"
+    },
+    {
+        "name": "Bacacay",
+        "code": "50",
+        "province_code": "500",
+        "region_code": "50"
+    },
+    {
+        "name": "Camalig",
+        "code": "50",
+        "province_code": "500",
+        "region_code": "50"
+    },
+    {
+        "name": "Daraga",
+        "code": "50",
+        "province_code": "500",
+        "region_code": "50"
+    },
+    {
+        "name": "Guinobatan",
+        "code": "50",
+        "province_code": "500",
+        "region_code": "50"
+    },
+    {
+        "name": "Jovellar",
+        "code": "50",
+        "province_code": "500",
+        "region_code": "50"
+    },
+    {
+        "name": "Libon",
+        "code": "50",
+        "province_code": "500",
+        "region_code": "50"
+    },
+    {
+        "name": "Malilipot",
+        "code": "50",
+        "province_code": "500",
+        "region_code": "50"
+    },
+    {
+        "name": "Malinao",
+        "code": "50",
+        "province_code": "500",
+        "region_code": "50"
+    },
+    {
+        "name": "Manito",
+        "code": "50",
+        "province_code": "500",
+        "region_code": "50"
+    },
+    {
+        "name": "Oas",
+        "code": "50",
+        "province_code": "500",
+        "region_code": "50"
+    },
+    {
+        "name": "Pio Duran",
+        "code": "50",
+        "province_code": "500",
+        "region_code": "50"
+    },
+    {
+        "name": "Polangui",
+        "code": "50",
+        "province_code": "500",
+        "region_code": "50"
+    },
+    {
+        "name": "Rapu-Rapu",
+        "code": "50",
+        "province_code": "500",
+        "region_code": "50"
+    },
+    {
+        "name": "Santo Domingo",
+        "code": "50",
+        "province_code": "500",
+        "region_code": "50"
+    },
+    {
+        "name": "Tiwi",
+        "code": "50",
+        "province_code": "500",
+        "region_code": "50"
+    },
+    {
+        "name": "Basud",
+        "code": "50",
+        "province_code": "501",
+        "region_code": "50"
+    },
+    {
+        "name": "Capalonga",
+        "code": "50",
+        "province_code": "501",
+        "region_code": "50"
+    },
+    {
+        "name": "Daet ",
+        "code": "50",
+        "province_code": "501",
+        "region_code": "50"
+    },
+    {
+        "name": "San Lorenzo Ruiz",
+        "code": "50",
+        "province_code": "501",
+        "region_code": "50"
+    },
+    {
+        "name": "Jose Panganiban",
+        "code": "50",
+        "province_code": "501",
+        "region_code": "50"
+    },
+    {
+        "name": "Labo",
+        "code": "50",
+        "province_code": "501",
+        "region_code": "50"
+    },
+    {
+        "name": "Mercedes",
+        "code": "50",
+        "province_code": "501",
+        "region_code": "50"
+    },
+    {
+        "name": "Paracale",
+        "code": "50",
+        "province_code": "501",
+        "region_code": "50"
+    },
+    {
+        "name": "San Vicente",
+        "code": "50",
+        "province_code": "501",
+        "region_code": "50"
+    },
+    {
+        "name": "Santa Elena",
+        "code": "50",
+        "province_code": "501",
+        "region_code": "50"
+    },
+    {
+        "name": "Talisay",
+        "code": "50",
+        "province_code": "501",
+        "region_code": "50"
+    },
+    {
+        "name": "Vinzons",
+        "code": "50",
+        "province_code": "501",
+        "region_code": "50"
+    },
+    {
+        "name": "Baao",
+        "code": "50",
+        "province_code": "501",
+        "region_code": "50"
+    },
+    {
+        "name": "Balatan",
+        "code": "50",
+        "province_code": "501",
+        "region_code": "50"
+    },
+    {
+        "name": "Bato",
+        "code": "50",
+        "province_code": "501",
+        "region_code": "50"
+    },
+    {
+        "name": "Bombon",
+        "code": "50",
+        "province_code": "501",
+        "region_code": "50"
+    },
+    {
+        "name": "Buhi",
+        "code": "50",
+        "province_code": "501",
+        "region_code": "50"
+    },
+    {
+        "name": "Bula",
+        "code": "50",
+        "province_code": "501",
+        "region_code": "50"
+    },
+    {
+        "name": "Cabusao",
+        "code": "50",
+        "province_code": "501",
+        "region_code": "50"
+    },
+    {
+        "name": "Calabanga",
+        "code": "50",
+        "province_code": "501",
+        "region_code": "50"
+    },
+    {
+        "name": "Camaligan",
+        "code": "50",
+        "province_code": "501",
+        "region_code": "50"
+    },
+    {
+        "name": "Canaman",
+        "code": "50",
+        "province_code": "501",
+        "region_code": "50"
+    },
+    {
+        "name": "Caramoan",
+        "code": "50",
+        "province_code": "501",
+        "region_code": "50"
+    },
+    {
+        "name": "Del Gallego",
+        "code": "50",
+        "province_code": "501",
+        "region_code": "50"
+    },
+    {
+        "name": "Gainza",
+        "code": "50",
+        "province_code": "501",
+        "region_code": "50"
+    },
+    {
+        "name": "Garchitorena",
+        "code": "50",
+        "province_code": "501",
+        "region_code": "50"
+    },
+    {
+        "name": "Goa",
+        "code": "50",
+        "province_code": "501",
+        "region_code": "50"
+    },
+    {
+        "name": "Lagonoy",
+        "code": "50",
+        "province_code": "501",
+        "region_code": "50"
+    },
+    {
+        "name": "Libmanan",
+        "code": "50",
+        "province_code": "501",
+        "region_code": "50"
+    },
+    {
+        "name": "Lupi",
+        "code": "50",
+        "province_code": "501",
+        "region_code": "50"
+    },
+    {
+        "name": "Magarao",
+        "code": "50",
+        "province_code": "501",
+        "region_code": "50"
+    },
+    {
+        "name": "Milaor",
+        "code": "50",
+        "province_code": "501",
+        "region_code": "50"
+    },
+    {
+        "name": "Minalabac",
+        "code": "50",
+        "province_code": "501",
+        "region_code": "50"
+    },
+    {
+        "name": "Nabua",
+        "code": "50",
+        "province_code": "501",
+        "region_code": "50"
+    },
+    {
+        "name": "Ocampo",
+        "code": "50",
+        "province_code": "501",
+        "region_code": "50"
+    },
+    {
+        "name": "Pamplona",
+        "code": "50",
+        "province_code": "501",
+        "region_code": "50"
+    },
+    {
+        "name": "Pasacao",
+        "code": "50",
+        "province_code": "501",
+        "region_code": "50"
+    },
+    {
+        "name": "Pili ",
+        "code": "50",
+        "province_code": "501",
+        "region_code": "50"
+    },
+    {
+        "name": "Presentacion",
+        "code": "50",
+        "province_code": "501",
+        "region_code": "50"
+    },
+    {
+        "name": "Ragay",
+        "code": "50",
+        "province_code": "501",
+        "region_code": "50"
+    },
+    {
+        "name": "Sag\u00f1ay",
+        "code": "50",
+        "province_code": "501",
+        "region_code": "50"
+    },
+    {
+        "name": "San Fernando",
+        "code": "50",
+        "province_code": "501",
+        "region_code": "50"
+    },
+    {
+        "name": "San Jose",
+        "code": "50",
+        "province_code": "501",
+        "region_code": "50"
+    },
+    {
+        "name": "Sipocot",
+        "code": "50",
+        "province_code": "501",
+        "region_code": "50"
+    },
+    {
+        "name": "Siruma",
+        "code": "50",
+        "province_code": "501",
+        "region_code": "50"
+    },
+    {
+        "name": "Tigaon",
+        "code": "50",
+        "province_code": "501",
+        "region_code": "50"
+    },
+    {
+        "name": "Tinambac",
+        "code": "50",
+        "province_code": "501",
+        "region_code": "50"
+    },
+    {
+        "name": "Bagamanoc",
+        "code": "50",
+        "province_code": "502",
+        "region_code": "50"
+    },
+    {
+        "name": "Baras",
+        "code": "50",
+        "province_code": "502",
+        "region_code": "50"
+    },
+    {
+        "name": "Bato",
+        "code": "50",
+        "province_code": "502",
+        "region_code": "50"
+    },
+    {
+        "name": "Caramoran",
+        "code": "50",
+        "province_code": "502",
+        "region_code": "50"
+    },
+    {
+        "name": "Gigmoto",
+        "code": "50",
+        "province_code": "502",
+        "region_code": "50"
+    },
+    {
+        "name": "Pandan",
+        "code": "50",
+        "province_code": "502",
+        "region_code": "50"
+    },
+    {
+        "name": "Panganiban",
+        "code": "50",
+        "province_code": "502",
+        "region_code": "50"
+    },
+    {
+        "name": "San Andres",
+        "code": "50",
+        "province_code": "502",
+        "region_code": "50"
+    },
+    {
+        "name": "San Miguel",
+        "code": "50",
+        "province_code": "502",
+        "region_code": "50"
+    },
+    {
+        "name": "Viga",
+        "code": "50",
+        "province_code": "502",
+        "region_code": "50"
+    },
+    {
+        "name": "Virac ",
+        "code": "50",
+        "province_code": "502",
+        "region_code": "50"
+    },
+    {
+        "name": "Aroroy",
+        "code": "50",
+        "province_code": "504",
+        "region_code": "50"
+    },
+    {
+        "name": "Baleno",
+        "code": "50",
+        "province_code": "504",
+        "region_code": "50"
+    },
+    {
+        "name": "Balud",
+        "code": "50",
+        "province_code": "504",
+        "region_code": "50"
+    },
+    {
+        "name": "Batuan",
+        "code": "50",
+        "province_code": "504",
+        "region_code": "50"
+    },
+    {
+        "name": "Cataingan",
+        "code": "50",
+        "province_code": "504",
+        "region_code": "50"
+    },
+    {
+        "name": "Cawayan",
+        "code": "50",
+        "province_code": "504",
+        "region_code": "50"
+    },
+    {
+        "name": "Claveria",
+        "code": "50",
+        "province_code": "504",
+        "region_code": "50"
+    },
+    {
+        "name": "Dimasalang",
+        "code": "50",
+        "province_code": "504",
+        "region_code": "50"
+    },
+    {
+        "name": "Esperanza",
+        "code": "50",
+        "province_code": "504",
+        "region_code": "50"
+    },
+    {
+        "name": "Mandaon",
+        "code": "50",
+        "province_code": "504",
+        "region_code": "50"
+    },
+    {
+        "name": "Milagros",
+        "code": "50",
+        "province_code": "504",
+        "region_code": "50"
+    },
+    {
+        "name": "Mobo",
+        "code": "50",
+        "province_code": "504",
+        "region_code": "50"
+    },
+    {
+        "name": "Monreal",
+        "code": "50",
+        "province_code": "504",
+        "region_code": "50"
+    },
+    {
+        "name": "Palanas",
+        "code": "50",
+        "province_code": "504",
+        "region_code": "50"
+    },
+    {
+        "name": "Pio V. Corpus",
+        "code": "50",
+        "province_code": "504",
+        "region_code": "50"
+    },
+    {
+        "name": "Placer",
+        "code": "50",
+        "province_code": "504",
+        "region_code": "50"
+    },
+    {
+        "name": "San Fernando",
+        "code": "50",
+        "province_code": "504",
+        "region_code": "50"
+    },
+    {
+        "name": "San Jacinto",
+        "code": "50",
+        "province_code": "504",
+        "region_code": "50"
+    },
+    {
+        "name": "San Pascual",
+        "code": "50",
+        "province_code": "504",
+        "region_code": "50"
+    },
+    {
+        "name": "Uson",
+        "code": "50",
+        "province_code": "504",
+        "region_code": "50"
+    },
+    {
+        "name": "Barcelona",
+        "code": "50",
+        "province_code": "506",
+        "region_code": "50"
+    },
+    {
+        "name": "Bulan",
+        "code": "50",
+        "province_code": "506",
+        "region_code": "50"
+    },
+    {
+        "name": "Bulusan",
+        "code": "50",
+        "province_code": "506",
+        "region_code": "50"
+    },
+    {
+        "name": "Casiguran",
+        "code": "50",
+        "province_code": "506",
+        "region_code": "50"
+    },
+    {
+        "name": "Castilla",
+        "code": "50",
+        "province_code": "506",
+        "region_code": "50"
+    },
+    {
+        "name": "Donsol",
+        "code": "50",
+        "province_code": "506",
+        "region_code": "50"
+    },
+    {
+        "name": "Gubat",
+        "code": "50",
+        "province_code": "506",
+        "region_code": "50"
+    },
+    {
+        "name": "Irosin",
+        "code": "50",
+        "province_code": "506",
+        "region_code": "50"
+    },
+    {
+        "name": "Juban",
+        "code": "50",
+        "province_code": "506",
+        "region_code": "50"
+    },
+    {
+        "name": "Magallanes",
+        "code": "50",
+        "province_code": "506",
+        "region_code": "50"
+    },
+    {
+        "name": "Matnog",
+        "code": "50",
+        "province_code": "506",
+        "region_code": "50"
+    },
+    {
+        "name": "Pilar",
+        "code": "50",
+        "province_code": "506",
+        "region_code": "50"
+    },
+    {
+        "name": "Prieto Diaz",
+        "code": "50",
+        "province_code": "506",
+        "region_code": "50"
+    },
+    {
+        "name": "Santa Magdalena",
+        "code": "50",
+        "province_code": "506",
+        "region_code": "50"
+    },
+    {
+        "name": "Altavas",
+        "code": "60",
+        "province_code": "600",
+        "region_code": "60"
+    },
+    {
+        "name": "Balete",
+        "code": "60",
+        "province_code": "600",
+        "region_code": "60"
+    },
+    {
+        "name": "Banga",
+        "code": "60",
+        "province_code": "600",
+        "region_code": "60"
+    },
+    {
+        "name": "Batan",
+        "code": "60",
+        "province_code": "600",
+        "region_code": "60"
+    },
+    {
+        "name": "Buruanga",
+        "code": "60",
+        "province_code": "600",
+        "region_code": "60"
+    },
+    {
+        "name": "Ibajay",
+        "code": "60",
+        "province_code": "600",
+        "region_code": "60"
+    },
+    {
+        "name": "Kalibo ",
+        "code": "60",
+        "province_code": "600",
+        "region_code": "60"
+    },
+    {
+        "name": "Lezo",
+        "code": "60",
+        "province_code": "600",
+        "region_code": "60"
+    },
+    {
+        "name": "Libacao",
+        "code": "60",
+        "province_code": "600",
+        "region_code": "60"
+    },
+    {
+        "name": "Madalag",
+        "code": "60",
+        "province_code": "600",
+        "region_code": "60"
+    },
+    {
+        "name": "Makato",
+        "code": "60",
+        "province_code": "600",
+        "region_code": "60"
+    },
+    {
+        "name": "Malay",
+        "code": "60",
+        "province_code": "600",
+        "region_code": "60"
+    },
+    {
+        "name": "Malinao",
+        "code": "60",
+        "province_code": "600",
+        "region_code": "60"
+    },
+    {
+        "name": "Nabas",
+        "code": "60",
+        "province_code": "600",
+        "region_code": "60"
+    },
+    {
+        "name": "New Washington",
+        "code": "60",
+        "province_code": "600",
+        "region_code": "60"
+    },
+    {
+        "name": "Numancia",
+        "code": "60",
+        "province_code": "600",
+        "region_code": "60"
+    },
+    {
+        "name": "Tangalan",
+        "code": "60",
+        "province_code": "600",
+        "region_code": "60"
+    },
+    {
+        "name": "Anini-Y",
+        "code": "60",
+        "province_code": "600",
+        "region_code": "60"
+    },
+    {
+        "name": "Barbaza",
+        "code": "60",
+        "province_code": "600",
+        "region_code": "60"
+    },
+    {
+        "name": "Belison",
+        "code": "60",
+        "province_code": "600",
+        "region_code": "60"
+    },
+    {
+        "name": "Bugasong",
+        "code": "60",
+        "province_code": "600",
+        "region_code": "60"
+    },
+    {
+        "name": "Caluya",
+        "code": "60",
+        "province_code": "600",
+        "region_code": "60"
+    },
+    {
+        "name": "Culasi",
+        "code": "60",
+        "province_code": "600",
+        "region_code": "60"
+    },
+    {
+        "name": "Tobias Fornier",
+        "code": "60",
+        "province_code": "600",
+        "region_code": "60"
+    },
+    {
+        "name": "Hamtic",
+        "code": "60",
+        "province_code": "600",
+        "region_code": "60"
+    },
+    {
+        "name": "Laua-An",
+        "code": "60",
+        "province_code": "600",
+        "region_code": "60"
+    },
+    {
+        "name": "Libertad",
+        "code": "60",
+        "province_code": "600",
+        "region_code": "60"
+    },
+    {
+        "name": "Pandan",
+        "code": "60",
+        "province_code": "600",
+        "region_code": "60"
+    },
+    {
+        "name": "Patnongon",
+        "code": "60",
+        "province_code": "600",
+        "region_code": "60"
+    },
+    {
+        "name": "San Jose ",
+        "code": "60",
+        "province_code": "600",
+        "region_code": "60"
+    },
+    {
+        "name": "San Remigio",
+        "code": "60",
+        "province_code": "600",
+        "region_code": "60"
+    },
+    {
+        "name": "Sebaste",
+        "code": "60",
+        "province_code": "600",
+        "region_code": "60"
+    },
+    {
+        "name": "Sibalom",
+        "code": "60",
+        "province_code": "600",
+        "region_code": "60"
+    },
+    {
+        "name": "Tibiao",
+        "code": "60",
+        "province_code": "600",
+        "region_code": "60"
+    },
+    {
+        "name": "Valderrama",
+        "code": "60",
+        "province_code": "600",
+        "region_code": "60"
+    },
+    {
+        "name": "Cuartero",
+        "code": "60",
+        "province_code": "601",
+        "region_code": "60"
+    },
+    {
+        "name": "Dao",
+        "code": "60",
+        "province_code": "601",
+        "region_code": "60"
+    },
+    {
+        "name": "Dumalag",
+        "code": "60",
+        "province_code": "601",
+        "region_code": "60"
+    },
+    {
+        "name": "Dumarao",
+        "code": "60",
+        "province_code": "601",
+        "region_code": "60"
+    },
+    {
+        "name": "Ivisan",
+        "code": "60",
+        "province_code": "601",
+        "region_code": "60"
+    },
+    {
+        "name": "Jamindan",
+        "code": "60",
+        "province_code": "601",
+        "region_code": "60"
+    },
+    {
+        "name": "Ma-Ayon",
+        "code": "60",
+        "province_code": "601",
+        "region_code": "60"
+    },
+    {
+        "name": "Mambusao",
+        "code": "60",
+        "province_code": "601",
+        "region_code": "60"
+    },
+    {
+        "name": "Panay",
+        "code": "60",
+        "province_code": "601",
+        "region_code": "60"
+    },
+    {
+        "name": "Panitan",
+        "code": "60",
+        "province_code": "601",
+        "region_code": "60"
+    },
+    {
+        "name": "Pilar",
+        "code": "60",
+        "province_code": "601",
+        "region_code": "60"
+    },
+    {
+        "name": "Pontevedra",
+        "code": "60",
+        "province_code": "601",
+        "region_code": "60"
+    },
+    {
+        "name": "President Roxas",
+        "code": "60",
+        "province_code": "601",
+        "region_code": "60"
+    },
+    {
+        "name": "Sapi-An",
+        "code": "60",
+        "province_code": "601",
+        "region_code": "60"
+    },
+    {
+        "name": "Sigma",
+        "code": "60",
+        "province_code": "601",
+        "region_code": "60"
+    },
+    {
+        "name": "Tapaz",
+        "code": "60",
+        "province_code": "601",
+        "region_code": "60"
+    },
+    {
+        "name": "Ajuy",
+        "code": "60",
+        "province_code": "603",
+        "region_code": "60"
+    },
+    {
+        "name": "Alimodian",
+        "code": "60",
+        "province_code": "603",
+        "region_code": "60"
+    },
+    {
+        "name": "Anilao",
+        "code": "60",
+        "province_code": "603",
+        "region_code": "60"
+    },
+    {
+        "name": "Badiangan",
+        "code": "60",
+        "province_code": "603",
+        "region_code": "60"
+    },
+    {
+        "name": "Balasan",
+        "code": "60",
+        "province_code": "603",
+        "region_code": "60"
+    },
+    {
+        "name": "Banate",
+        "code": "60",
+        "province_code": "603",
+        "region_code": "60"
+    },
+    {
+        "name": "Barotac Nuevo",
+        "code": "60",
+        "province_code": "603",
+        "region_code": "60"
+    },
+    {
+        "name": "Barotac Viejo",
+        "code": "60",
+        "province_code": "603",
+        "region_code": "60"
+    },
+    {
+        "name": "Batad",
+        "code": "60",
+        "province_code": "603",
+        "region_code": "60"
+    },
+    {
+        "name": "Bingawan",
+        "code": "60",
+        "province_code": "603",
+        "region_code": "60"
+    },
+    {
+        "name": "Cabatuan",
+        "code": "60",
+        "province_code": "603",
+        "region_code": "60"
+    },
+    {
+        "name": "Calinog",
+        "code": "60",
+        "province_code": "603",
+        "region_code": "60"
+    },
+    {
+        "name": "Carles",
+        "code": "60",
+        "province_code": "603",
+        "region_code": "60"
+    },
+    {
+        "name": "Concepcion",
+        "code": "60",
+        "province_code": "603",
+        "region_code": "60"
+    },
+    {
+        "name": "Dingle",
+        "code": "60",
+        "province_code": "603",
+        "region_code": "60"
+    },
+    {
+        "name": "Due\u00f1as",
+        "code": "60",
+        "province_code": "603",
+        "region_code": "60"
+    },
+    {
+        "name": "Dumangas",
+        "code": "60",
+        "province_code": "603",
+        "region_code": "60"
+    },
+    {
+        "name": "Estancia",
+        "code": "60",
+        "province_code": "603",
+        "region_code": "60"
+    },
+    {
+        "name": "Guimbal",
+        "code": "60",
+        "province_code": "603",
+        "region_code": "60"
+    },
+    {
+        "name": "Igbaras",
+        "code": "60",
+        "province_code": "603",
+        "region_code": "60"
+    },
+    {
+        "name": "Janiuay",
+        "code": "60",
+        "province_code": "603",
+        "region_code": "60"
+    },
+    {
+        "name": "Lambunao",
+        "code": "60",
+        "province_code": "603",
+        "region_code": "60"
+    },
+    {
+        "name": "Leganes",
+        "code": "60",
+        "province_code": "603",
+        "region_code": "60"
+    },
+    {
+        "name": "Lemery",
+        "code": "60",
+        "province_code": "603",
+        "region_code": "60"
+    },
+    {
+        "name": "Leon",
+        "code": "60",
+        "province_code": "603",
+        "region_code": "60"
+    },
+    {
+        "name": "Maasin",
+        "code": "60",
+        "province_code": "603",
+        "region_code": "60"
+    },
+    {
+        "name": "Miagao",
+        "code": "60",
+        "province_code": "603",
+        "region_code": "60"
+    },
+    {
+        "name": "Mina",
+        "code": "60",
+        "province_code": "603",
+        "region_code": "60"
+    },
+    {
+        "name": "New Lucena",
+        "code": "60",
+        "province_code": "603",
+        "region_code": "60"
+    },
+    {
+        "name": "Oton",
+        "code": "60",
+        "province_code": "603",
+        "region_code": "60"
+    },
+    {
+        "name": "Pavia",
+        "code": "60",
+        "province_code": "603",
+        "region_code": "60"
+    },
+    {
+        "name": "Pototan",
+        "code": "60",
+        "province_code": "603",
+        "region_code": "60"
+    },
+    {
+        "name": "San Dionisio",
+        "code": "60",
+        "province_code": "603",
+        "region_code": "60"
+    },
+    {
+        "name": "San Enrique",
+        "code": "60",
+        "province_code": "603",
+        "region_code": "60"
+    },
+    {
+        "name": "San Joaquin",
+        "code": "60",
+        "province_code": "603",
+        "region_code": "60"
+    },
+    {
+        "name": "San Miguel",
+        "code": "60",
+        "province_code": "603",
+        "region_code": "60"
+    },
+    {
+        "name": "San Rafael",
+        "code": "60",
+        "province_code": "603",
+        "region_code": "60"
+    },
+    {
+        "name": "Santa Barbara",
+        "code": "60",
+        "province_code": "603",
+        "region_code": "60"
+    },
+    {
+        "name": "Sara",
+        "code": "60",
+        "province_code": "603",
+        "region_code": "60"
+    },
+    {
+        "name": "Tigbauan",
+        "code": "60",
+        "province_code": "603",
+        "region_code": "60"
+    },
+    {
+        "name": "Tubungan",
+        "code": "60",
+        "province_code": "603",
+        "region_code": "60"
+    },
+    {
+        "name": "Zarraga",
+        "code": "60",
+        "province_code": "603",
+        "region_code": "60"
+    },
+    {
+        "name": "Binalbagan",
+        "code": "60",
+        "province_code": "604",
+        "region_code": "60"
+    },
+    {
+        "name": "Calatrava",
+        "code": "60",
+        "province_code": "604",
+        "region_code": "60"
+    },
+    {
+        "name": "Candoni",
+        "code": "60",
+        "province_code": "604",
+        "region_code": "60"
+    },
+    {
+        "name": "Cauayan",
+        "code": "60",
+        "province_code": "604",
+        "region_code": "60"
+    },
+    {
+        "name": "Enrique B. Magalona",
+        "code": "60",
+        "province_code": "604",
+        "region_code": "60"
+    },
+    {
+        "name": "Hinigaran",
+        "code": "60",
+        "province_code": "604",
+        "region_code": "60"
+    },
+    {
+        "name": "Hinoba-an",
+        "code": "60",
+        "province_code": "604",
+        "region_code": "60"
+    },
+    {
+        "name": "Ilog",
+        "code": "60",
+        "province_code": "604",
+        "region_code": "60"
+    },
+    {
+        "name": "Isabela",
+        "code": "60",
+        "province_code": "604",
+        "region_code": "60"
+    },
+    {
+        "name": "La Castellana",
+        "code": "60",
+        "province_code": "604",
+        "region_code": "60"
+    },
+    {
+        "name": "Manapla",
+        "code": "60",
+        "province_code": "604",
+        "region_code": "60"
+    },
+    {
+        "name": "Moises Padilla",
+        "code": "60",
+        "province_code": "604",
+        "region_code": "60"
+    },
+    {
+        "name": "Murcia",
+        "code": "60",
+        "province_code": "604",
+        "region_code": "60"
+    },
+    {
+        "name": "Pontevedra",
+        "code": "60",
+        "province_code": "604",
+        "region_code": "60"
+    },
+    {
+        "name": "Pulupandan",
+        "code": "60",
+        "province_code": "604",
+        "region_code": "60"
+    },
+    {
+        "name": "San Enrique",
+        "code": "60",
+        "province_code": "604",
+        "region_code": "60"
+    },
+    {
+        "name": "Toboso",
+        "code": "60",
+        "province_code": "604",
+        "region_code": "60"
+    },
+    {
+        "name": "Valladolid",
+        "code": "60",
+        "province_code": "604",
+        "region_code": "60"
+    },
+    {
+        "name": "Salvador Benedicto",
+        "code": "60",
+        "province_code": "604",
+        "region_code": "60"
+    },
+    {
+        "name": "Buenavista",
+        "code": "60",
+        "province_code": "607",
+        "region_code": "60"
+    },
+    {
+        "name": "Jordan ",
+        "code": "60",
+        "province_code": "607",
+        "region_code": "60"
+    },
+    {
+        "name": "Nueva Valencia",
+        "code": "60",
+        "province_code": "607",
+        "region_code": "60"
+    },
+    {
+        "name": "San Lorenzo",
+        "code": "60",
+        "province_code": "607",
+        "region_code": "60"
+    },
+    {
+        "name": "Sibunag",
+        "code": "60",
+        "province_code": "607",
+        "region_code": "60"
+    },
+    {
+        "name": "Alburquerque",
+        "code": "70",
+        "province_code": "701",
+        "region_code": "70"
+    },
+    {
+        "name": "Alicia",
+        "code": "70",
+        "province_code": "701",
+        "region_code": "70"
+    },
+    {
+        "name": "Anda",
+        "code": "70",
+        "province_code": "701",
+        "region_code": "70"
+    },
+    {
+        "name": "Antequera",
+        "code": "70",
+        "province_code": "701",
+        "region_code": "70"
+    },
+    {
+        "name": "Baclayon",
+        "code": "70",
+        "province_code": "701",
+        "region_code": "70"
+    },
+    {
+        "name": "Balilihan",
+        "code": "70",
+        "province_code": "701",
+        "region_code": "70"
+    },
+    {
+        "name": "Batuan",
+        "code": "70",
+        "province_code": "701",
+        "region_code": "70"
+    },
+    {
+        "name": "Bilar",
+        "code": "70",
+        "province_code": "701",
+        "region_code": "70"
+    },
+    {
+        "name": "Buenavista",
+        "code": "70",
+        "province_code": "701",
+        "region_code": "70"
+    },
+    {
+        "name": "Calape",
+        "code": "70",
+        "province_code": "701",
+        "region_code": "70"
+    },
+    {
+        "name": "Candijay",
+        "code": "70",
+        "province_code": "701",
+        "region_code": "70"
+    },
+    {
+        "name": "Carmen",
+        "code": "70",
+        "province_code": "701",
+        "region_code": "70"
+    },
+    {
+        "name": "Catigbian",
+        "code": "70",
+        "province_code": "701",
+        "region_code": "70"
+    },
+    {
+        "name": "Clarin",
+        "code": "70",
+        "province_code": "701",
+        "region_code": "70"
+    },
+    {
+        "name": "Corella",
+        "code": "70",
+        "province_code": "701",
+        "region_code": "70"
+    },
+    {
+        "name": "Cortes",
+        "code": "70",
+        "province_code": "701",
+        "region_code": "70"
+    },
+    {
+        "name": "Dagohoy",
+        "code": "70",
+        "province_code": "701",
+        "region_code": "70"
+    },
+    {
+        "name": "Danao",
+        "code": "70",
+        "province_code": "701",
+        "region_code": "70"
+    },
+    {
+        "name": "Dauis",
+        "code": "70",
+        "province_code": "701",
+        "region_code": "70"
+    },
+    {
+        "name": "Dimiao",
+        "code": "70",
+        "province_code": "701",
+        "region_code": "70"
+    },
+    {
+        "name": "Duero",
+        "code": "70",
+        "province_code": "701",
+        "region_code": "70"
+    },
+    {
+        "name": "Garcia Hernandez",
+        "code": "70",
+        "province_code": "701",
+        "region_code": "70"
+    },
+    {
+        "name": "Guindulman",
+        "code": "70",
+        "province_code": "701",
+        "region_code": "70"
+    },
+    {
+        "name": "Inabanga",
+        "code": "70",
+        "province_code": "701",
+        "region_code": "70"
+    },
+    {
+        "name": "Jagna",
+        "code": "70",
+        "province_code": "701",
+        "region_code": "70"
+    },
+    {
+        "name": "Getafe",
+        "code": "70",
+        "province_code": "701",
+        "region_code": "70"
+    },
+    {
+        "name": "Lila",
+        "code": "70",
+        "province_code": "701",
+        "region_code": "70"
+    },
+    {
+        "name": "Loay",
+        "code": "70",
+        "province_code": "701",
+        "region_code": "70"
+    },
+    {
+        "name": "Loboc",
+        "code": "70",
+        "province_code": "701",
+        "region_code": "70"
+    },
+    {
+        "name": "Loon",
+        "code": "70",
+        "province_code": "701",
+        "region_code": "70"
+    },
+    {
+        "name": "Mabini",
+        "code": "70",
+        "province_code": "701",
+        "region_code": "70"
+    },
+    {
+        "name": "Maribojoc",
+        "code": "70",
+        "province_code": "701",
+        "region_code": "70"
+    },
+    {
+        "name": "Panglao",
+        "code": "70",
+        "province_code": "701",
+        "region_code": "70"
+    },
+    {
+        "name": "Pilar",
+        "code": "70",
+        "province_code": "701",
+        "region_code": "70"
+    },
+    {
+        "name": "President Carlos P. Garcia",
+        "code": "70",
+        "province_code": "701",
+        "region_code": "70"
+    },
+    {
+        "name": "Sagbayan",
+        "code": "70",
+        "province_code": "701",
+        "region_code": "70"
+    },
+    {
+        "name": "San Isidro",
+        "code": "70",
+        "province_code": "701",
+        "region_code": "70"
+    },
+    {
+        "name": "San Miguel",
+        "code": "70",
+        "province_code": "701",
+        "region_code": "70"
+    },
+    {
+        "name": "Sevilla",
+        "code": "70",
+        "province_code": "701",
+        "region_code": "70"
+    },
+    {
+        "name": "Sierra Bullones",
+        "code": "70",
+        "province_code": "701",
+        "region_code": "70"
+    },
+    {
+        "name": "Sikatuna",
+        "code": "70",
+        "province_code": "701",
+        "region_code": "70"
+    },
+    {
+        "name": "Talibon",
+        "code": "70",
+        "province_code": "701",
+        "region_code": "70"
+    },
+    {
+        "name": "Trinidad",
+        "code": "70",
+        "province_code": "701",
+        "region_code": "70"
+    },
+    {
+        "name": "Tubigon",
+        "code": "70",
+        "province_code": "701",
+        "region_code": "70"
+    },
+    {
+        "name": "Ubay",
+        "code": "70",
+        "province_code": "701",
+        "region_code": "70"
+    },
+    {
+        "name": "Valencia",
+        "code": "70",
+        "province_code": "701",
+        "region_code": "70"
+    },
+    {
+        "name": "Bien Unido",
+        "code": "70",
+        "province_code": "701",
+        "region_code": "70"
+    },
+    {
+        "name": "Alcantara",
+        "code": "70",
+        "province_code": "702",
+        "region_code": "70"
+    },
+    {
+        "name": "Alcoy",
+        "code": "70",
+        "province_code": "702",
+        "region_code": "70"
+    },
+    {
+        "name": "Alegria",
+        "code": "70",
+        "province_code": "702",
+        "region_code": "70"
+    },
+    {
+        "name": "Aloguinsan",
+        "code": "70",
+        "province_code": "702",
+        "region_code": "70"
+    },
+    {
+        "name": "Argao",
+        "code": "70",
+        "province_code": "702",
+        "region_code": "70"
+    },
+    {
+        "name": "Asturias",
+        "code": "70",
+        "province_code": "702",
+        "region_code": "70"
+    },
+    {
+        "name": "Badian",
+        "code": "70",
+        "province_code": "702",
+        "region_code": "70"
+    },
+    {
+        "name": "Balamban",
+        "code": "70",
+        "province_code": "702",
+        "region_code": "70"
+    },
+    {
+        "name": "Bantayan",
+        "code": "70",
+        "province_code": "702",
+        "region_code": "70"
+    },
+    {
+        "name": "Barili",
+        "code": "70",
+        "province_code": "702",
+        "region_code": "70"
+    },
+    {
+        "name": "Boljoon",
+        "code": "70",
+        "province_code": "702",
+        "region_code": "70"
+    },
+    {
+        "name": "Borbon",
+        "code": "70",
+        "province_code": "702",
+        "region_code": "70"
+    },
+    {
+        "name": "Carmen",
+        "code": "70",
+        "province_code": "702",
+        "region_code": "70"
+    },
+    {
+        "name": "Catmon",
+        "code": "70",
+        "province_code": "702",
+        "region_code": "70"
+    },
+    {
+        "name": "Compostela",
+        "code": "70",
+        "province_code": "702",
+        "region_code": "70"
+    },
+    {
+        "name": "Consolacion",
+        "code": "70",
+        "province_code": "702",
+        "region_code": "70"
+    },
+    {
+        "name": "Cordova",
+        "code": "70",
+        "province_code": "702",
+        "region_code": "70"
+    },
+    {
+        "name": "Daanbantayan",
+        "code": "70",
+        "province_code": "702",
+        "region_code": "70"
+    },
+    {
+        "name": "Dalaguete",
+        "code": "70",
+        "province_code": "702",
+        "region_code": "70"
+    },
+    {
+        "name": "Dumanjug",
+        "code": "70",
+        "province_code": "702",
+        "region_code": "70"
+    },
+    {
+        "name": "Ginatilan",
+        "code": "70",
+        "province_code": "702",
+        "region_code": "70"
+    },
+    {
+        "name": "Liloan",
+        "code": "70",
+        "province_code": "702",
+        "region_code": "70"
+    },
+    {
+        "name": "Madridejos",
+        "code": "70",
+        "province_code": "702",
+        "region_code": "70"
+    },
+    {
+        "name": "Malabuyoc",
+        "code": "70",
+        "province_code": "702",
+        "region_code": "70"
+    },
+    {
+        "name": "Medellin",
+        "code": "70",
+        "province_code": "702",
+        "region_code": "70"
+    },
+    {
+        "name": "Minglanilla",
+        "code": "70",
+        "province_code": "702",
+        "region_code": "70"
+    },
+    {
+        "name": "Moalboal",
+        "code": "70",
+        "province_code": "702",
+        "region_code": "70"
+    },
+    {
+        "name": "Oslob",
+        "code": "70",
+        "province_code": "702",
+        "region_code": "70"
+    },
+    {
+        "name": "Pilar",
+        "code": "70",
+        "province_code": "702",
+        "region_code": "70"
+    },
+    {
+        "name": "Pinamungajan",
+        "code": "70",
+        "province_code": "702",
+        "region_code": "70"
+    },
+    {
+        "name": "Poro",
+        "code": "70",
+        "province_code": "702",
+        "region_code": "70"
+    },
+    {
+        "name": "Ronda",
+        "code": "70",
+        "province_code": "702",
+        "region_code": "70"
+    },
+    {
+        "name": "Samboan",
+        "code": "70",
+        "province_code": "702",
+        "region_code": "70"
+    },
+    {
+        "name": "San Fernando",
+        "code": "70",
+        "province_code": "702",
+        "region_code": "70"
+    },
+    {
+        "name": "San Francisco",
+        "code": "70",
+        "province_code": "702",
+        "region_code": "70"
+    },
+    {
+        "name": "San Remigio",
+        "code": "70",
+        "province_code": "702",
+        "region_code": "70"
+    },
+    {
+        "name": "Santa Fe",
+        "code": "70",
+        "province_code": "702",
+        "region_code": "70"
+    },
+    {
+        "name": "Santander",
+        "code": "70",
+        "province_code": "702",
+        "region_code": "70"
+    },
+    {
+        "name": "Sibonga",
+        "code": "70",
+        "province_code": "702",
+        "region_code": "70"
+    },
+    {
+        "name": "Sogod",
+        "code": "70",
+        "province_code": "702",
+        "region_code": "70"
+    },
+    {
+        "name": "Tabogon",
+        "code": "70",
+        "province_code": "702",
+        "region_code": "70"
+    },
+    {
+        "name": "Tabuelan",
+        "code": "70",
+        "province_code": "702",
+        "region_code": "70"
+    },
+    {
+        "name": "Tuburan",
+        "code": "70",
+        "province_code": "702",
+        "region_code": "70"
+    },
+    {
+        "name": "Tudela",
+        "code": "70",
+        "province_code": "702",
+        "region_code": "70"
+    },
+    {
+        "name": "Amlan",
+        "code": "70",
+        "province_code": "704",
+        "region_code": "70"
+    },
+    {
+        "name": "Ayungon",
+        "code": "70",
+        "province_code": "704",
+        "region_code": "70"
+    },
+    {
+        "name": "Bacong",
+        "code": "70",
+        "province_code": "704",
+        "region_code": "70"
+    },
+    {
+        "name": "Basay",
+        "code": "70",
+        "province_code": "704",
+        "region_code": "70"
+    },
+    {
+        "name": "Bindoy",
+        "code": "70",
+        "province_code": "704",
+        "region_code": "70"
+    },
+    {
+        "name": "Dauin",
+        "code": "70",
+        "province_code": "704",
+        "region_code": "70"
+    },
+    {
+        "name": "Jimalalud",
+        "code": "70",
+        "province_code": "704",
+        "region_code": "70"
+    },
+    {
+        "name": "La Libertad",
+        "code": "70",
+        "province_code": "704",
+        "region_code": "70"
+    },
+    {
+        "name": "Mabinay",
+        "code": "70",
+        "province_code": "704",
+        "region_code": "70"
+    },
+    {
+        "name": "Manjuyod",
+        "code": "70",
+        "province_code": "704",
+        "region_code": "70"
+    },
+    {
+        "name": "Pamplona",
+        "code": "70",
+        "province_code": "704",
+        "region_code": "70"
+    },
+    {
+        "name": "San Jose",
+        "code": "70",
+        "province_code": "704",
+        "region_code": "70"
+    },
+    {
+        "name": "Santa Catalina",
+        "code": "70",
+        "province_code": "704",
+        "region_code": "70"
+    },
+    {
+        "name": "Siaton",
+        "code": "70",
+        "province_code": "704",
+        "region_code": "70"
+    },
+    {
+        "name": "Sibulan",
+        "code": "70",
+        "province_code": "704",
+        "region_code": "70"
+    },
+    {
+        "name": "Tayasan",
+        "code": "70",
+        "province_code": "704",
+        "region_code": "70"
+    },
+    {
+        "name": "Valencia",
+        "code": "70",
+        "province_code": "704",
+        "region_code": "70"
+    },
+    {
+        "name": "Vallehermoso",
+        "code": "70",
+        "province_code": "704",
+        "region_code": "70"
+    },
+    {
+        "name": "Zamboanguita",
+        "code": "70",
+        "province_code": "704",
+        "region_code": "70"
+    },
+    {
+        "name": "Enrique Villanueva",
+        "code": "70",
+        "province_code": "706",
+        "region_code": "70"
+    },
+    {
+        "name": "Larena",
+        "code": "70",
+        "province_code": "706",
+        "region_code": "70"
+    },
+    {
+        "name": "Lazi",
+        "code": "70",
+        "province_code": "706",
+        "region_code": "70"
+    },
+    {
+        "name": "Maria",
+        "code": "70",
+        "province_code": "706",
+        "region_code": "70"
+    },
+    {
+        "name": "San Juan",
+        "code": "70",
+        "province_code": "706",
+        "region_code": "70"
+    },
+    {
+        "name": "Siquijor ",
+        "code": "70",
+        "province_code": "706",
+        "region_code": "70"
+    },
+    {
+        "name": "Arteche",
+        "code": "80",
+        "province_code": "802",
+        "region_code": "80"
+    },
+    {
+        "name": "Balangiga",
+        "code": "80",
+        "province_code": "802",
+        "region_code": "80"
+    },
+    {
+        "name": "Balangkayan",
+        "code": "80",
+        "province_code": "802",
+        "region_code": "80"
+    },
+    {
+        "name": "Can-Avid",
+        "code": "80",
+        "province_code": "802",
+        "region_code": "80"
+    },
+    {
+        "name": "Dolores",
+        "code": "80",
+        "province_code": "802",
+        "region_code": "80"
+    },
+    {
+        "name": "General Macarthur",
+        "code": "80",
+        "province_code": "802",
+        "region_code": "80"
+    },
+    {
+        "name": "Giporlos",
+        "code": "80",
+        "province_code": "802",
+        "region_code": "80"
+    },
+    {
+        "name": "Guiuan",
+        "code": "80",
+        "province_code": "802",
+        "region_code": "80"
+    },
+    {
+        "name": "Hernani",
+        "code": "80",
+        "province_code": "802",
+        "region_code": "80"
+    },
+    {
+        "name": "Jipapad",
+        "code": "80",
+        "province_code": "802",
+        "region_code": "80"
+    },
+    {
+        "name": "Lawaan",
+        "code": "80",
+        "province_code": "802",
+        "region_code": "80"
+    },
+    {
+        "name": "Llorente",
+        "code": "80",
+        "province_code": "802",
+        "region_code": "80"
+    },
+    {
+        "name": "Maslog",
+        "code": "80",
+        "province_code": "802",
+        "region_code": "80"
+    },
+    {
+        "name": "Maydolong",
+        "code": "80",
+        "province_code": "802",
+        "region_code": "80"
+    },
+    {
+        "name": "Mercedes",
+        "code": "80",
+        "province_code": "802",
+        "region_code": "80"
+    },
+    {
+        "name": "Oras",
+        "code": "80",
+        "province_code": "802",
+        "region_code": "80"
+    },
+    {
+        "name": "Quinapondan",
+        "code": "80",
+        "province_code": "802",
+        "region_code": "80"
+    },
+    {
+        "name": "Salcedo",
+        "code": "80",
+        "province_code": "802",
+        "region_code": "80"
+    },
+    {
+        "name": "San Julian",
+        "code": "80",
+        "province_code": "802",
+        "region_code": "80"
+    },
+    {
+        "name": "San Policarpo",
+        "code": "80",
+        "province_code": "802",
+        "region_code": "80"
+    },
+    {
+        "name": "Sulat",
+        "code": "80",
+        "province_code": "802",
+        "region_code": "80"
+    },
+    {
+        "name": "Taft",
+        "code": "80",
+        "province_code": "802",
+        "region_code": "80"
+    },
+    {
+        "name": "Abuyog",
+        "code": "80",
+        "province_code": "803",
+        "region_code": "80"
+    },
+    {
+        "name": "Alangalang",
+        "code": "80",
+        "province_code": "803",
+        "region_code": "80"
+    },
+    {
+        "name": "Albuera",
+        "code": "80",
+        "province_code": "803",
+        "region_code": "80"
+    },
+    {
+        "name": "Babatngon",
+        "code": "80",
+        "province_code": "803",
+        "region_code": "80"
+    },
+    {
+        "name": "Barugo",
+        "code": "80",
+        "province_code": "803",
+        "region_code": "80"
+    },
+    {
+        "name": "Bato",
+        "code": "80",
+        "province_code": "803",
+        "region_code": "80"
+    },
+    {
+        "name": "Burauen",
+        "code": "80",
+        "province_code": "803",
+        "region_code": "80"
+    },
+    {
+        "name": "Calubian",
+        "code": "80",
+        "province_code": "803",
+        "region_code": "80"
+    },
+    {
+        "name": "Capoocan",
+        "code": "80",
+        "province_code": "803",
+        "region_code": "80"
+    },
+    {
+        "name": "Carigara",
+        "code": "80",
+        "province_code": "803",
+        "region_code": "80"
+    },
+    {
+        "name": "Dagami",
+        "code": "80",
+        "province_code": "803",
+        "region_code": "80"
+    },
+    {
+        "name": "Dulag",
+        "code": "80",
+        "province_code": "803",
+        "region_code": "80"
+    },
+    {
+        "name": "Hilongos",
+        "code": "80",
+        "province_code": "803",
+        "region_code": "80"
+    },
+    {
+        "name": "Hindang",
+        "code": "80",
+        "province_code": "803",
+        "region_code": "80"
+    },
+    {
+        "name": "Inopacan",
+        "code": "80",
+        "province_code": "803",
+        "region_code": "80"
+    },
+    {
+        "name": "Isabel",
+        "code": "80",
+        "province_code": "803",
+        "region_code": "80"
+    },
+    {
+        "name": "Jaro",
+        "code": "80",
+        "province_code": "803",
+        "region_code": "80"
+    },
+    {
+        "name": "Javier",
+        "code": "80",
+        "province_code": "803",
+        "region_code": "80"
+    },
+    {
+        "name": "Julita",
+        "code": "80",
+        "province_code": "803",
+        "region_code": "80"
+    },
+    {
+        "name": "Kananga",
+        "code": "80",
+        "province_code": "803",
+        "region_code": "80"
+    },
+    {
+        "name": "La Paz",
+        "code": "80",
+        "province_code": "803",
+        "region_code": "80"
+    },
+    {
+        "name": "Leyte",
+        "code": "80",
+        "province_code": "803",
+        "region_code": "80"
+    },
+    {
+        "name": "Macarthur",
+        "code": "80",
+        "province_code": "803",
+        "region_code": "80"
+    },
+    {
+        "name": "Mahaplag",
+        "code": "80",
+        "province_code": "803",
+        "region_code": "80"
+    },
+    {
+        "name": "Matag-Ob",
+        "code": "80",
+        "province_code": "803",
+        "region_code": "80"
+    },
+    {
+        "name": "Matalom",
+        "code": "80",
+        "province_code": "803",
+        "region_code": "80"
+    },
+    {
+        "name": "Mayorga",
+        "code": "80",
+        "province_code": "803",
+        "region_code": "80"
+    },
+    {
+        "name": "Merida",
+        "code": "80",
+        "province_code": "803",
+        "region_code": "80"
+    },
+    {
+        "name": "Palo",
+        "code": "80",
+        "province_code": "803",
+        "region_code": "80"
+    },
+    {
+        "name": "Palompon",
+        "code": "80",
+        "province_code": "803",
+        "region_code": "80"
+    },
+    {
+        "name": "Pastrana",
+        "code": "80",
+        "province_code": "803",
+        "region_code": "80"
+    },
+    {
+        "name": "San Isidro",
+        "code": "80",
+        "province_code": "803",
+        "region_code": "80"
+    },
+    {
+        "name": "San Miguel",
+        "code": "80",
+        "province_code": "803",
+        "region_code": "80"
+    },
+    {
+        "name": "Santa Fe",
+        "code": "80",
+        "province_code": "803",
+        "region_code": "80"
+    },
+    {
+        "name": "Tabango",
+        "code": "80",
+        "province_code": "803",
+        "region_code": "80"
+    },
+    {
+        "name": "Tabontabon",
+        "code": "80",
+        "province_code": "803",
+        "region_code": "80"
+    },
+    {
+        "name": "Tanauan",
+        "code": "80",
+        "province_code": "803",
+        "region_code": "80"
+    },
+    {
+        "name": "Tolosa",
+        "code": "80",
+        "province_code": "803",
+        "region_code": "80"
+    },
+    {
+        "name": "Tunga",
+        "code": "80",
+        "province_code": "803",
+        "region_code": "80"
+    },
+    {
+        "name": "Villaba",
+        "code": "80",
+        "province_code": "803",
+        "region_code": "80"
+    },
+    {
+        "name": "Allen",
+        "code": "80",
+        "province_code": "804",
+        "region_code": "80"
+    },
+    {
+        "name": "Biri",
+        "code": "80",
+        "province_code": "804",
+        "region_code": "80"
+    },
+    {
+        "name": "Bobon",
+        "code": "80",
+        "province_code": "804",
+        "region_code": "80"
+    },
+    {
+        "name": "Capul",
+        "code": "80",
+        "province_code": "804",
+        "region_code": "80"
+    },
+    {
+        "name": "Catarman ",
+        "code": "80",
+        "province_code": "804",
+        "region_code": "80"
+    },
+    {
+        "name": "Catubig",
+        "code": "80",
+        "province_code": "804",
+        "region_code": "80"
+    },
+    {
+        "name": "Gamay",
+        "code": "80",
+        "province_code": "804",
+        "region_code": "80"
+    },
+    {
+        "name": "Laoang",
+        "code": "80",
+        "province_code": "804",
+        "region_code": "80"
+    },
+    {
+        "name": "Lapinig",
+        "code": "80",
+        "province_code": "804",
+        "region_code": "80"
+    },
+    {
+        "name": "Las Navas",
+        "code": "80",
+        "province_code": "804",
+        "region_code": "80"
+    },
+    {
+        "name": "Lavezares",
+        "code": "80",
+        "province_code": "804",
+        "region_code": "80"
+    },
+    {
+        "name": "Mapanas",
+        "code": "80",
+        "province_code": "804",
+        "region_code": "80"
+    },
+    {
+        "name": "Mondragon",
+        "code": "80",
+        "province_code": "804",
+        "region_code": "80"
+    },
+    {
+        "name": "Palapag",
+        "code": "80",
+        "province_code": "804",
+        "region_code": "80"
+    },
+    {
+        "name": "Pambujan",
+        "code": "80",
+        "province_code": "804",
+        "region_code": "80"
+    },
+    {
+        "name": "Rosario",
+        "code": "80",
+        "province_code": "804",
+        "region_code": "80"
+    },
+    {
+        "name": "San Antonio",
+        "code": "80",
+        "province_code": "804",
+        "region_code": "80"
+    },
+    {
+        "name": "San Isidro",
+        "code": "80",
+        "province_code": "804",
+        "region_code": "80"
+    },
+    {
+        "name": "San Jose",
+        "code": "80",
+        "province_code": "804",
+        "region_code": "80"
+    },
+    {
+        "name": "San Roque",
+        "code": "80",
+        "province_code": "804",
+        "region_code": "80"
+    },
+    {
+        "name": "San Vicente",
+        "code": "80",
+        "province_code": "804",
+        "region_code": "80"
+    },
+    {
+        "name": "Silvino Lobos",
+        "code": "80",
+        "province_code": "804",
+        "region_code": "80"
+    },
+    {
+        "name": "Victoria",
+        "code": "80",
+        "province_code": "804",
+        "region_code": "80"
+    },
+    {
+        "name": "Lope De Vega",
+        "code": "80",
+        "province_code": "804",
+        "region_code": "80"
+    },
+    {
+        "name": "Almagro",
+        "code": "80",
+        "province_code": "806",
+        "region_code": "80"
+    },
+    {
+        "name": "Basey",
+        "code": "80",
+        "province_code": "806",
+        "region_code": "80"
+    },
+    {
+        "name": "Calbiga",
+        "code": "80",
+        "province_code": "806",
+        "region_code": "80"
+    },
+    {
+        "name": "Daram",
+        "code": "80",
+        "province_code": "806",
+        "region_code": "80"
+    },
+    {
+        "name": "Gandara",
+        "code": "80",
+        "province_code": "806",
+        "region_code": "80"
+    },
+    {
+        "name": "Hinabangan",
+        "code": "80",
+        "province_code": "806",
+        "region_code": "80"
+    },
+    {
+        "name": "Jiabong",
+        "code": "80",
+        "province_code": "806",
+        "region_code": "80"
+    },
+    {
+        "name": "Marabut",
+        "code": "80",
+        "province_code": "806",
+        "region_code": "80"
+    },
+    {
+        "name": "Matuguinao",
+        "code": "80",
+        "province_code": "806",
+        "region_code": "80"
+    },
+    {
+        "name": "Motiong",
+        "code": "80",
+        "province_code": "806",
+        "region_code": "80"
+    },
+    {
+        "name": "Pinabacdao",
+        "code": "80",
+        "province_code": "806",
+        "region_code": "80"
+    },
+    {
+        "name": "San Jose De Buan",
+        "code": "80",
+        "province_code": "806",
+        "region_code": "80"
+    },
+    {
+        "name": "San Sebastian",
+        "code": "80",
+        "province_code": "806",
+        "region_code": "80"
+    },
+    {
+        "name": "Santa Margarita",
+        "code": "80",
+        "province_code": "806",
+        "region_code": "80"
+    },
+    {
+        "name": "Santa Rita",
+        "code": "80",
+        "province_code": "806",
+        "region_code": "80"
+    },
+    {
+        "name": "Santo Ni\u00f1o",
+        "code": "80",
+        "province_code": "806",
+        "region_code": "80"
+    },
+    {
+        "name": "Talalora",
+        "code": "80",
+        "province_code": "806",
+        "region_code": "80"
+    },
+    {
+        "name": "Tarangnan",
+        "code": "80",
+        "province_code": "806",
+        "region_code": "80"
+    },
+    {
+        "name": "Villareal",
+        "code": "80",
+        "province_code": "806",
+        "region_code": "80"
+    },
+    {
+        "name": "Paranas",
+        "code": "80",
+        "province_code": "806",
+        "region_code": "80"
+    },
+    {
+        "name": "Zumarraga",
+        "code": "80",
+        "province_code": "806",
+        "region_code": "80"
+    },
+    {
+        "name": "Tagapul-An",
+        "code": "80",
+        "province_code": "806",
+        "region_code": "80"
+    },
+    {
+        "name": "San Jorge",
+        "code": "80",
+        "province_code": "806",
+        "region_code": "80"
+    },
+    {
+        "name": "Pagsanghan",
+        "code": "80",
+        "province_code": "806",
+        "region_code": "80"
+    },
+    {
+        "name": "Anahawan",
+        "code": "80",
+        "province_code": "806",
+        "region_code": "80"
+    },
+    {
+        "name": "Bontoc",
+        "code": "80",
+        "province_code": "806",
+        "region_code": "80"
+    },
+    {
+        "name": "Hinunangan",
+        "code": "80",
+        "province_code": "806",
+        "region_code": "80"
+    },
+    {
+        "name": "Hinundayan",
+        "code": "80",
+        "province_code": "806",
+        "region_code": "80"
+    },
+    {
+        "name": "Libagon",
+        "code": "80",
+        "province_code": "806",
+        "region_code": "80"
+    },
+    {
+        "name": "Liloan",
+        "code": "80",
+        "province_code": "806",
+        "region_code": "80"
+    },
+    {
+        "name": "Macrohon",
+        "code": "80",
+        "province_code": "806",
+        "region_code": "80"
+    },
+    {
+        "name": "Malitbog",
+        "code": "80",
+        "province_code": "806",
+        "region_code": "80"
+    },
+    {
+        "name": "Padre Burgos",
+        "code": "80",
+        "province_code": "806",
+        "region_code": "80"
+    },
+    {
+        "name": "Pintuyan",
+        "code": "80",
+        "province_code": "806",
+        "region_code": "80"
+    },
+    {
+        "name": "Saint Bernard",
+        "code": "80",
+        "province_code": "806",
+        "region_code": "80"
+    },
+    {
+        "name": "San Francisco",
+        "code": "80",
+        "province_code": "806",
+        "region_code": "80"
+    },
+    {
+        "name": "San Juan",
+        "code": "80",
+        "province_code": "806",
+        "region_code": "80"
+    },
+    {
+        "name": "San Ricardo",
+        "code": "80",
+        "province_code": "806",
+        "region_code": "80"
+    },
+    {
+        "name": "Silago",
+        "code": "80",
+        "province_code": "806",
+        "region_code": "80"
+    },
+    {
+        "name": "Sogod",
+        "code": "80",
+        "province_code": "806",
+        "region_code": "80"
+    },
+    {
+        "name": "Tomas Oppus",
+        "code": "80",
+        "province_code": "806",
+        "region_code": "80"
+    },
+    {
+        "name": "Limasawa",
+        "code": "80",
+        "province_code": "806",
+        "region_code": "80"
+    },
+    {
+        "name": "Almeria",
+        "code": "80",
+        "province_code": "807",
+        "region_code": "80"
+    },
+    {
+        "name": "Biliran",
+        "code": "80",
+        "province_code": "807",
+        "region_code": "80"
+    },
+    {
+        "name": "Cabucgayan",
+        "code": "80",
+        "province_code": "807",
+        "region_code": "80"
+    },
+    {
+        "name": "Caibiran",
+        "code": "80",
+        "province_code": "807",
+        "region_code": "80"
+    },
+    {
+        "name": "Culaba",
+        "code": "80",
+        "province_code": "807",
+        "region_code": "80"
+    },
+    {
+        "name": "Kawayan",
+        "code": "80",
+        "province_code": "807",
+        "region_code": "80"
+    },
+    {
+        "name": "Maripipi",
+        "code": "80",
+        "province_code": "807",
+        "region_code": "80"
+    },
+    {
+        "name": "Naval ",
+        "code": "80",
+        "province_code": "807",
+        "region_code": "80"
+    },
+    {
+        "name": "Katipunan",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "name": "La Libertad",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "name": "Labason",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "name": "Liloy",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "name": "Manukan",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "name": "Mutia",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "name": "Pi\u00f1an",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "name": "Polanco",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "name": "Pres. Manuel A. Roxas",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "name": "Rizal",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "name": "Salug",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "name": "Sergio Osme\u00f1a Sr.",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "name": "Siayan",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "name": "Sibuco",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "name": "Sibutad",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "name": "Sindangan",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "name": "Siocon",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "name": "Sirawai",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "name": "Tampilisan",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "name": "Jose Dalman",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "name": "Gutalac",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "name": "Baliguian",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "name": "Godod",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "name": "Bacungan",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "name": "Kalawit",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "name": "Aurora",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "name": "Bayog",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "name": "Dimataling",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "name": "Dinas",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "name": "Dumalinao",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "name": "Dumingag",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "name": "Kumalarang",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "name": "Labangan",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "name": "Lapuyan",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "name": "Mahayag",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "name": "Margosatubig",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "name": "Midsalip",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "name": "Molave",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "name": "Ramon Magsaysay",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "name": "San Miguel",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "name": "San Pablo",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "name": "Tabina",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "name": "Tambulig",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "name": "Tukuran",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "name": "Lakewood",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "name": "Josefina",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "name": "Pitogo",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "name": "Sominot",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "name": "Vincenzo A. Sagun",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "name": "Guipos",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "name": "Tigbao",
+        "code": "90",
+        "province_code": "907",
+        "region_code": "90"
+    },
+    {
+        "name": "Alicia",
+        "code": "90",
+        "province_code": "908",
+        "region_code": "90"
+    },
+    {
+        "name": "Buug",
+        "code": "90",
+        "province_code": "908",
+        "region_code": "90"
+    },
+    {
+        "name": "Diplahan",
+        "code": "90",
+        "province_code": "908",
+        "region_code": "90"
+    },
+    {
+        "name": "Imelda",
+        "code": "90",
+        "province_code": "908",
+        "region_code": "90"
+    },
+    {
+        "name": "Ipil ",
+        "code": "90",
+        "province_code": "908",
+        "region_code": "90"
+    },
+    {
+        "name": "Kabasalan",
+        "code": "90",
+        "province_code": "908",
+        "region_code": "90"
+    },
+    {
+        "name": "Mabuhay",
+        "code": "90",
+        "province_code": "908",
+        "region_code": "90"
+    },
+    {
+        "name": "Malangas",
+        "code": "90",
+        "province_code": "908",
+        "region_code": "90"
+    },
+    {
+        "name": "Naga",
+        "code": "90",
+        "province_code": "908",
+        "region_code": "90"
+    },
+    {
+        "name": "Olutanga",
+        "code": "90",
+        "province_code": "908",
+        "region_code": "90"
+    },
+    {
+        "name": "Payao",
+        "code": "90",
+        "province_code": "908",
+        "region_code": "90"
+    },
+    {
+        "name": "Roseller Lim",
+        "code": "90",
+        "province_code": "908",
+        "region_code": "90"
+    },
+    {
+        "name": "Siay",
+        "code": "90",
+        "province_code": "908",
+        "region_code": "90"
+    },
+    {
+        "name": "Talusan",
+        "code": "90",
+        "province_code": "908",
+        "region_code": "90"
+    },
+    {
+        "name": "Titay",
+        "code": "90",
+        "province_code": "908",
+        "region_code": "90"
+    },
+    {
+        "name": "Tungawan",
+        "code": "90",
+        "province_code": "908",
+        "region_code": "90"
+    },
+    {
+        "name": "Baungon",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Damulog",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Dangcagan",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Don Carlos",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Impasug-ong",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Kadingilan",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Kalilangan",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Kibawe",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Kitaotao",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Lantapan",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Libona",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Malitbog",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Manolo Fortich",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Maramag",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Pangantucan",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Quezon",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "San Fernando",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Sumilao",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Talakag",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Cabanglasan",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Catarman",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Guinsiliban",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Mahinog",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Mambajao ",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Sagay",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Bacolod",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Baloi",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Baroy",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Kapatagan",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Sultan Naga Dimaporo",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Kauswagan",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Kolambugan",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Lala",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Linamon",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Magsaysay",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Maigo",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Matungao",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Munai",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Nunungan",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Pantao Ragat",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Poona Piagapo",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Salvador",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Sapad",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Tagoloan",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Tangcal",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Tubod ",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Pantar",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Aloran",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Baliangao",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Bonifacio",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Calamba",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Clarin",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Concepcion",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Jimenez",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Lopez Jaena",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Panaon",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Plaridel",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Sapang Dalaga",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Sinacaban",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Tudela",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Don Victoriano Chiongbian",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Alubijid",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Balingasag",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Balingoan",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Binuangan",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Claveria",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Gitagum",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Initao",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Jasaan",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Kinoguitan",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Lagonglong",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Laguindingan",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Libertad",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Lugait",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Magsaysay",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Manticao",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Medina",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Naawan",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Opol",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Salay",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Sugbongcogon",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Tagoloan",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Talisayan",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Villanueva",
+        "code": "10",
+        "province_code": "100",
+        "region_code": "10"
+    },
+    {
+        "name": "Asuncion",
+        "code": "11",
+        "province_code": "110",
+        "region_code": "11"
+    },
+    {
+        "name": "Carmen",
+        "code": "11",
+        "province_code": "110",
+        "region_code": "11"
+    },
+    {
+        "name": "Kapalong",
+        "code": "11",
+        "province_code": "110",
+        "region_code": "11"
+    },
+    {
+        "name": "New Corella",
+        "code": "11",
+        "province_code": "110",
+        "region_code": "11"
+    },
+    {
+        "name": "Santo Tomas",
+        "code": "11",
+        "province_code": "110",
+        "region_code": "11"
+    },
+    {
+        "name": "Talaingod",
+        "code": "11",
+        "province_code": "110",
+        "region_code": "11"
+    },
+    {
+        "name": "Braulio E. Dujali",
+        "code": "11",
+        "province_code": "110",
+        "region_code": "11"
+    },
+    {
+        "name": "San Isidro",
+        "code": "11",
+        "province_code": "110",
+        "region_code": "11"
+    },
+    {
+        "name": "Bansalan",
+        "code": "11",
+        "province_code": "110",
+        "region_code": "11"
+    },
+    {
+        "name": "Hagonoy",
+        "code": "11",
+        "province_code": "110",
+        "region_code": "11"
+    },
+    {
+        "name": "Kiblawan",
+        "code": "11",
+        "province_code": "110",
+        "region_code": "11"
+    },
+    {
+        "name": "Magsaysay",
+        "code": "11",
+        "province_code": "110",
+        "region_code": "11"
+    },
+    {
+        "name": "Malalag",
+        "code": "11",
+        "province_code": "110",
+        "region_code": "11"
+    },
+    {
+        "name": "Matanao",
+        "code": "11",
+        "province_code": "110",
+        "region_code": "11"
+    },
+    {
+        "name": "Padada",
+        "code": "11",
+        "province_code": "110",
+        "region_code": "11"
+    },
+    {
+        "name": "Santa Cruz",
+        "code": "11",
+        "province_code": "110",
+        "region_code": "11"
+    },
+    {
+        "name": "Sulop",
+        "code": "11",
+        "province_code": "110",
+        "region_code": "11"
+    },
+    {
+        "name": "Baganga",
+        "code": "11",
+        "province_code": "110",
+        "region_code": "11"
+    },
+    {
+        "name": "Banaybanay",
+        "code": "11",
+        "province_code": "110",
+        "region_code": "11"
+    },
+    {
+        "name": "Boston",
+        "code": "11",
+        "province_code": "110",
+        "region_code": "11"
+    },
+    {
+        "name": "Caraga",
+        "code": "11",
+        "province_code": "110",
+        "region_code": "11"
+    },
+    {
+        "name": "Cateel",
+        "code": "11",
+        "province_code": "110",
+        "region_code": "11"
+    },
+    {
+        "name": "Governor Generoso",
+        "code": "11",
+        "province_code": "110",
+        "region_code": "11"
+    },
+    {
+        "name": "Lupon",
+        "code": "11",
+        "province_code": "110",
+        "region_code": "11"
+    },
+    {
+        "name": "Manay",
+        "code": "11",
+        "province_code": "110",
+        "region_code": "11"
+    },
+    {
+        "name": "San Isidro",
+        "code": "11",
+        "province_code": "110",
+        "region_code": "11"
+    },
+    {
+        "name": "Tarragona",
+        "code": "11",
+        "province_code": "110",
+        "region_code": "11"
+    },
+    {
+        "name": "Compostela",
+        "code": "11",
+        "province_code": "110",
+        "region_code": "11"
+    },
+    {
+        "name": "Laak",
+        "code": "11",
+        "province_code": "110",
+        "region_code": "11"
+    },
+    {
+        "name": "Mabini",
+        "code": "11",
+        "province_code": "110",
+        "region_code": "11"
+    },
+    {
+        "name": "Maco",
+        "code": "11",
+        "province_code": "110",
+        "region_code": "11"
+    },
+    {
+        "name": "Maragusan",
+        "code": "11",
+        "province_code": "110",
+        "region_code": "11"
+    },
+    {
+        "name": "Mawab",
+        "code": "11",
+        "province_code": "110",
+        "region_code": "11"
+    },
+    {
+        "name": "Monkayo",
+        "code": "11",
+        "province_code": "110",
+        "region_code": "11"
+    },
+    {
+        "name": "Montevista",
+        "code": "11",
+        "province_code": "110",
+        "region_code": "11"
+    },
+    {
+        "name": "Nabunturan ",
+        "code": "11",
+        "province_code": "110",
+        "region_code": "11"
+    },
+    {
+        "name": "New Bataan",
+        "code": "11",
+        "province_code": "110",
+        "region_code": "11"
+    },
+    {
+        "name": "Pantukan",
+        "code": "11",
+        "province_code": "110",
+        "region_code": "11"
+    },
+    {
+        "name": "Don Marcelino",
+        "code": "11",
+        "province_code": "110",
+        "region_code": "11"
+    },
+    {
+        "name": "Jose Abad Santos",
+        "code": "11",
+        "province_code": "110",
+        "region_code": "11"
+    },
+    {
+        "name": "Malita ",
+        "code": "11",
+        "province_code": "110",
+        "region_code": "11"
+    },
+    {
+        "name": "Santa Maria",
+        "code": "11",
+        "province_code": "110",
+        "region_code": "11"
+    },
+    {
+        "name": "Sarangani",
+        "code": "11",
+        "province_code": "110",
+        "region_code": "11"
+    },
+    {
+        "name": "Alamada",
+        "code": "12",
+        "province_code": "120",
+        "region_code": "12"
+    },
+    {
+        "name": "Carmen",
+        "code": "12",
+        "province_code": "120",
+        "region_code": "12"
+    },
+    {
+        "name": "Kabacan",
+        "code": "12",
+        "province_code": "120",
+        "region_code": "12"
+    },
+    {
+        "name": "Libungan",
+        "code": "12",
+        "province_code": "120",
+        "region_code": "12"
+    },
+    {
+        "name": "Magpet",
+        "code": "12",
+        "province_code": "120",
+        "region_code": "12"
+    },
+    {
+        "name": "Makilala",
+        "code": "12",
+        "province_code": "120",
+        "region_code": "12"
+    },
+    {
+        "name": "Matalam",
+        "code": "12",
+        "province_code": "120",
+        "region_code": "12"
+    },
+    {
+        "name": "Midsayap",
+        "code": "12",
+        "province_code": "120",
+        "region_code": "12"
+    },
+    {
+        "name": "M'Lang",
+        "code": "12",
+        "province_code": "120",
+        "region_code": "12"
+    },
+    {
+        "name": "Pigkawayan",
+        "code": "12",
+        "province_code": "120",
+        "region_code": "12"
+    },
+    {
+        "name": "Pikit",
+        "code": "12",
+        "province_code": "120",
+        "region_code": "12"
+    },
+    {
+        "name": "President Roxas",
+        "code": "12",
+        "province_code": "120",
+        "region_code": "12"
+    },
+    {
+        "name": "Tulunan",
+        "code": "12",
+        "province_code": "120",
+        "region_code": "12"
+    },
+    {
+        "name": "Antipas",
+        "code": "12",
+        "province_code": "120",
+        "region_code": "12"
+    },
+    {
+        "name": "Banisilan",
+        "code": "12",
+        "province_code": "120",
+        "region_code": "12"
+    },
+    {
+        "name": "Aleosan",
+        "code": "12",
+        "province_code": "120",
+        "region_code": "12"
+    },
+    {
+        "name": "Arakan",
+        "code": "12",
+        "province_code": "120",
+        "region_code": "12"
+    },
+    {
+        "name": "Banga",
+        "code": "12",
+        "province_code": "120",
+        "region_code": "12"
+    },
+    {
+        "name": "Norala",
+        "code": "12",
+        "province_code": "120",
+        "region_code": "12"
+    },
+    {
+        "name": "Polomolok",
+        "code": "12",
+        "province_code": "120",
+        "region_code": "12"
+    },
+    {
+        "name": "Surallah",
+        "code": "12",
+        "province_code": "120",
+        "region_code": "12"
+    },
+    {
+        "name": "Tampakan",
+        "code": "12",
+        "province_code": "120",
+        "region_code": "12"
+    },
+    {
+        "name": "Tantangan",
+        "code": "12",
+        "province_code": "120",
+        "region_code": "12"
+    },
+    {
+        "name": "T'Boli",
+        "code": "12",
+        "province_code": "120",
+        "region_code": "12"
+    },
+    {
+        "name": "Tupi",
+        "code": "12",
+        "province_code": "120",
+        "region_code": "12"
+    },
+    {
+        "name": "Santo Ni\u00f1o",
+        "code": "12",
+        "province_code": "120",
+        "region_code": "12"
+    },
+    {
+        "name": "Lake Sebu",
+        "code": "12",
+        "province_code": "120",
+        "region_code": "12"
+    },
+    {
+        "name": "Bagumbayan",
+        "code": "12",
+        "province_code": "120",
+        "region_code": "12"
+    },
+    {
+        "name": "Columbio",
+        "code": "12",
+        "province_code": "120",
+        "region_code": "12"
+    },
+    {
+        "name": "Esperanza",
+        "code": "12",
+        "province_code": "120",
+        "region_code": "12"
+    },
+    {
+        "name": "Isulan ",
+        "code": "12",
+        "province_code": "120",
+        "region_code": "12"
+    },
+    {
+        "name": "Kalamansig",
+        "code": "12",
+        "province_code": "120",
+        "region_code": "12"
+    },
+    {
+        "name": "Lebak",
+        "code": "12",
+        "province_code": "120",
+        "region_code": "12"
+    },
+    {
+        "name": "Lutayan",
+        "code": "12",
+        "province_code": "120",
+        "region_code": "12"
+    },
+    {
+        "name": "Lambayong",
+        "code": "12",
+        "province_code": "120",
+        "region_code": "12"
+    },
+    {
+        "name": "Palimbang",
+        "code": "12",
+        "province_code": "120",
+        "region_code": "12"
+    },
+    {
+        "name": "President Quirino",
+        "code": "12",
+        "province_code": "120",
+        "region_code": "12"
+    },
+    {
+        "name": "Sen. Ninoy Aquino",
+        "code": "12",
+        "province_code": "120",
+        "region_code": "12"
+    },
+    {
+        "name": "Alabel ",
+        "code": "12",
+        "province_code": "120",
+        "region_code": "12"
+    },
+    {
+        "name": "Glan",
+        "code": "12",
+        "province_code": "120",
+        "region_code": "12"
+    },
+    {
+        "name": "Kiamba",
+        "code": "12",
+        "province_code": "120",
+        "region_code": "12"
+    },
+    {
+        "name": "Maasim",
+        "code": "12",
+        "province_code": "120",
+        "region_code": "12"
+    },
+    {
+        "name": "Maitum",
+        "code": "12",
+        "province_code": "120",
+        "region_code": "12"
+    },
+    {
+        "name": "Malapatan",
+        "code": "12",
+        "province_code": "120",
+        "region_code": "12"
+    },
+    {
+        "name": "Malungon",
+        "code": "12",
+        "province_code": "120",
+        "region_code": "12"
+    },
+    {
+        "name": "Pateros",
+        "code": "13",
+        "province_code": "138",
+        "region_code": "13"
+    },
+    {
+        "name": "Bangued ",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Boliney",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Bucay",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Bucloc",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Daguioman",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Danglas",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Dolores",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "La Paz",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Lacub",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Lagangilang",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Lagayan",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Langiden",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Licuan-Baay",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Luba",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Malibcong",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Manabo",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Pe\u00f1arrubia",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Pidigan",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Pilar",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Sallapadan",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "San Isidro",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "San Juan",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "San Quintin",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Tayum",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Tineg",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Tubo",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Villaviciosa",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Atok",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Bakun",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Bokod",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Buguias",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Itogon",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Kabayan",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Kapangan",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Kibungan",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "La Trinidad ",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Mankayan",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Sablan",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Tuba",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Tublay",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Banaue",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Hungduan",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Kiangan",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Lagawe ",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Lamut",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Mayoyao",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Alfonso Lista",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Aguinaldo",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Hingyon",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Tinoc",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Asipulo",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Balbalan",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Lubuagan",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Pasil",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Pinukpuk",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Rizal",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Tanudan",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Tinglayan",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Barlig",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Bauko",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Besao",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Bontoc ",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Natonin",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Paracelis",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Sabangan",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Sadanga",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Sagada",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Tadian",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Calanasan",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Conner",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Flora",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Kabugao ",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Luna",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Pudtol",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Santa Marcela",
+        "code": "14",
+        "province_code": "140",
+        "region_code": "14"
+    },
+    {
+        "name": "Buenavista",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Carmen",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Jabonga",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Kitcharao",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Las Nieves",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Magallanes",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Nasipit",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Santiago",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Tubay",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Remedios T. Romualdez",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Bunawan",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Esperanza",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "La Paz",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Loreto",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Prosperidad ",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Rosario",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "San Francisco",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "San Luis",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Santa Josefa",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Talacogon",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Trento",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Veruela",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Sibagat",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Alegria",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Bacuag",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Burgos",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Claver",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Dapa",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Del Carmen",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "General Luna",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Gigaquit",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Mainit",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Malimono",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Pilar",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Placer",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "San Benito",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "San Francisco",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "San Isidro",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Santa Monica",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Sison",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Socorro",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Tagana-An",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Tubod",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Barobo",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Bayabas",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Cagwait",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Cantilan",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Carmen",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Carrascal",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Cortes",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Hinatuan",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Lanuza",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Lianga",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Lingig",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Madrid",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Marihatag",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "San Agustin",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "San Miguel",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Tagbina",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Tago",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Basilisa",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Cagdianao",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Dinagat",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Libjo",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Loreto",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "San Jose ",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Tubajon",
+        "code": "16",
+        "province_code": "160",
+        "region_code": "16"
+    },
+    {
+        "name": "Lantawan",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Maluso",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Sumisip",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Tipo-Tipo",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Tuburan",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Akbar",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Al-Barka",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Hadji Mohammad Ajul",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Ungkaya Pukan",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Hadji Muhtamad",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Tabuan-Lasa",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Bacolod-Kalawi",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Balabagan",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Balindong",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Bayang",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Binidayan",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Bubong",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Butig",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Ganassi",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Kapai",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Lumba-Bayabao",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Lumbatan",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Madalum",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Madamba",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Malabang",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Marantao",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Masiu",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Mulondo",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Pagayawan",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Piagapo",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Poona Bayabao",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Pualas",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Ditsaan-Ramain",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Saguiaran",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Tamparan",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Taraka",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Tubaran",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Tugaya",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Wao",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Marogong",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Calanogas",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Buadiposo-Buntong",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Maguing",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Picong",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Lumbayanague",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Amai Manabilang",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Tagoloan Ii",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Kapatagan",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Sultan Dumalondong",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Lumbaca-Unayan",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Indanan",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Jolo ",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Kalingalan Caluang",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Luuk",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Maimbung",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Hadji Panglima Tahil",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Old Panamao",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Pangutaran",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Parang",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Pata",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Patikul",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Siasi",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Talipao",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Tapul",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Tongkil",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Panglima Estino",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Lugus",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Pandami",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Omar",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Panglima Sugala",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Bongao ",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Mapun",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Simunul",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Sitangkai",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "South Ubian",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Tandubas",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Turtle Islands",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Languyan",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Sapa-Sapa",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Sibutu",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Barira",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Buldon",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Datu Blah T. Sinsuat",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Datu Odin Sinsuat",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Kabuntalan",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Matanog",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Northern Kabuntalan",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Parang",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Sultan Kudarat",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Sultan Mastura",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Talitay",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Upi",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Ampatuan",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Buluan",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Datu Abdullah Sangki",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Datu Anggal Midtimbang",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Datu Hoffer Ampatuan",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Datu Paglas",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Datu Piang",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Datu Salibo",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Datu Saudi Ampatuan",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Datu Unsay",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Gen. S.K. Pendatun",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Guindulungan",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Mamasapano",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Mangudadatu",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Pagagawan",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Pagalungan",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Paglat",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Pandag",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Rajah Buayan",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Shariff Aguak",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Shariff Saydona Mustapha",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "South Upi",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Sultan Sa Barongis",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    },
+    {
+        "name": "Talayan",
+        "code": "19",
+        "province_code": "190",
+        "region_code": "19"
+    }
+]
