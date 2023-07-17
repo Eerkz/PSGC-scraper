@@ -81,7 +81,7 @@ To scrape the PSGC data and generate CSV and JSON files, follow these steps:
 ## Setting Up the Database
 1. Import the psgcdb.sql file into your preferred database management tool to create the database and tables.
 
-2. Modify the database credentials in the index.py file to match your database configuration.
+2. Modify the database credentials in the .env file to match your database configuration.
 
 ## Populating the Database
 To populate the database with the scraped data, follow these steps:
@@ -98,6 +98,7 @@ The PSGC Data Scraper requires the following dependencies:
 * requests
 * beautifulsoup4
 * pandas
+* python-dotenv
 
 You can install the required dependencies using the following command:
    ```
