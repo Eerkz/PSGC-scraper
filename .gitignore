@@ -39,7 +39,7 @@ htmlcov/
 .coverage
 .coverage.*
 .cache
-
+.env
 # Dependency directories
 env/
 lib/
