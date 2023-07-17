@@ -21,8 +21,7 @@ if not os.path.exists(json_directory):
     os.makedirs(json_directory)
 
 # Columns to select from the "PSGC" sheet
-columns_to_select = ["10-digit PSGC", "Name", "Status"]
-
+columns_to_select = ["10-digit PSGC", "Name", "2020 Population", "Status"]
 # Make a request to the webpage and parse the HTML
 response = requests.get(baseURL)
 soup = BeautifulSoup(response.content, "html.parser")
@@ -97,7 +96,9 @@ if publication_link:
         json_filepath = os.path.join(json_directory, json_filename)
 
         level_data["name"] = level_data["Name"]
-
+        # Convert the "2020 Population" column values to integers
+        level_data["population"] = level_data["2020 Population"].apply(
+            lambda x: int(re.sub(r"[^\d]+", "", str(x))) if pd.notnull(x) and x != "-" else 0)
         # Add the requested columns based on geographic levels
         if level_name == "regions":
             level_data["code"] = level_data["10-digit PSGC"].astype(
@@ -133,9 +134,9 @@ if publication_link:
                 int).astype(str).str.zfill(10).str[5:7]
 
         # Get the final list of columns to select
-        existing_columns = [col for col in columns_to_select if col not in ["10-digit PSGC", "Status", "Name"]] + \
+        existing_columns = [col for col in columns_to_select if col not in ["10-digit PSGC", "Status", "2020 Population", "Name"]] + \
                            [col for col in level_data.columns if col.endswith(
-                               "_code") or col in ["name", "code"]]
+                               "_code") or col in ["name", "code", "population"]]
 
         # Select the columns that exist in the dataframe
         level_data = level_data[existing_columns]
