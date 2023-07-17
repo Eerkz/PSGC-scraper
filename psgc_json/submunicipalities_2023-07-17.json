@@ -2,85 +2,85 @@
     {
         "name": "Tondo I/II",
         "region_code": "13",
-        "province_code": "138",
-        "municipality_code": "13"
+        "province_code": "806",
+        "municipality_code": "01"
     },
     {
         "name": "Binondo",
         "region_code": "13",
-        "province_code": "138",
-        "municipality_code": "13"
+        "province_code": "806",
+        "municipality_code": "02"
     },
     {
         "name": "Quiapo",
         "region_code": "13",
-        "province_code": "138",
-        "municipality_code": "13"
+        "province_code": "806",
+        "municipality_code": "03"
     },
     {
         "name": "San Nicolas",
         "region_code": "13",
-        "province_code": "138",
-        "municipality_code": "13"
+        "province_code": "806",
+        "municipality_code": "04"
     },
     {
         "name": "Santa Cruz",
         "region_code": "13",
-        "province_code": "138",
-        "municipality_code": "13"
+        "province_code": "806",
+        "municipality_code": "05"
     },
     {
         "name": "Sampaloc",
         "region_code": "13",
-        "province_code": "138",
-        "municipality_code": "13"
+        "province_code": "806",
+        "municipality_code": "06"
     },
     {
         "name": "San Miguel",
         "region_code": "13",
-        "province_code": "138",
-        "municipality_code": "13"
+        "province_code": "806",
+        "municipality_code": "07"
     },
     {
         "name": "Ermita",
         "region_code": "13",
-        "province_code": "138",
-        "municipality_code": "13"
+        "province_code": "806",
+        "municipality_code": "08"
     },
     {
         "name": "Intramuros",
         "region_code": "13",
-        "province_code": "138",
-        "municipality_code": "13"
+        "province_code": "806",
+        "municipality_code": "09"
     },
     {
         "name": "Malate",
         "region_code": "13",
-        "province_code": "138",
-        "municipality_code": "13"
+        "province_code": "806",
+        "municipality_code": "10"
     },
     {
         "name": "Paco",
         "region_code": "13",
-        "province_code": "138",
-        "municipality_code": "13"
+        "province_code": "806",
+        "municipality_code": "11"
     },
     {
         "name": "Pandacan",
         "region_code": "13",
-        "province_code": "138",
-        "municipality_code": "13"
+        "province_code": "806",
+        "municipality_code": "12"
     },
     {
         "name": "Port Area",
         "region_code": "13",
-        "province_code": "138",
+        "province_code": "806",
         "municipality_code": "13"
     },
     {
         "name": "Santa Ana",
         "region_code": "13",
-        "province_code": "138",
-        "municipality_code": "13"
+        "province_code": "806",
+        "municipality_code": "14"
     }
 ]

@@ -21,7 +21,7 @@ if not os.path.exists(json_directory):
     os.makedirs(json_directory)
 
 # Columns to select from the "PSGC" sheet
-columns_to_select = ["10-digit PSGC", "Name", "2020 Population", "Status"]
+columns_to_select = ["10-digit PSGC", "Name", "Status"]
 
 # Make a request to the webpage and parse the HTML
 response = requests.get(baseURL)
@@ -96,47 +96,46 @@ if publication_link:
         csv_filepath = os.path.join(output_directory, csv_filename)
         json_filepath = os.path.join(json_directory, json_filename)
 
-        level_data["population"] = level_data["2020 Population"]
         level_data["name"] = level_data["Name"]
 
         # Add the requested columns based on geographic levels
         if level_name == "regions":
             level_data["code"] = level_data["10-digit PSGC"].astype(
-                str).str[:2]
+                int).astype(str).str.zfill(10).str[:2]
 
         elif level_name in ["provinces", "cities", "municipalities"]:
             if level_name == "provinces":
                 level_data["code"] = level_data["10-digit PSGC"].astype(
-                    str).str[:3]
+                    int).astype(str).str.zfill(10).str[2:5]
             else:
                 level_data["code"] = level_data["10-digit PSGC"].astype(
-                    str).str[:2]
+                    int).astype(str).str.zfill(10).str[5:7]
                 level_data["province_code"] = level_data["10-digit PSGC"].astype(
-                    str).str[:3]
+                    int).astype(str).str.zfill(10).str[2:5]
             level_data["region_code"] = level_data["10-digit PSGC"].astype(
-                str).str[:2]
+                int).astype(str).str.zfill(10).str[:2]
         elif level_name == "submunicipalities":
             level_data["region_code"] = level_data["10-digit PSGC"].astype(
-                str).str[:2]
+                int).astype(str).str.zfill(10).str[:2]
             level_data["province_code"] = level_data["10-digit PSGC"].astype(
-                str).str[:3]
+                int).astype(str).str.zfill(10).str[2:5]
             level_data["municipality_code"] = level_data["10-digit PSGC"].astype(
-                str).str[:2]
+                int).astype(str).str.zfill(10).str[5:7]
 
         elif level_name == "barangays":
             level_data["code"] = level_data["10-digit PSGC"].astype(
-                int).astype(str).str[-3:].str.lstrip("0")
+                int).astype(str).str.zfill(10).str[7:]
             level_data["region_code"] = level_data["10-digit PSGC"].astype(
-                str).str[:2]
+                int).astype(str).str.zfill(10).str[:2]
             level_data["province_code"] = level_data["10-digit PSGC"].astype(
-                str).str[:3]
-            level_data["municipality_code"] = level_data["10-digit PSGC"].astype(
-                str).str[:2]
+                int).astype(str).str.zfill(10).str[2:5]
+            level_data["city_code"] = level_data["10-digit PSGC"].astype(
+                int).astype(str).str.zfill(10).str[5:7]
 
         # Get the final list of columns to select
-        existing_columns = [col for col in columns_to_select if col not in ["10-digit PSGC", "2020 Population", "Status", "Name"]] + \
+        existing_columns = [col for col in columns_to_select if col not in ["10-digit PSGC", "Status", "Name"]] + \
                            [col for col in level_data.columns if col.endswith(
-                               "_code") or col in ["name", "population", "code"]]
+                               "_code") or col in ["name", "code"]]
 
         # Select the columns that exist in the dataframe
         level_data = level_data[existing_columns]

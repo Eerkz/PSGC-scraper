@@ -1,14 +1,14 @@
 name,code
-Region I (Ilocos Region),10
-Region II (Cagayan Valley),20
-Region III (Central Luzon),30
-Region IV-A (CALABARZON),40
+Region I (Ilocos Region),01
+Region II (Cagayan Valley),02
+Region III (Central Luzon),03
+Region IV-A (CALABARZON),04
 MIMAROPA Region,17
-Region V (Bicol Region),50
-Region VI (Western Visayas),60
-Region VII (Central Visayas),70
-Region VIII (Eastern Visayas),80
-Region IX (Zamboanga Peninsula),90
+Region V (Bicol Region),05
+Region VI (Western Visayas),06
+Region VII (Central Visayas),07
+Region VIII (Eastern Visayas),08
+Region IX (Zamboanga Peninsula),09
 Region X (Northern Mindanao),10
 Region XI (Davao Region),11
 Region XII (SOCCSKSARGEN),12

@@ -1,19 +1,19 @@
 [
     {
         "name": "Region I (Ilocos Region)",
-        "code": "10"
+        "code": "01"
     },
     {
         "name": "Region II (Cagayan Valley)",
-        "code": "20"
+        "code": "02"
     },
     {
         "name": "Region III (Central Luzon)",
-        "code": "30"
+        "code": "03"
     },
     {
         "name": "Region IV-A (CALABARZON)",
-        "code": "40"
+        "code": "04"
     },
     {
         "name": "MIMAROPA Region",
@@ -21,23 +21,23 @@
     },
     {
         "name": "Region V (Bicol Region)",
-        "code": "50"
+        "code": "05"
     },
     {
         "name": "Region VI (Western Visayas)",
-        "code": "60"
+        "code": "06"
     },
     {
         "name": "Region VII (Central Visayas)",
-        "code": "70"
+        "code": "07"
     },
     {
         "name": "Region VIII (Eastern Visayas)",
-        "code": "80"
+        "code": "08"
     },
     {
         "name": "Region IX (Zamboanga Peninsula)",
-        "code": "90"
+        "code": "09"
     },
     {
         "name": "Region X (Northern Mindanao)",

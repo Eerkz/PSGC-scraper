@@ -1,149 +1,149 @@
 name,code,province_code,region_code
-City of Batac,10,102,10
-City of Laoag ,10,102,10
-City of Candon,10,102,10
-City of Vigan ,10,102,10
-City of San Fernando ,10,103,10
-City of Alaminos,10,105,10
-City of Dagupan,10,105,10
-City of San Carlos,10,105,10
-City of Urdaneta,10,105,10
-Tuguegarao City ,20,201,20
-City of Cauayan,20,203,20
-City of Ilagan ,20,203,20
-City of Santiago,20,203,20
-City of Balanga ,30,300,30
-City of Baliwag,30,301,30
-City of Malolos ,30,301,30
-City of Meycauayan,30,301,30
-City of San Jose Del Monte,30,301,30
-City of Cabanatuan,30,304,30
-City of Gapan,30,304,30
-Science City of Muñoz,30,304,30
-City of Palayan ,30,304,30
-San Jose City,30,304,30
-City of Angeles,33,330,33
-Mabalacat City,30,305,30
-City of San Fernando ,30,305,30
-City of Tarlac ,30,306,30
-City of Olongapo,33,331,33
-Batangas City ,40,401,40
-City of Calaca,40,401,40
-City of Lipa,40,401,40
-City of Sto. Tomas,40,401,40
-City of Tanauan,40,401,40
-City of Bacoor,40,402,40
-City of Cavite,40,402,40
-City of Dasmariñas,40,402,40
-City of General Trias,40,402,40
-City of Imus,40,402,40
-City of Tagaytay,40,402,40
-City of Trece Martires ,40,402,40
-City of Biñan,40,403,40
-City of Cabuyao,40,403,40
-City of Calamba,40,403,40
-City of San Pablo,40,403,40
-City of San Pedro,40,403,40
-City of Santa Rosa,40,403,40
-City of Lucena ,43,431,43
-City of Tayabas,40,405,40
-City of Antipolo ,40,405,40
-City of Calapan ,17,170,17
-City of Puerto Princesa ,17,173,17
-City of Legazpi ,50,500,50
-City of Ligao,50,500,50
-City of Tabaco,50,500,50
-City of Iriga,50,501,50
-City of Naga,50,501,50
-City of Masbate ,50,504,50
-City of Sorsogon ,50,506,50
-City of Roxas ,60,601,60
-City of Iloilo ,63,631,63
-City of Passi,60,603,60
-City of Bacolod ,63,630,63
-City of Bago,60,604,60
-City of Cadiz,60,604,60
-City of Escalante,60,604,60
-City of Himamaylan,60,604,60
-City of Kabankalan,60,604,60
-City of La Carlota,60,604,60
-City of Sagay,60,604,60
-City of San Carlos,60,604,60
-City of Silay,60,604,60
-City of Sipalay,60,604,60
-City of Talisay,60,604,60
-City of Victorias,60,604,60
-City of Tagbilaran ,70,701,70
-City of Bogo,70,702,70
-City of Carcar,70,702,70
-City of Cebu ,73,730,73
-Danao City,70,702,70
-City of Lapu-Lapu,73,731,73
-City of Mandaue,73,731,73
-City of Naga,70,702,70
-City of Talisay,70,702,70
-City of Toledo,70,702,70
-City of Bais,70,704,70
-City of Bayawan,70,704,70
-City of Canlaon,70,704,70
-City of Dumaguete ,70,704,70
-City of Guihulngan,70,704,70
-City of Tanjay,70,704,70
-City of Borongan ,80,802,80
-City of Baybay,80,803,80
-Ormoc City,80,803,80
-City of Tacloban ,83,831,83
-City of Calbayog,80,806,80
-City of Catbalogan ,80,806,80
-City of Maasin ,80,806,80
-City of Dapitan,90,907,90
-City of Dipolog ,90,907,90
-City of Pagadian ,90,907,90
-City of Zamboanga,93,931,93
-City of Isabela,99,990,99
-City of Malaybalay ,10,100,10
-City of Valencia,10,100,10
-City of Iligan,10,103,10
-City of Oroquieta ,10,100,10
-City of Ozamiz,10,100,10
-City of Tangub,10,100,10
-City of Cagayan De Oro ,10,103,10
-City of El Salvador,10,100,10
-City of Gingoog,10,100,10
-City of Panabo,11,110,11
-Island Garden City of Samal,11,110,11
-City of Tagum ,11,110,11
-City of Davao,11,113,11
-City of Digos ,11,110,11
-City of Mati ,11,110,11
-City of Kidapawan ,12,120,12
-City of General Santos,12,123,12
-City of Koronadal ,12,120,12
-City of Tacurong,12,120,12
-City of Manila,13,138,13
-City of Mandaluyong,13,138,13
-City of Marikina,13,138,13
-City of Pasig,13,138,13
-Quezon City,13,138,13
-City of San Juan,13,138,13
-City of Caloocan,13,138,13
-City of Malabon,13,138,13
-City of Navotas,13,138,13
-City of Valenzuela,13,138,13
-City of Las Piñas,13,138,13
-City of Makati,13,138,13
-City of Muntinlupa,13,138,13
-City of Parañaque,13,138,13
-Pasay City,13,138,13
-City of Taguig,13,138,13
-City of Baguio,14,143,14
-City of Tabuk ,14,140,14
-City of Butuan ,16,163,16
-City of Cabadbaran,16,160,16
-City of Bayugan,16,160,16
-City of Surigao ,16,160,16
-City of Bislig,16,160,16
-City of Tandag ,16,160,16
-City of Lamitan ,19,190,19
-City of Marawi ,19,190,19
-City of Cotabato,19,190,19
+City of Batac,05,028,01
+City of Laoag ,12,028,01
+City of Candon,06,029,01
+City of Vigan ,34,029,01
+City of San Fernando ,14,033,01
+City of Alaminos,03,055,01
+City of Dagupan,18,055,01
+City of San Carlos,32,055,01
+City of Urdaneta,46,055,01
+Tuguegarao City ,29,015,02
+City of Cauayan,08,031,02
+City of Ilagan ,14,031,02
+City of Santiago,35,031,02
+City of Balanga ,03,008,03
+City of Baliwag,03,014,03
+City of Malolos ,10,014,03
+City of Meycauayan,12,014,03
+City of San Jose Del Monte,20,014,03
+City of Cabanatuan,03,049,03
+City of Gapan,08,049,03
+Science City of Muñoz,17,049,03
+City of Palayan ,19,049,03
+San Jose City,26,049,03
+City of Angeles,00,301,03
+Mabalacat City,09,054,03
+City of San Fernando ,16,054,03
+City of Tarlac ,16,069,03
+City of Olongapo,00,314,03
+Batangas City ,05,010,04
+City of Calaca,07,010,04
+City of Lipa,14,010,04
+City of Sto. Tomas,28,010,04
+City of Tanauan,31,010,04
+City of Bacoor,03,021,04
+City of Cavite,05,021,04
+City of Dasmariñas,06,021,04
+City of General Trias,08,021,04
+City of Imus,09,021,04
+City of Tagaytay,19,021,04
+City of Trece Martires ,22,021,04
+City of Biñan,03,034,04
+City of Cabuyao,04,034,04
+City of Calamba,05,034,04
+City of San Pablo,24,034,04
+City of San Pedro,25,034,04
+City of Santa Rosa,28,034,04
+City of Lucena ,00,312,04
+City of Tayabas,47,056,04
+City of Antipolo ,02,058,04
+City of Calapan ,05,052,17
+City of Puerto Princesa ,00,315,17
+City of Legazpi ,06,005,05
+City of Ligao,08,005,05
+City of Tabaco,17,005,05
+City of Iriga,16,017,05
+City of Naga,24,017,05
+City of Masbate ,11,041,05
+City of Sorsogon ,16,062,05
+City of Roxas ,14,019,06
+City of Iloilo ,00,310,06
+City of Passi,35,030,06
+City of Bacolod ,00,302,06
+City of Bago,02,045,06
+City of Cadiz,04,045,06
+City of Escalante,09,045,06
+City of Himamaylan,10,045,06
+City of Kabankalan,15,045,06
+City of La Carlota,16,045,06
+City of Sagay,23,045,06
+City of San Carlos,24,045,06
+City of Silay,26,045,06
+City of Sipalay,27,045,06
+City of Talisay,28,045,06
+City of Victorias,31,045,06
+City of Tagbilaran ,42,012,07
+City of Bogo,11,022,07
+City of Carcar,14,022,07
+City of Cebu ,00,306,07
+Danao City,23,022,07
+City of Lapu-Lapu,00,311,07
+City of Mandaue,00,313,07
+City of Naga,34,022,07
+City of Talisay,50,022,07
+City of Toledo,51,022,07
+City of Bais,04,046,07
+City of Bayawan,06,046,07
+City of Canlaon,08,046,07
+City of Dumaguete ,10,046,07
+City of Guihulngan,11,046,07
+City of Tanjay,21,046,07
+City of Borongan ,04,026,08
+City of Baybay,08,037,08
+Ormoc City,38,037,08
+City of Tacloban ,00,316,08
+City of Calbayog,03,060,08
+City of Catbalogan ,05,060,08
+City of Maasin ,07,064,08
+City of Dapitan,01,072,09
+City of Dipolog ,02,072,09
+City of Pagadian ,22,073,09
+City of Zamboanga,00,317,09
+City of Isabela,01,901,09
+City of Malaybalay ,12,013,10
+City of Valencia,21,013,10
+City of Iligan,00,309,10
+City of Oroquieta ,09,042,10
+City of Ozamiz,10,042,10
+City of Tangub,15,042,10
+City of Cagayan De Oro ,00,305,10
+City of El Salvador,07,043,10
+City of Gingoog,08,043,10
+City of Panabo,15,023,11
+Island Garden City of Samal,17,023,11
+City of Tagum ,19,023,11
+City of Davao,00,307,11
+City of Digos ,03,024,11
+City of Mati ,09,025,11
+City of Kidapawan ,04,047,12
+City of General Santos,00,308,12
+City of Koronadal ,06,063,12
+City of Tacurong,11,065,12
+City of Manila,00,806,13
+City of Mandaluyong,00,805,13
+City of Marikina,00,807,13
+City of Pasig,00,812,13
+Quezon City,00,813,13
+City of San Juan,00,814,13
+City of Caloocan,00,801,13
+City of Malabon,00,804,13
+City of Navotas,00,809,13
+City of Valenzuela,00,816,13
+City of Las Piñas,00,802,13
+City of Makati,00,803,13
+City of Muntinlupa,00,808,13
+City of Parañaque,00,810,13
+Pasay City,00,811,13
+City of Taguig,00,815,13
+City of Baguio,00,303,14
+City of Tabuk ,13,032,14
+City of Butuan ,00,304,16
+City of Cabadbaran,03,002,16
+City of Bayugan,01,003,16
+City of Surigao ,24,067,16
+City of Bislig,03,068,16
+City of Tandag ,19,068,16
+City of Lamitan ,02,007,19
+City of Marawi ,17,036,19
+City of Cotabato,03,087,19
