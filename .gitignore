@@ -1,0 +1,57 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.env/
+.venv3/
+.venv35/
+.venv36/
+.venv37/
+.venv38/
+.venv39/
+.python-version
+
+# Pipenv
+Pipfile.lock
+
+# IDE files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+
+# Compiled Python modules
+*.pyc
+*.pyo
+*.pyd
+
+# Test coverage
+htmlcov/
+.coverage
+.coverage.*
+.cache
+
+# Dependency directories
+env/
+lib/
+libs/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+dist/
+build/
+*.egg-info/
+.installed.cfg
+*.egg
